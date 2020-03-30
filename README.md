@@ -34,7 +34,40 @@ https://alexgibson.github.io/shake.js/
 TRANSCODING 2
 **FACE**
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
+### My Great Heading
+
+~~The world is flat.~~ We now know that the world is round.
+
+[I'm an inline-style link](https://www.google.com)
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
+Three or more...
+
+---
+
+Hyphens
+
+***
+
+Asterisks
+
+___
+
+Underscores
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+Gone camping! :tent: Be back soon.
+
+That is so funny! :joy:
