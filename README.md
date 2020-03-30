@@ -33,3 +33,8 @@ https://alexgibson.github.io/shake.js/
 ##
 TRANSCODING 2
 **FACE**
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
