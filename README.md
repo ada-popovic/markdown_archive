@@ -106,8 +106,12 @@ In an analogue version each globe would have a small transparent opening at the 
 In a digital version the construction would rely on randomly selected words from a few array (one array for each globe).
 
 
-![Disney's multi-level snow globe](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2a3a5cbc-6dbd-4ac8-94f8-7bd0ffee25e8/cf545a36f6134384d2a248c462a4c4ee.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200406%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200406T075608Z&X-Amz-Expires=86400&X-Amz-Signature=09929836c4312046aee94669199620adf0a52509aa0582d768b412205291ffdf&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22cf545a36f6134384d2a248c462a4c4ee.jpg%22)
-Disney's multi-level snow globe
+<!-- ![Disney's multi-level snow globe](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2a3a5cbc-6dbd-4ac8-94f8-7bd0ffee25e8/cf545a36f6134384d2a248c462a4c4ee.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200406%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200406T075608Z&X-Amz-Expires=86400&X-Amz-Signature=09929836c4312046aee94669199620adf0a52509aa0582d768b412205291ffdf&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22cf545a36f6134384d2a248c462a4c4ee.jpg%22)
+Disney's multi-level snow globe -->
+
+| ![Disney's multi-level snow globe](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2a3a5cbc-6dbd-4ac8-94f8-7bd0ffee25e8/cf545a36f6134384d2a248c462a4c4ee.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200406%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200406T075608Z&X-Amz-Expires=86400&X-Amz-Signature=09929836c4312046aee94669199620adf0a52509aa0582d768b412205291ffdf&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22cf545a36f6134384d2a248c462a4c4ee.jpg%22) |
+|:--:|
+| *Disney's multi-level snow globe* |
 
 ![Disney's multi-level snow globe](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a8ecc632-d0db-44cd-81fa-5c7208e3e2a4/4841f9634d8d6121a47a58fd9a7ee762.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200406%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200406T075720Z&X-Amz-Expires=86400&X-Amz-Signature=fd5d8cd9cdfdb3a0e31fbbbad935de4025f31bfdb681322b7a2a4faa81c1c863&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%224841f9634d8d6121a47a58fd9a7ee762.jpg%22)
 Disney's multi-level snow globe
