@@ -82,7 +82,8 @@ Original image on IISG website
 
 # Transcodings
 
-| TRANSCODING| 1 - SPEED OF SNOW | 2 - TYPOLOGY OF TRANSPARENCY |
+| TRANSCODING | 1 - SPEED OF SNOW | 2 - TYPOLOGY OF TRANSPARENCY |
+| :---        |    :----:   |    :----:   |
 | PURPOSE | - | - |
 | LAYER | - | - |
 | INPUT | - | - |
