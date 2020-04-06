@@ -21,7 +21,7 @@ Asking (while not necessarily answering), those and other questions is the main 
   - [Graph of all transcodings](#Graph-of-all-transcodings)
   - [Transcoding 1 - SPEED OF SNOW](#Transcoding-1---SPEED-OF-SNOW)
   - [Transcoding 2 - TYPOLOGY OF TRANSPARENCY](#Transcoding-2---TYPOLOGY-OF-TRANSPARENCY)
-  - [Transcoding 3 - SNOW GLOBE AS A STORYTELLING DEVICE](#Transcoding-3---SNOW-GLOBE-AS-A-STORYTELLING)
+  - [Transcoding 3 - SNOW GLOBE AS A STORYTELLING DEVICE](#Transcoding-3---SNOW-GLOBE-AS-A-STORYTELLING-DEVICE)
   - [Transcoding 4 - SAMPLED SOUND OF THE SNOW GLOBE](#Transcoding-4---SAMPLED-SOUND-OF-THE-SNOW)
   - [Transcoding 5 - PRESERVING THE SHAKE](#Transcoding-5---PRESERVING-THE-SHAKE)
 5. [Final thoughts?](#Final-thoughts)
@@ -82,14 +82,14 @@ Original image on IISG website
 
 # Transcodings
 
-| TRANSCODING | 1 - SPEED OF SNOW | 2 - TYPOLOGY OF TRANSPARENCY |
+| TRANSCODING | 1 - SPEED OF SNOW | 2 - TYPOLOGY OF TRANSPARENCY | 2 - SNOW GLOBE AS A STORYTELLING DEVICE |
 | :---        |    :----:   |    :----:   |
-| PURPOSE | explaining how the speed of snow impacts the emotional response and visual association | showing how type of transparent material impacts the perceived value of a packaged object |
-| LAYER | snow | globe |
-| INPUT | - | - |
-| OUTPUT | - | - |
-| MEDIUM | website | - |
-| TOOL | slider controlling the speed of snow and responding with appropriate imagery | display piece |
+| PURPOSE | explaining how the speed of snow impacts the emotional response and visual association | showing how type of transparent material impacts the perceived value of a packaged object | exploring the possibilities of repurposing an snow globe as an object  |
+| LAYER | snow | globe | snow globe |
+| INPUT | - | - | - |
+| OUTPUT | - | - | - |
+| MEDIUM | website | - | virtual space/website |
+| TOOL | slider controlling the speed of snow and responding with appropriate imagery | display piece | poetry generator |
 
 ### Graph of all transcodings
 
@@ -97,7 +97,7 @@ Original image on IISG website
 
 ### Transcoding 1 - SPEED OF SNOW
 ### Transcoding 2 - TYPOLOGY OF TRANSPARENCY
-### Transcoding 3 - SNOW GLOBE AS A STORYTELLING
+### Transcoding 3 - SNOW GLOBE AS A STORYTELLING DEVICE
 ### Transcoding 4 - SAMPLED SOUND OF THE SNOW
 ### Transcoding 5 - PRESERVING THE SHAKE
 
