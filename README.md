@@ -12,8 +12,8 @@ Asking (while not necessarily answering), those and other questions is the main 
 # Table of Contents
 
 1. [Links](#Links)
-2. [Archive's description](# Archive's description)
-3. [Layers of the object](#Layers of the object)
+2. [Archive's description](# Archive's-description)
+3. [Layers of the object](#Layers-of-the-object)
   - [Main Layers](### Main Layers)
   - [Material Layers](### Material Layers)
 4. [Meta Themes](#Meta Themes)
@@ -62,16 +62,17 @@ Original image on IISG website
 # Layers of the object
 
 - ### Main Layers
+  - SNOW GLOBE
+  - MARX AND ENGELS
+  - SCHNEE VAN GESTERN
 
 - ### Material Layers
-
-***
-
-# Meta Themes
-
-***
-
-# Layers of the object
+  - TRANSPARENT GLOBE
+  - BASE
+  - LIQUID
+  - SNOW
+  - FIGURINE
+  - CAPTION
 
 ***
 
