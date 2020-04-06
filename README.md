@@ -61,12 +61,12 @@ Original image on IISG website
 
 # Layers of the object
 
-- ### Main Layers
+### Main Layers
   - SNOW GLOBE
   - MARX AND ENGELS
-  - SCHNEE VAN GESTERN
+  - SCHNEE VAN GESTERN?
 
-- ### Material Layers
+### Material Layers
   - TRANSPARENT GLOBE
   - BASE
   - LIQUID
@@ -82,7 +82,17 @@ Original image on IISG website
 
 # Transcodings
 
+| TRANSCODING| 1 - SPEED OF SNOW | 2 - TYPOLOGY OF TRANSPARENCY |
+| PURPOSE | - | - |
+| LAYER | - | - |
+| INPUT | - | - |
+| OUTPUT | - | - |
+| MEDIUM | - | - |
+| TOOL | - | - |
+
 ### Graph of all transcodings
+
+
 
 ### Transcoding 1 - SPEED OF SNOW
 ### Transcoding 2 - TYPOLOGY OF TRANSPARENCY
