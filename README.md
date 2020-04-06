@@ -84,12 +84,12 @@ Original image on IISG website
 
 | TRANSCODING | 1 - SPEED OF SNOW | 2 - TYPOLOGY OF TRANSPARENCY |
 | :---        |    :----:   |    :----:   |
-| PURPOSE | explaining how the speed of snow impacts the emotional response and visual association | - |
-| LAYER | snow | - |
+| PURPOSE | explaining how the speed of snow impacts the emotional response and visual association | showing how type of transparent material impacts the perceived value of a packaged object |
+| LAYER | snow | globe |
 | INPUT | - | - |
 | OUTPUT | - | - |
 | MEDIUM | website | - |
-| TOOL | slider controlling the speed of snow and responding with appropriate imagery | - |
+| TOOL | slider controlling the speed of snow and responding with appropriate imagery | display piece |
 
 ### Graph of all transcodings
 
