@@ -19,7 +19,7 @@ Asking (while not necessarily answering), those and other questions is the main 
 4. [Meta Themes](#Meta-Themes)
 5. [Transcodings](#Transcodings)
   - [Graph of all transcodings](###Graph-of-all-transcodings)
-  - [Transcoding 1 - SPEED OF SNOW](###Transcoding-1-|-SPEED OF-SNOW)
+  - [Transcoding 1 - SPEED OF SNOW](###Transcoding-1-SPEED-OF-SNOW)
   - [Transcoding 2 - TYPOLOGY OF TRANSPARENCY](###Transcoding 2)
   - [Transcoding 3 - SNOW GLOBE AS A STORYTELLING DEVICE](###Transcoding 3)
   - [Transcoding 4 - SAMPLED SOUND OF THE SNOW GLOBE](###Transcoding 4)
@@ -84,7 +84,7 @@ Original image on IISG website
 
 ### Graph of all transcodings
 
-### Transcoding 1|SPEED OF SNOW
+### Transcoding 1 SPEED OF SNOW
 ### Transcoding 2
 ### Transcoding 3
 ### Transcoding 4
