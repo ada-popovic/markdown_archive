@@ -82,8 +82,8 @@ Original image on IISG website
 
 # Transcodings
 
-| TRANSCODING | 1 - SPEED OF SNOW | 2 - TYPOLOGY OF TRANSPARENCY | 2 - SNOW GLOBE AS A STORYTELLING DEVICE |
-| :---        |    :----:   |    :----:   |
+| TRANSCODING | 1 - SPEED OF SNOW | 2 - TYPOLOGY OF TRANSPARENCY | 3 - SNOW GLOBE AS A STORYTELLING DEVICE |
+| :---        |    :----:   |    :----:   |    :----:   |
 | PURPOSE | explaining how the speed of snow impacts the emotional response and visual association | showing how type of transparent material impacts the perceived value of a packaged object | exploring the possibilities of repurposing an snow globe as an object  |
 | LAYER | snow | globe | snow globe |
 | INPUT | - | - | - |
