@@ -11,7 +11,7 @@ Asking (while not necessarily answering), those and other questions is the main 
 
 ## Table of Contents
 
-1. [Links](#example)
+1. [Links](#links)
 2. [Example2](#ex)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
