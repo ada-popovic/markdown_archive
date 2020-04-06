@@ -84,12 +84,12 @@ Original image on IISG website
 
 | TRANSCODING | 1 - SPEED OF SNOW | 2 - TYPOLOGY OF TRANSPARENCY |
 | :---        |    :----:   |    :----:   |
-| PURPOSE | - | - |
-| LAYER | - | - |
+| PURPOSE | explaining how the speed of snow impacts the emotional response and visual association | - |
+| LAYER | snow | - |
 | INPUT | - | - |
 | OUTPUT | - | - |
-| MEDIUM | - | - |
-| TOOL | - | - |
+| MEDIUM | website | - |
+| TOOL | slider controlling the speed of snow and responding with appropriate imagery | - |
 
 ### Graph of all transcodings
 
