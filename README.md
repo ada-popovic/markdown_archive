@@ -84,7 +84,7 @@ Original image on IISG website
 
 ### Graph of all transcodings
 
-### Transcoding 1 - SPEED OF SNOW
+### ###Transcoding-1-|-SPEED OF-SNOW
 ### Transcoding 2
 ### Transcoding 3
 ### Transcoding 4
