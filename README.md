@@ -9,11 +9,11 @@ Asking (while not necessarily answering), those and other questions is the main 
 
 ***
 
-## Table of Contents
+# Table of Contents
 
 1. [Links](#Links)
 2. [Archive's description](# Archive's description)
-3. [Layers of the object](#Layersoftheobject)
+3. [Layers of the object](#Layers of the object)
   - [Main Layers](### Main Layers)
   - [Material Layers](### Material Layers)
 4. [Meta Themes](#Meta Themes)
@@ -28,12 +28,13 @@ Asking (while not necessarily answering), those and other questions is the main 
 6. [Sources](#Sources)
 
 
-## Links
+# Links
 
 - [Notion research](https://www.notion.so/adapopovic/c28c5efb279243d5a5a3e5970b92a794?v=9ff0c4775286426a904d91e0b145b163)
 
 - [IISG record](https://search.iisg.amsterdam/Record/991455)
 
+***
 
 # Archive's description
 
@@ -56,19 +57,26 @@ Original image on IISG website
 | Subject   | Portrait      |
 | Subject Location   | Germany     |
 
+***
 
-#Layersoftheobject
+# Layers of the object
 
 - ### Material Layers
 
 
 - ### Meta Themes
 
-## Layers of the object
+***
 
-## Meta Themes
+# Layers of the object
 
-## Transcodings
+***
+
+# Meta Themes
+
+***
+
+# Transcodings
 
 ### Graph of all transcodings
 
@@ -77,3 +85,11 @@ Original image on IISG website
 ### Transcoding 3
 ### Transcoding 4
 ### Transcoding 5
+
+***
+
+# Final thoughts
+
+***
+
+# Sources
