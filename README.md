@@ -61,10 +61,13 @@ Original image on IISG website
 
 # Layers of the object
 
+- ### Main Layers
+
 - ### Material Layers
 
+***
 
-- ### Meta Themes
+# Meta Themes
 
 ***
 
