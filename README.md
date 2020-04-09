@@ -12,7 +12,7 @@ Asking (while not necessarily answering), those and other questions is the main 
 # Table of Contents
 
 1. [Links](#Links)
-2. [Archive's description](#Archives-description)
+2. [Archive's description](#Archive's-description)
 3. [Layers of the object](#Layers-of-the-object)
   - [Main Layers](#Main-Layers)
   - [Material Layers](#Material-Layers)
@@ -36,7 +36,7 @@ Asking (while not necessarily answering), those and other questions is the main 
 
 ***
 
-# Archives description
+# Archive's description
 
 ![Original image on IISG website](/assets/original.jpeg "Schnee von gestern?")
 
