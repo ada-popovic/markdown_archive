@@ -22,7 +22,7 @@ Asking (while not necessarily answering), those and other questions is the main 
   - [Transcoding 1 - SPEED OF SNOW](#Transcoding-1---SPEED-OF-SNOW)
   - [Transcoding 2 - TYPOLOGY OF TRANSPARENCY](#Transcoding-2---TYPOLOGY-OF-TRANSPARENCY)
   - [Transcoding 3 - SNOW GLOBE AS A STORYTELLING DEVICE](#Transcoding-3---SNOW-GLOBE-AS-A-STORYTELLING-DEVICE)
-  - [Transcoding 4 - THE MISTAKEN ETCHING GLOBE](#Transcoding-4---THE-MISTAKEN-ETCHING)
+  - [Transcoding 4 - THE MISTAKEN ETCHING](#Transcoding-4---THE-MISTAKEN-ETCHING)
   - [Transcoding 5 - SAMPLED SOUND OF THE SNOW GLOBE](#Transcoding-4---SAMPLED-SOUND-OF-THE-SNOW)
   - [Transcoding 6 - PRESERVING THE SHAKE](#Transcoding-5---PRESERVING-THE-SHAKE)
 5. [Final thoughts?](#Final-thoughts)
