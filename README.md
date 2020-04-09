@@ -23,8 +23,8 @@ Asking (while not necessarily answering), those and other questions is the main 
   - [Transcoding 2 - TYPOLOGY OF TRANSPARENCY](#Transcoding-2---TYPOLOGY-OF-TRANSPARENCY)
   - [Transcoding 3 - SNOW GLOBE AS A STORYTELLING DEVICE](#Transcoding-3---SNOW-GLOBE-AS-A-STORYTELLING-DEVICE)
   - [Transcoding 4 - THE MISTAKEN ETCHING](#Transcoding-4---THE-MISTAKEN-ETCHING)
-  - [Transcoding 5 - SAMPLED SOUND OF THE SNOW GLOBE](#Transcoding-4---SAMPLED-SOUND-OF-THE-SNOW)
-  - [Transcoding 6 - PRESERVING THE SHAKE](#Transcoding-5---PRESERVING-THE-SHAKE)
+  - [Transcoding 5 - SAMPLED SOUND OF THE SNOW GLOBE](#Transcoding-5---SAMPLED-SOUND-OF-THE-SNOW)
+  - [Transcoding 6 - PRESERVING THE SHAKE](#Transcoding-6---PRESERVING-THE-SHAKE)
 5. [Final thoughts?](#Final-thoughts)
 6. [Sources](#Sources)
 
@@ -100,6 +100,7 @@ Original image on IISG website
 ### Transcoding 2 - TYPOLOGY OF TRANSPARENCY
 ### Transcoding 3 - SNOW GLOBE AS A STORYTELLING DEVICE
 
+
 Usually snow globe has only imagery inside of it (as in pictures or sculptures). In this transcoding I would like to not only put words into the globe, but also through multi-level construction allow for arbitrary narrative creation. Each small globe within a greater construction would be similar to a Magic8Ball.
 
 In an analogue version each globe would have a small transparent opening at the top and a dice inside of it. After the globe has been shook one of the sides of the dice floats to the top, revealing a word. Among other consecutive words a narrative is created.
@@ -123,9 +124,9 @@ Use of crystal divination ball
 ![Divination ball](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/52a88055-0cff-4c49-821b-7018aaef392e/Magic-8-Ball-101.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200406%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200406T075843Z&X-Amz-Expires=86400&X-Amz-Signature=744498e3f6f5196beda854947869c86975a78f9681e5cda6a971b70ec3ae564f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Magic-8-Ball-101.jpg%22)
 Magic8Ball
 
-### Transcoding 5 - THE MISTAKEN ETCHING
-### Transcoding 6 - SAMPLED SOUND OF THE SNOW
-### Transcoding 7 - PRESERVING THE SHAKE
+### Transcoding 4 - THE MISTAKEN ETCHING
+### Transcoding 5 - SAMPLED SOUND OF THE SNOW
+### Transcoding 6 - PRESERVING THE SHAKE
 
 ***
 
