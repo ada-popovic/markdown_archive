@@ -171,6 +171,7 @@ Plural
 
 
 # Transcoding 4 - THE MISTAKEN ETCHING
+https://www.notion.so/adapopovic/TRANSCODING-4-MISTAKEN-ETCHING-f4109982b7e446f28c8795d05eddcf01
 # Transcoding 5 - SAMPLED SOUND OF THE SNOW
 # Transcoding 6 - PRESERVING THE SHAKE
 
