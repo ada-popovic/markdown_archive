@@ -124,11 +124,13 @@ Proposal of what the label put on the package could be. The title of the product
 
 # Transcoding 3 - SNOW GLOBE AS A STORYTELLING DEVICE
 
-| ELEMENT     | DESCRIPTION
+| ELEMENT     | DESCRIPTION |
 | :---        |    :----   |
 | PURPOSE | Showing the possibilities the format of the snow globes offers for repurposing it as an object of new use. |
 | METHOD | Arranging excerpts from Marx's *Kapital* into new sentences|
 | LAYER | hhh |
+
+https://ada-popovic.github.io/markdown_archive/capital/
 
 Usually snow globe has only image-based content inside of it (as in pictures or sculptures). In this transcoding I would like to not only put words into the globe, but also through multi-level construction allow for arbitrary narrative creation. Each small globe within a greater construction would be similar to a Magic8Ball.
 
@@ -136,8 +138,36 @@ In an analogue version each globe would have a small transparent opening at the 
 
 In a digital version the construction would rely on randomly selected words from a few array (one array for each globe).
 
+### Selection of quotes from *Das Kapital*
 
+“Education is free. Freedoom of education shall be enjoyed under the condition fixed by law and under the supreme control of the state”
 
+“As, in religion, man is governed by the products of his own brain, so in capitalistic production, he is governed by the products of his own hand.10”
+
+“Perseus wore a magic cap down over his eyes and ears as a make-believe that there are no monsters.”
+
+"Work, thrift and greed are therefore his three cardinal virtues."
+
+### Nouns
+
+Singular
+- education
+- freedom
+- law
+- state
+- religion
+- brain
+- hand
+- perseus
+- magic cap
+- work
+- thrift
+- greed
+
+Plural
+- products
+- virtues
+- monsters
 
 
 # Transcoding 4 - THE MISTAKEN ETCHING
