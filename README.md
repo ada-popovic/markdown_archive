@@ -123,8 +123,8 @@ Proposal of what the label put on the package could be. The title of the product
 
 # Transcoding 3 - SNOW GLOBE AS A STORYTELLING DEVICE
 
-| ELEMENT     | DESCRIPTION
-| :---        |    :----   |    :----   |
+| ELEMENT     | DESCRIPTION |
+| :---        |    :----   |
 | PURPOSE | Showing the possibilities the format of the snow globes offers for repurposing it as an object of new use. |
 | METHOD | Arranging excerpts from Marx's *Kapital* into new sentences|
 | LAYER | hhh |
