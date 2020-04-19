@@ -174,6 +174,8 @@ Plural
 # Transcoding 5 - SAMPLED SOUND OF THE SNOW
 # Transcoding 6 - PRESERVING THE SHAKE
 
+https://ada-popovic.github.io/markdown_archive/shake/
+
 ***
 
 # Final thoughts
