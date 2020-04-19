@@ -96,12 +96,14 @@ Original image on IISG website
 
 
 
-### Transcoding 1 - SPEED OF SNOW
-### Transcoding 2 - TYPOLOGY OF TRANSPARENCY
+# Transcoding 1 - SPEED OF SNOW
+# Transcoding 2 - TYPOLOGY OF TRANSPARENCY
 
-| PURPOSE     | METHOD | LAYER |
+| ELEMENT     | DESCRIPTION
 | :---        |    :----   |    :----   |
-| showing how the type of a transparent material impacts the perceived value of the packaged object   | putting a 3D printed representation of Larl Marx in different kinds of plastic and glass packages| globe    |
+| PURPOSE | Showing how the type of a transparent material impacts the perceived value of the packaged object.    |
+| METHOD | Putting a 3D printed representation of Larl Marx in different kinds of plastic and glass packages. |
+| LAYER | Globe |
 
 
 | ![](/assets/T1/marx_plastics.jpg "Selection of materials") |![](/assets/T1/marx_labels.jpg "Mock-up of what the final result might be") |
@@ -119,10 +121,15 @@ Proposal of what the label put on the package could be. The title of the product
 - What do you think about the label?
 - How could I use the barcode?
 
-### Transcoding 3 - SNOW GLOBE AS A STORYTELLING DEVICE
+# Transcoding 3 - SNOW GLOBE AS A STORYTELLING DEVICE
 
+| ELEMENT     | DESCRIPTION
+| :---        |    :----   |    :----   |
+| PURPOSE | Showing the possibilities the format of the snoglobes offers for repurposing it as an object of new use. |
+| METHOD | Arranging excerpts from Marx's *Kapital* into new sentences|
+| LAYER |  |
 
-Usually snow globe has only imagery inside of it (as in pictures or sculptures). In this transcoding I would like to not only put words into the globe, but also through multi-level construction allow for arbitrary narrative creation. Each small globe within a greater construction would be similar to a Magic8Ball.
+Usually snow globe has only image-based content inside of it (as in pictures or sculptures). In this transcoding I would like to not only put words into the globe, but also through multi-level construction allow for arbitrary narrative creation. Each small globe within a greater construction would be similar to a Magic8Ball.
 
 In an analogue version each globe would have a small transparent opening at the top and a dice inside of it. After the globe has been shook one of the sides of the dice floats to the top, revealing a word. Among other consecutive words a narrative is created.
 
@@ -145,9 +152,9 @@ Use of crystal divination ball
 ![Divination ball](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/52a88055-0cff-4c49-821b-7018aaef392e/Magic-8-Ball-101.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200406%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200406T075843Z&X-Amz-Expires=86400&X-Amz-Signature=744498e3f6f5196beda854947869c86975a78f9681e5cda6a971b70ec3ae564f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Magic-8-Ball-101.jpg%22)
 Magic8Ball
 
-### Transcoding 4 - THE MISTAKEN ETCHING
-### Transcoding 5 - SAMPLED SOUND OF THE SNOW
-### Transcoding 6 - PRESERVING THE SHAKE
+# Transcoding 4 - THE MISTAKEN ETCHING
+# Transcoding 5 - SAMPLED SOUND OF THE SNOW
+# Transcoding 6 - PRESERVING THE SHAKE
 
 ***
 
