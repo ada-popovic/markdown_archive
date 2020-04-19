@@ -100,10 +100,11 @@ Original image on IISG website
 # Transcoding 2 - TYPOLOGY OF TRANSPARENCY
 
 | ELEMENT     | DESCRIPTION
-| :---        |    :----   |    :----   |
+| :---        |    :----   |
 | PURPOSE | Showing how the type of a transparent material impacts the perceived value of the packaged object.    |
-| METHOD | Putting a 3D printed representation of Larl Marx in different kinds of plastic and glass packages. |
+| METHOD | Putting a 3D printed representation of Larl Marx in different kinds of plastic and glass packages.|
 | LAYER | Globe |
+
 
 
 | ![](/assets/T1/marx_plastics.jpg "Selection of materials") |![](/assets/T1/marx_labels.jpg "Mock-up of what the final result might be") |
@@ -123,7 +124,7 @@ Proposal of what the label put on the package could be. The title of the product
 
 # Transcoding 3 - SNOW GLOBE AS A STORYTELLING DEVICE
 
-| ELEMENT     | DESCRIPTION |
+| ELEMENT     | DESCRIPTION
 | :---        |    :----   |
 | PURPOSE | Showing the possibilities the format of the snow globes offers for repurposing it as an object of new use. |
 | METHOD | Arranging excerpts from Marx's *Kapital* into new sentences|
@@ -136,21 +137,8 @@ In an analogue version each globe would have a small transparent opening at the 
 In a digital version the construction would rely on randomly selected words from a few array (one array for each globe).
 
 
-<!-- ![Disney's multi-level snow globe](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2a3a5cbc-6dbd-4ac8-94f8-7bd0ffee25e8/cf545a36f6134384d2a248c462a4c4ee.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200406%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200406T075608Z&X-Amz-Expires=86400&X-Amz-Signature=09929836c4312046aee94669199620adf0a52509aa0582d768b412205291ffdf&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22cf545a36f6134384d2a248c462a4c4ee.jpg%22)
-Disney's multi-level snow globe -->
 
-| ![Disney's multi-level snow globe](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2a3a5cbc-6dbd-4ac8-94f8-7bd0ffee25e8/cf545a36f6134384d2a248c462a4c4ee.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200406%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200406T075608Z&X-Amz-Expires=86400&X-Amz-Signature=09929836c4312046aee94669199620adf0a52509aa0582d768b412205291ffdf&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22cf545a36f6134384d2a248c462a4c4ee.jpg%22) |
-|:--:|
-| *Disney's multi-level snow globe* |
 
-![Disney's multi-level snow globe](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a8ecc632-d0db-44cd-81fa-5c7208e3e2a4/4841f9634d8d6121a47a58fd9a7ee762.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200406%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200406T075720Z&X-Amz-Expires=86400&X-Amz-Signature=fd5d8cd9cdfdb3a0e31fbbbad935de4025f31bfdb681322b7a2a4faa81c1c863&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%224841f9634d8d6121a47a58fd9a7ee762.jpg%22)
-Disney's multi-level snow globe
-
-![Divination ball](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a32510a1-966b-4c3b-959c-3dca5f5155b5/51bccb9f87cd5427aea2d589732b6eea.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200406%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200406T075849Z&X-Amz-Expires=86400&X-Amz-Signature=929261ed1079fd6cea36974a7b9ec2c01954663b370fe7fac4121b5c1f1e3711&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%2251bccb9f87cd5427aea2d589732b6eea.jpg%22)
-Use of crystal divination ball
-
-![Divination ball](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/52a88055-0cff-4c49-821b-7018aaef392e/Magic-8-Ball-101.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200406%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200406T075843Z&X-Amz-Expires=86400&X-Amz-Signature=744498e3f6f5196beda854947869c86975a78f9681e5cda6a971b70ec3ae564f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Magic-8-Ball-101.jpg%22)
-Magic8Ball
 
 # Transcoding 4 - THE MISTAKEN ETCHING
 # Transcoding 5 - SAMPLED SOUND OF THE SNOW
