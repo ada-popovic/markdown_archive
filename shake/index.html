@@ -7,7 +7,7 @@
 <title>snow speed try-out</title>
 <style type="text/css">
 body {
-    color: red;
+    color: black;
     font: 1em/1.3em "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif; /* 16px / 21px */
     text-align: center;
 }
@@ -15,14 +15,24 @@ body {
 .square{
   display: inline-block;
   position: absolute;
-  background-color: green;
+  background-color: black;
   width:100%;
-  height:100%;
-  margin-left: 0%;
+  height:120%;
+  font-size: 4em;
+  margin-left: -50%;
   margin-top: 0%;
-  color: blue;
-  background-image:url("snownorm.png");
+  /* background-image:url("snownorm.png"); */
   background-repeat: no-repeat;
+  z-index: -100;
+}
+
+.snow{
+  font-size: 4em;
+  margin-left: -50%;
+  margin-top: 30%;
+  color: black;
+  z-index: 100;
+
 }
 </style>
 <script type="text/javascript" src="shake.js"></script>
@@ -31,6 +41,7 @@ body {
 
 <h1>Shake for snow</h1>
 <div class="square" id="square"></div>
+<div class="snow" id="snow"> SNOW!</div>
 
 
 <script type="text/javascript">
@@ -52,8 +63,8 @@ window.onload = function() {
 
         //put your own code here etc.
         // alert('snow!');
-        // document.getElementById("square").style.backgroundColor = "blue";
-        document.getElementById("square").style.backgroundImage = "url("snowfall.gif")";
+        document.getElementById("square").style.backgroundColor = "white";
+        // document.getElementById("square").style.backgroundImage = "url("snowfall.gif")";
 
     }
 };
