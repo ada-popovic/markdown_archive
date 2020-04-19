@@ -125,9 +125,9 @@ Proposal of what the label put on the package could be. The title of the product
 
 | ELEMENT     | DESCRIPTION
 | :---        |    :----   |    :----   |
-| PURPOSE | Showing the possibilities the format of the snoglobes offers for repurposing it as an object of new use. |
+| PURPOSE | Showing the possibilities the format of the snow globes offers for repurposing it as an object of new use. |
 | METHOD | Arranging excerpts from Marx's *Kapital* into new sentences|
-| LAYER |  |
+| LAYER | hhh |
 
 Usually snow globe has only image-based content inside of it (as in pictures or sculptures). In this transcoding I would like to not only put words into the globe, but also through multi-level construction allow for arbitrary narrative creation. Each small globe within a greater construction would be similar to a Magic8Ball.
 
