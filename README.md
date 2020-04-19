@@ -98,6 +98,27 @@ Original image on IISG website
 
 ### Transcoding 1 - SPEED OF SNOW
 ### Transcoding 2 - TYPOLOGY OF TRANSPARENCY
+
+| PURPOSE     | METHOD | LAYER |
+| :---        |    :----   |    :----   |
+| showing how the type of a transparent material impacts the perceived value of the packaged object   | putting a 3D printed representation of Larl Marx in different kinds of plastic and glass packages| globe    |
+
+
+| ![](/assets/T1/marx_plastics.jpg "Selection of materials") |![](/assets/T1/marx_labels.jpg "Mock-up of what the final result might be") |
+|:--:|:--:|
+| *Selection of materials* | *Mock-up of what the final result might be* |
+
+![](/assets/T1/label.jpg "Selection of materials")
+Proposal of what the label put on the package could be. The title of the product ('Schnnee von gestern?') is teh same as the typography on th eoriginal artefact and the title of the archive. The barcode text was replaced with the original number of the artefact from the IISG archive.
+
+![](/assets/T1/marx_model.jpg "Selection of materials")
+3D model of Marx (to be printed)
+
+### Questions:
+- Should I just print one head of Marx or different size depending on the package?
+- What do you think about the label?
+- How could I use the barcode?
+
 ### Transcoding 3 - SNOW GLOBE AS A STORYTELLING DEVICE
 
 
