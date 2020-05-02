@@ -119,6 +119,41 @@ Generally speaking, snow operates on the border of seductive magicality and cold
 
 ## Snowglobe
 
+As snow exists somewhere between magical dust and natural disaster, so does an object of a snowglobe position itself on the border of cheap tchotchke and priceless memorabilia.
+
+### Layers
+
+Every snowglobe consists of the following layers:
+
+> The Name
+
+known as snow domes , snow shakers, water domes, water balls, snow scenes and blizzard weights
+
+**The Snow Material**
+
+The ''snow'' was made of ground rice, bone, ceramic, camphor and wax or porcelain; today it is almost always tiny bits of plastic.
+
+- isn't that accurate? it used to be snowing snow, but now, because of our need to own things, it snowing plastic.
+
+how accurate is it that in the majority of mainstream snowglobes, which are supposed to be reminiscent of a magical event of snow globe, it already snows plastic (instead more natural materials like rice, wax, bone). Perhaps one day the snow on our Earth globe will follow. As the natural occurence of snow decreasee, the amount of plastic covering our planet increases.
+
+One of our unique designs included a 120mm snowglobe on a solid silver base which was given to President Bill Clinton. The snowglobe **contained the original confetti which was thrown at his inauguration party.**
+
+![Penguin](/assets/original.jpeg "Schnee von gestern?")
+![Glitter](/assets/original.jpeg "Schnee von gestern?")
+![Mars](/assets/original.jpeg "Schnee von gestern?")
+![Love](/assets/original.jpeg "Schnee von gestern?")
+![Honey](/assets/original.jpeg "Schnee von gestern?")
+![Halloween](/assets/original.jpeg "Schnee von gestern?")
+
+## THE LIQUID
+
+> In the 1960's, several children got sick when they drank the contents of domes filled with polluted water taken directly from Hong Kong Harbor. In the 1950's, one manufacturer, finding that water froze when his inventory was being shipped, began adding antifreeze. Today, many manufacturers still add potentially lethal chemicals to prevent freezing and to thicken the water so the flakes drift through slowly.
+
+- there were dome send from canada that had liquid metaamphetamine in it
+-
+-
+- [https://edition.cnn.com/2019/07/26/world/liquid-meth-snow-globes-australia-trnd/index.html](https://edition.cnn.com/2019/07/26/world/liquid-meth-snow-globes-australia-trnd/index.html)
 
 # The Subject
 
