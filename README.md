@@ -35,8 +35,7 @@ Asking (while not necessarily answering), those and other questions is the main 
 | **Subject Person** | Marx, Karl Engels, Friedrich
 | **Subject** | Portrait
 | **Subject Location** | Germany
-|![Original image on IISG website](/assets/original.jpeg "Schnee von gestern?")|
-The image represents 
+|![Original image on IISG website](/assets/original.jpeg "Schnee von gestern?")| The image represents
 
 
 This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below.
