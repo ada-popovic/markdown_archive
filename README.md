@@ -27,18 +27,12 @@ Asking (while not necessarily answering), those and other questions is the main 
 | Tag | Data |  
 |--|--|
 **IISG BG K21/144** | [IISG BG K21/144](https://search.iisg.amsterdam/Record/991455)
-| **Designer** | Clay, Genet
-| **Period** | 1988-1993
-| **Physical Description** | Glass.
-| **Genres** | Object
-| **Note** | Snow-globe with Marx en Engels in black snow.
-| **Subject Person** | Marx, Karl Engels, Friedrich
-| **Subject** | Portrait
-| **Subject Location** | Germany
-|![Original image on IISG website](/assets/original.jpeg "Schnee von gestern?")| The image shows the original *Snowglobe With Marx And Engels* as held in the International Institute of Social History in Amsterdam.
-
-
-This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below.
+| **Physical Description** | Plastic Snowglobe
+| **Type** | Object
+| **Medium** | Sculpture
+| **Materials** | Plastic, Water, Clay
+| **Date** | 1988-1993
+|![Original image on IISG website](/assets/original.jpeg "Schnee von gestern?")| The image shows the original *Snowglobe With Marx And Engels* as held in the International Institute of Social History in Amsterdam. Transparent plastic globe with a flat, round, 3-legged base of black plastic contains a figure of sitting Karl Marx and standing Friedrich Engels next to him. The diameter of the base is around 12cm and the height of the globe around 10cm. Judging by the colour and texture, the figures are most probably made out of clay, however there is no firm proof, as the inside of the globe cannot be accessed. On the back of the box-shaped element Karl Marx is sitting on, there is an inscription "CLAY Genet". The inscription seems to be incised directly into the material by hand, not imprinted automatically. As the 'CLAY' part of the inscription could be a clue to the type of material used, the meaning of 'Genet' remains a mystery. In front of the figures, on the inner white base of the globe (on which the figures are positioned), the words 'Schnee van gestern!?' are printed in black ink in decorative script typeface. Both figures are submerged in soapy, murky water. Initially intended to fill out the whole globe, now the liquid reaches to only about half the height of the globe. In the water there are floating particles of what seems to be small white plastic shavings. The snowglobe fits in human hand in order to facilitate shaking the object. When the globe is shook, the white plastic particles are supposed to imitate a snowfall, as after initial blizzard  chaos, gradually slowed down by the water resistance, they calmly travel back to the bottom of the object.
 
 # Research (H1)
 
