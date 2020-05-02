@@ -105,15 +105,15 @@ The warmer countries around equator, without any mountains are the ones least li
 
 Snow can, depending on the cintext it appears in, evoke both positive and negative connections.
 
-| positive | negative
-| -- | --
+| positive | negative |
+|--|--|
 | ![Christmas](/assets/original.jpeg "Schnee von gestern?") | ![Skiing](/assets/original.jpeg "Schnee von gestern?")
 | ![Napoleon's defeat](/assets/original.jpeg "Schnee von gestern?") | ![Traffic](/assets/original.jpeg "Schnee von gestern?")
 
 Generally speaking, snow operates on the border of seductive magicality and cold unapproachability, as shown below in a selection of pop-culturally established stories connected to strong presence of snow.
 
-| positive | negative | in-between
-| -- | --
+| positive | negative | in-between |
+|--|--|--|
 | ![Nanny](/assets/original.jpeg "Schnee von gestern?") | ![Narnia](/assets/original.jpeg "Schnee von gestern?") ![Narnia](/assets/original.jpeg "Schnee von gestern?")| ![Frozen](/assets/original.jpeg "Schnee von gestern?")
 
 
