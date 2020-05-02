@@ -125,7 +125,7 @@ As snow exists somewhere between magical dust and natural disaster, so does an o
 
 Every snowglobe consists of the following layers:
 
-> The Name
+**The Name**
 
 known as snow domes , snow shakers, water domes, water balls, snow scenes and blizzard weights
 
@@ -146,14 +146,45 @@ One of our unique designs included a 120mm snowglobe on a solid silver base whic
 ![Honey](/assets/original.jpeg "Schnee von gestern?")
 ![Halloween](/assets/original.jpeg "Schnee von gestern?")
 
-## THE LIQUID
+**The Liquid**
 
-> In the 1960's, several children got sick when they drank the contents of domes filled with polluted water taken directly from Hong Kong Harbor. In the 1950's, one manufacturer, finding that water froze when his inventory was being shipped, began adding antifreeze. Today, many manufacturers still add potentially lethal chemicals to prevent freezing and to thicken the water so the flakes drift through slowly.
+In the 1960's, several children got sick when they drank the contents of domes filled with polluted water taken directly from Hong Kong Harbor. In the 1950's, one manufacturer, finding that water froze when his inventory was being shipped, began adding antifreeze. Today, many manufacturers still add potentially lethal chemicals to prevent freezing and to thicken the water so the flakes drift through slowly.
 
 - there were dome send from canada that had liquid metaamphetamine in it
 -
 -
 - [https://edition.cnn.com/2019/07/26/world/liquid-meth-snow-globes-australia-trnd/index.html](https://edition.cnn.com/2019/07/26/world/liquid-meth-snow-globes-australia-trnd/index.html)
+
+**The Vessel**
+
+In the early 1950's, plastic began to take the place of glass as a material for the globe itself.
+
+**Base**
+
+doesnt really matter as long as its waterproof, most popular choices include plastic
+
+**Subject**
+THE FIGURINE/DIORAMA/PICTURE
+doesnt really matter as long as its waterproof, most often its a sculpture,
+can be anything, not necesarily connected to snow
+
+![snowman](/assets/original.jpeg "Schnee von gestern?")
+![mickey](/assets/original.jpeg "Schnee von gestern?")
+![florida](/assets/original.jpeg "Schnee von gestern?")
+![hawaii](/assets/original.jpeg "Schnee von gestern?")
+![mekka](/assets/original.jpeg "Schnee von gestern?")
+![papiez](/assets/original.jpeg "Schnee von gestern?")
+![online order](/assets/original.jpeg "Schnee von gestern?")
+
+### Typology
+
+Depending on their inner subject, 3 main types of snowglobes can be differentiated: two-dimensional, three-dimensional or bas-relief
+
+| two-dimensional | three-dimensional | bas-relief |
+|--|--|--|
+| ![2D](/assets/original.jpeg "Schnee von gestern?") | ![3D](/assets/original.jpeg "Schnee von gestern?") | ![bas](/assets/original.jpeg "Schnee von gestern?") |
+|![2Dexample](/assets/original.jpeg "Schnee von gestern?")| ![3D](/assets/original.jpeg "Schnee von gestern?") | ![basexample](/assets/original.jpeg "Schnee von gestern?") |
+
 
 # The Subject
 
