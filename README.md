@@ -34,15 +34,102 @@ Asking (while not necessarily answering), those and other questions is the main 
 | **Date** | 1988-1993
 |![Original image on IISG website](/assets/original.jpeg "Schnee von gestern?")| The image shows the original *Snowglobe With Marx And Engels* as held in the International Institute of Social History in Amsterdam. Transparent plastic globe with a flat, round, 3-legged base of black plastic contains a figure of sitting Karl Marx and standing Friedrich Engels next to him. The diameter of the base is around 12cm and the height of the globe around 10cm. Judging by the colour and texture, the figures are most probably made out of clay, however there is no firm proof, as the inside of the globe cannot be accessed. On the back of the box-shaped element Karl Marx is sitting on, there is an inscription "CLAY Genet". The inscription seems to be incised directly into the material by hand, not imprinted automatically. As the 'CLAY' part of the inscription could be a clue to the type of material used, the meaning of 'Genet' remains a mystery. In front of the figures, on the inner white base of the globe (on which the figures are positioned), the words 'Schnee van gestern!?' are printed in black ink in decorative script typeface. Both figures are submerged in soapy, murky water. Initially intended to fill out the whole globe, now the liquid reaches to only about half the height of the object. In the water there are floating particles of what seems to be small white plastic shavings. The snowglobe fits in human hand in order to facilitate shaking the object. When the globe is shook, the white plastic particles are supposed to imitate a snowfall, as after initial shake-induced blizzard-like chaos, gradually slowed down by the water resistance, they calmly travel back to the bottom of the object.
 
-# Research (H1)
+# Research
 
-This section consolidates the background research, context and any relevant information regarding your research **into** the artefact.
+What constitutes this fascinating artefact is its eclecticism, the fact that on one hand the globe evokes feelings of nostalgia, calmness, lightness, while figures of Marx and Engels bring on certain political seriousness, remind the viewer of the controversial subjects of marxism and communism and their consequences. The connection of those two elements, together with baffling inscriptions, completes an image of an object that in its simplicity of form, is surprisingly complex and absurd.
 
-## Research Sub-Heading (H2)
-Its important to give a clear structure to your Readme. Please use the document structure provided by markdown, so think of Headings, Sub-headings, text, bold/italic, lists (bullets and numbered), tables etc. You can also include some linked footnotes like this. <sup>[[1]](#footnote-1)</sup>
+In order to comprehensibly portray the richness, ridiculousness and metaphorical value of *Snowglobe With Marx And Engels* an explanation of its individual elements, history and socio-political context should be introduced first.
 
-### Research Sub-sub-heading (H3)
-The H3 heading is useful to define specific subsections within the H2 section. If you are in doubt about information structure, take a look at different wikipedia articles for reference.
+Essentially, any snowglobe can be divided into three parts: **the globe** itself, **the subject** (figure, picture placed inside of it) and **the inscription** or any textual content accompanying it (if there is any).
+
+# The Globe
+
+Preserving relatability of a snow globe logically starts with an explanation of what the clear subject matter, **snow** is.
+
+## Snow
+
+### Definitions
+
+What the noun 'snow' can mean:
+- atmospheric water vapour frozen into ice crystals and falling in light white flakes or lying on the ground as a white layer.
+- precipitation in the form of small white ice crystals formed directly from the water vapour of the air at a temperature of less than 32°F (0°C)
+- snow white - shade of colour white
+- visual snow syndrome causes a person to see numerous flickering tiny dots that fill the entire visual field in both eyes
+![Visual Snow](/assets/original.jpeg "Schnee von gestern?")
+- a mass of flickering white spots on a television or radar screen, caused by interference or a poor signal (tv static snow)
+![Static snow tv](/assets/original.jpeg "Schnee von gestern?")
+![Static snow movement](/assets/original.jpeg "Schnee von gestern?")
+- cocaine, heroin (slang)
+
+
+Etymology in different languages
+- English snow, snaw, snāw (Old English)
+- Proto-Germanic snaiwaz
+- Proto-Indo-European snóygʷʰos
+- West Frisian snie
+- Dutch sneeuw
+- German Schnee
+- Danish sne
+- Norwegian snø
+- Swedish snö
+- Icelandic snjór
+- Latin nix
+- Polish śnieg
+- Russian снег
+- Sanskrit स्नेह
+
+
+### Water, Vapour, Ice
+
+Snow consists of hexagonally bound molecules of water. It represents water's solid state of matter (created when 0 degrees Celsius or less is reached). It preserves the transformative value of the hydrogen-oxygen bonds, as it can sublimate back into liquid or gas state at a temperature above 0 Celsius.
+
+![Hydrogen bonds](/assets/original.jpeg "Schnee von gestern?")
+![Hydrogen bonds](/assets/original.jpeg "Schnee von gestern?")
+![Hexagonal bonds](/assets/original.jpeg "Schnee von gestern?")
+![Naturally occuring snowflake](/assets/original.jpeg "Schnee von gestern?")
+![Snowflake under controlled environment](/assets/original.jpeg "Schnee von gestern?")
+![Snow examples](/assets/original.jpeg "Schnee von gestern?")
+![Water cycle](/assets/original.jpeg "Schnee von gestern?")
+
+### Global perspective
+
+Thanks to global warming, naturally occuring snow is a vision gradually more and more rare. As much as mountain peaks are whitened with snow pretty much all year long, the majority of land lucky enough to be in cold/moderate climate, experiences a snowfall only in winter season. With the lowering of temperature, a chance of snowfall increases.
+
+The warmer countries around equator, without any mountains are the ones least likely to experience snow. Of course, with global warming and all the glaciers melting, the number of countries without snow will gradually grow larger. For example, there used to be a small ski area called Chacaltaya on a tall mountain in Bolivia, but that ski area has already closed permanently because of lack of snow.
+
+![Air temperature](/assets/original.jpeg "Schnee von gestern?")
+![Snow seasons](/assets/original.jpeg "Schnee von gestern?")
+![Density of snow](/assets/original.jpeg "Schnee von gestern?")
+
+### Emotional charge
+
+Snow can, depending on the cintext it appears in, evoke both positive and negative connections.
+
+| positive | negative
+| -- | --
+| ![Christmas](/assets/original.jpeg "Schnee von gestern?") | ![Skiing](/assets/original.jpeg "Schnee von gestern?")
+| ![Napoleon's defeat](/assets/original.jpeg "Schnee von gestern?") | ![Traffic](/assets/original.jpeg "Schnee von gestern?")
+
+Generally speaking, snow operates on the border of seductive magicality and cold unapproachability, as shown below in a selection of pop-culturally established stories connected to strong presence of snow.
+
+| positive | negative | in-between
+| -- | --
+| ![Nanny](/assets/original.jpeg "Schnee von gestern?") | ![Narnia](/assets/original.jpeg "Schnee von gestern?") ![Narnia](/assets/original.jpeg "Schnee von gestern?")| ![Frozen](/assets/original.jpeg "Schnee von gestern?")
+
+
+## Snowglobe
+
+
+# The Subject
+
+
+# The Inscriptions
+
+
+
+
+
+
 
 # Transcoding
 The resilience of any archived object largely relies on its adaptability to a variety of media. Technology comes in, but also dies out at dizzying pace. Innovative technologies (CD, VHS), prevailing the market just 20 years ago are now considered out of date, which majorly impedes the process of retrieving the information held on them.
@@ -114,6 +201,11 @@ Please include links to the tools, sources etc used during the coding. E.g. the 
 
 ## Transcoding No. 2
 ### Description
+
+
+### Disappearing snow
+
+In the near future the word *snow* might become an anachronism. As global warming progresses, snow is more and more of a rare sight. And without its natural occurence, its relatability is lost. Phenomena like TV static/snow, visual snow or yesterday's snow would be named differently if snow did not exist anymore.
 
 
 | Tag | Data |  
