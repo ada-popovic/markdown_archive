@@ -35,7 +35,11 @@ Asking (while not necessarily answering), those and other questions is the main 
 | **Subject Person** | Marx, Karl Engels, Friedrich
 | **Subject** | Portrait
 | **Subject Location** | Germany
-|![Original image on IISG website](/assets/original.jpeg "Schnee von gestern?")| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below.
+|![Original image on IISG website](/assets/original.jpeg "Schnee von gestern?")|
+The image represents 
+
+
+This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below.
 
 # Research (H1)
 
@@ -48,7 +52,9 @@ Its important to give a clear structure to your Readme. Please use the document 
 The H3 heading is useful to define specific subsections within the H2 section. If you are in doubt about information structure, take a look at different wikipedia articles for reference.
 
 # Transcoding
-Please include a general description of the role of transcoding in your project. Using the H2 headings below, you can specify individual Transcoding experiments. Think about your motivations in transcoding, and mention the role of tools (also those made during the assignment). This gives some direction to the reader about what they will read in more detail below.
+The resilience of any archived object largely relies on its adaptability to a variety of media. Technology comes in, but also dies out at dizzying pace. Innovative technologies (CD, VHS), prevailing the market just 20 years ago are now considered out of date, which majorly impedes the process of retrieving the information held on them.
+
+The artefact of *The Snowglobe With Marx And Engels* has been translated into different formats - using both coding and more analogue techniques of such inter-media translation. Every attempt at transcoding takes on a different aspect of the globe, analysing and preserving it, in hope that when viewed collectively, transcoded versions of the original will be able to reflect not only the physicality of the *The Snowglobe*, but also its socio-political relevance and emotional response it may have once evoked.
 
 ## Transcoding No. 1
 ### Description
