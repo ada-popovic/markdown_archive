@@ -11,7 +11,7 @@
     2. [The Subject](#The-Subject)
     3. [The Inscriptions](#The-Inscriptions)
         1. [*CLAY GENET*](#CLAY-GENET)
-        2. [*Schnee van gestern?*](#Schnee-van-gestern?)
+        2. [*Schnee von gestern?!*](#Schnee-von-gestern?!)
 3. [Transcoding](#Transcoding)
     1. [Transcoding No. 1](#Transcoding-no-1)
     2. [Transcoding No. 2](#Transcoding-no-2)
@@ -377,7 +377,7 @@ The artefact of *The Snowglobe With Marx And Engels* has been translated into di
 | TITLE | Typology of Transparency |
 | PURPOSE | showing how type of transparent material impacts the perceived value of a packaged object |
 | MEDIUM | installation |
-| RESULT | set of 3D printed figures of Marx put in different types of glass and plastic packaging | 
+| RESULT | set of 3D printed figures of Marx put in different types of glass and plastic packaging |
 
 
 | ![](/assets/T1/marx_plastics.jpg "Selection of materials") |![](/assets/T1/marx_labels.jpg "Mock-up of what the final result might be") |
@@ -393,13 +393,12 @@ Proposal of what the label put on the package could be. The title of the product
 
 ## Transcoding No. 2
 
-| ELEMENT     | DESCRIPTION |
-| :---        |    :----   |
-| PURPOSE | FILL IN |
-| METHOD | FILL IN |
-| TOOLS | FILL IN |
-| MEDIUM | FILL IN |
-| RESULTS | FILL IN |
+| TRANSCODING | 2 |
+|--|--|
+| TITLE | The Mistaken Record |
+| PURPOSE | showing how much the mistakes in original classification record of the IISG can augment the interpretation of the object |
+| MEDIUM | linocut |
+| RESULT | detailed linocut accompanied by prints, carved based on the mistakes in the description of the snowglobe from IISG |
 
 ### Description
 
@@ -410,13 +409,32 @@ In the near future the word *snow* might become an anachronism. As global warmin
 
 ## Transcoding No. 3
 
+| TRANSCODING | 3 |
+|--|--|
+| TITLE | Dancing at a Pace of Snow |
+| PURPOSE | explaining how the speed of snow impacts the emotional response and audio-visual association |
+| MEDIUM | website |
+| RESULT | slider controlling the speed of snow and reacting with appropriate audio-visual response |
 
-| ELEMENT     | DESCRIPTION |
-| :---        |    :----   |
-| PURPOSE | Showing the possibilities the format of the snow globes offers for repurposing it as an object of new use. |
-| METHOD | Arranging excerpts from Marx's *Kapital* into new sentences|
-| TOOLS | hhh |
-| RESULTS | hhh |
+
+## Transcoding No. 4
+
+| TRANSCODING | 4 |
+|--|--|
+| TITLE | Coca-Communism |
+| PURPOSE | introducing the strange clash of the capitalistic world of Coca-Cola and political ideology opposing it, all on the platform of a snowglobe |
+| MEDIUM | epoxy trinket |
+| RESULT | small transparent epoxy trinket with a red, 3D printed tag *Communism* in Coca-Cola font inside of it
+
+## Transcoding No. 5
+
+| TRANSCODING | 5 |
+|--|--|
+| TITLE | Das Kapital and its Divinations |
+| PURPOSE | exploring the possibilities of repurposing a snow globe as a storytelling device for complex text-based construction of meaning |
+| MEDIUM | website |
+| RESULT | generator of divinations based on excerpts from Marx's Das Kapital |
+
 
 https://ada-popovic.github.io/markdown_archive/capital/
 
@@ -458,56 +476,6 @@ Plural
 - virtues
 - monsters
 
-
-
-### Description
-
-
-Short description here. You can structure the information and documentation for each transcoding, design research or coding tool as you like. It's important that you make clear the aims & goals of the transcoding, what methods and tools you use. If this is often the same across different transcodings, consider making a standardised table at the beginning of each.
-
-You should include well-formatted documentation of your experiments and developments below. Someone without previous knowledge about your work should be able to follow along the steps, aims and results of your developments from this structure. Make sure all media used is correctly linked or embedded (images, PDFs, Videos, etc).
-
-### Methods
-Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
-
-With some HTML tags you can do simple styling in markdown, for example:
-
-    <width="50%">
-[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
-
-Remember to include the url link to jump to the full media, of course!
-
-
-### Tools
-Mention the tools that you used or made (if and when relevant).
-
-### Results
-Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.  
-
-## Transcoding Tool
-### Description
-You might have made multiple coding tools during the semester. Or the transcoding tool might be part of a specific transcoding experiment itself. It's up to you to define the linear flow of the Readme. Just like the transcoding of media itself, the coding tool should be well documented. So if you are using a coding tool in your first experiment, include the documentation of the coding tool **before** you include the results, etc.
-
-### Aims
-Include the main aims or intentions behind making the tool, and what it is used for.
-
-### Methods
-This includes the coding languages, coding frameworks or libraries, and any platforms or webtools for example.   
-
-### Results
-The coding tool will vary a lot between different students. So depending on the use and type, you may include more or less documentation here.
-
-### Source Links
-Please include links to the tools, sources etc used during the coding. E.g. the resources used for making your coding tool.  
-
-
-
-
-
-## Transcoding No. 4
-
-
-## Transcoding No. 5
 
 
 
