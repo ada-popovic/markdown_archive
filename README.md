@@ -390,7 +390,13 @@ I started with collecting different kinds of plastic and glass packagings.
 |--|
 | *Selection of materials* |
 
-I decided that in order to fully translate all the core elements of the snowglobe (the transparent globe, the figure of Marx and the text), I need to add a label for the inscription 'Schnee van gestern?!'. Not only does that complete the translation, but also immediately evokes terms of disposability, saleability and it commodifies the snowglobe into a ready-made labelled product, with even a functional barcode (created using [this website](https://barcode.tec-it.com)) that after scanning reveals the original IISG classification number of the object.
+| ![](/T1/images/example2.jpg) |
+|--|
+| ![](/T1/images/example1.jpg) |
+| ![](/T1/images/example3.jpg) |
+| *Examples of plastic packages* |
+
+After looking at the above examples of packagings, I decided that in order to fully translate all the core elements of the snowglobe (the transparent globe, the figure of Marx and the text), I need to add a label for the inscription 'Schnee van gestern?!'. Not only does that complete the translation, but also immediately evokes terms of disposability, saleability and it commodifies the snowglobe into a ready-made labelled product, with even a functional barcode (created using [this website](https://barcode.tec-it.com)) that after scanning reveals the original IISG classification number of the object.
 
 | ![generated barcode](/T1/images/barcode.gif) |
 |--|
@@ -419,6 +425,38 @@ I noticed that just the head of Marx will communicate better than the whole bust
 ### Production
 
 **3D printing the figurines**
+
+For the printing I used a the [Anycubic Photon S – UV Resin DLP 3D Printer](https://www.elektor.nl/anycubic-photon-s-uv-resin-dlp-3d-printer). It is a printer that uses UV-reactive resin, which as the printing progresses, solidifies. That kind of printing allows for a significantly more detailed print.
+
+![](/T1/images/printer.jpg)
+
+| ![](/T1/images/board1.png )|
+|--|
+| ![](/T1/images/board2.png )|
+| ![](/T1/images/board3.png )|
+|  *Positioning the figures on the digital board inside the software of the printer* |
+
+| ![](/T1/images/slicing.gif )|
+|--|
+|  *Slicing through layers of the to-be-printed model in the software of the 3D printer* |
+
+| ![](/T1/images/pouring.jpg )|
+|--|
+|  *Pouring resing into the container* |
+| ![](/T1/images/layer.jpg )|
+|  *Progression of the print displayed on the screen* |
+| ![](/T1/images/finished.jpg )|
+|  *Alert about the print being finished (it took 1 hour and 21 minutes to print)* |
+| ![](/T1/images/upside.jpg )|
+|  *An interesting fact is that, the printer prints in an  upside-down manner, so that the figurines are firmly attached to the slowly lifting base)* |
+| ![](/T1/images/ultrasonic.gif )|
+|  *After the print, it is best to put the figures in an ultrasonic cleaner to ensure their firmness* |
+| ![](/T1/images/incubator.jpg )|
+|  *Similarly, it is recommended to put the prints under UV light so that they can further solidify* |
+| ![](/T1/images/army.jpg )|
+|  *Final prints* |
+| ![](/T1/images/package1.jpg )|
+|  *One of the prints in an example of a plastic package* |
 
 **Printing the labels**
 
@@ -463,14 +501,18 @@ Original image on IISG website
 | Subject Location   | Germany     | Germany
 | Image | ![Original image on IISG website](/research/images/original.jpeg "Schnee von gestern?") | ![Corrected image](/research/images/original.jpeg "Schnee von gestern?")
 
-After the correction however, I noticed the hidden potential of the errors in the IISG's record. They reminded me of mysterious medieval book illustrations, alchemic manuscripts (like [The Voynich Manuscript](http://www.voynich.nu/)) or scientific etchings from early colonial age, in which the explorers tried to note down their (often mistaken) observations about local communities, whose habits and even looks very completely alien to them.
+After the correction however, I noticed the hidden potential of the errors in the IISG's record. They reminded me of phrenology, mysterious medieval book illustrations, alchemic manuscripts (like [The Voynich Manuscript](http://www.voynich.nu/)) or scientific etchings from early colonial age, in which the explorers tried to note down their (often mistaken) observations about local communities, whose habits and even looks very completely alien to them.
 
 | Examples of old etchings, illustrations and manuscripts |
 |--|
 | ![](/T2/images/oldetching1.jpg)
 | ![](/T2/images/oldetching2.jpg)
 | ![](/T2/images/oldetching3.jpg)
-| ![](/T2/images/oldetching4.jpg)
+| ![](/T2/images/oldetching6.jpg)
+| ![](/T2/images/oldetching5.jpg)
+| ![](/T2/images/oldetching7.jpg)
+
+[this website](https://www.strangescience.net/stmons.htm) was very helpful in finding examples.
 
 
 ### Methods and Materials
@@ -565,7 +607,7 @@ In the near future the word *snow* might become an anachronism. As global warmin
 | TITLE | Das Kapital and its Divinations |
 | PURPOSE | exploring the possibilities of repurposing a snow globe as a storytelling device for complex text-based construction of meaning AND preserving the importance of shaking gesture|
 | MEDIUM | website |
-| RESULT | generator of divinations based on excerpts from Marx's Das Kapital |
+| RESULT | generator of divinations based on excerpts from Marx's *Das Kapital* |
 
 
 ### Description
@@ -574,7 +616,12 @@ In the near future the word *snow* might become an anachronism. As global warmin
 
 *Usually, a snow globe has only image-based content inside of it (as in pictures or sculptures). In this transcoding I would like to not only put words into the globe, but also through multi-level construction (as in complex Diney's snowglobes) allow for arbitrary narrative creation. Each small globe within a greater construction would be similar to a Magic8Ball.
 
-| ![](/T2/images/sketch1.jpg)
+| ![](/T5/images/disney1.jpg)
+|--|
+| ![](/T5/images/disney2.jpg)
+| Examples of Disney's multi-level snowglobe |
+
+| ![](/T5/images/magic8ball.jpg)
 |--|
 | Magic8Ball |
 
@@ -587,6 +634,14 @@ At the beginning of the project I wanted to create a physical, analogue, but int
 Divination
 
 Esoterism
+
+| ![](/T5/images/divination0.jpg)
+|--|
+| ![](/T5/images/divination1.jpg)
+| ![](/T5/images/divination2.gif)
+| ![](/T5/images/divination3.jpg)
+| A crystall ball in use as an esoteric/divinating tool |
+
 
 ### Material
 
