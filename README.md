@@ -10,6 +10,8 @@
         2. [Snowglobe](#Snowglobe)
     2. [The Subject](#The-Subject)
     3. [The Inscriptions](#The-Inscriptions)
+        1. [*CLAY GENET*](#CLAY-GENET)
+        2. [*Schnee van gestern?*](#Schnee-van-gestern?)
 3. [Transcoding](#Transcoding)
     1. [Transcoding No. 1](#Transcoding-no-1)
     2. [Transcoding No. 2](#Transcoding-no-2)
@@ -316,7 +318,36 @@ However, it is specifically Marx that we see in there, so a few possibly over-in
 
 # The Inscriptions
 
+On the snowglobe we can find two textual additions: 'CLAY GENET' on the back of the sculpture and 'Schnee van gestern?' in fron of it
 
+
+## *CLAY GENET*
+
+### Meaning
+
+Unfortunately, the IISG is unable to inform what is the meaning of that inscription. Research leads only as far as to show that Genet is a slender cat-like animal with a long body, a long ringed tail, large ears, a pointed muzzle and partly retractile claws.
+
+![genet](/assets/images/original.jpeg "Schnee von gestern?")
+
+And there are figurines of it made out of clay.
+
+![claygenet](/assets/images/original.jpeg "Schnee von gestern?")
+
+However, there does not seem to be any connection between a genet and Marx.
+
+### Function
+
+The reason why inscription was made is unknown. It is supposed that it can be the name of the author, but no such person was found. Moreover, the snowglobe is probably an example of a mass produced object (which is rarely individually signed). The only information about the origin of the artefact is that it once was spotted on a souvenir market by a staff member of IISG and brought back to the archive, mostly as a bit of a joke, but also to enrich its collection on Marx.
+
+## *Schnee van gestern?*
+
+### Meaning
+
+The inscription is made in German and literally translates to *Snow of yesterday*.
+
+### Function
+
+Function of the inscription is unknown, but there are some clues. *Snow of yesterday* in a snowglobe is an obvious play on words. Exclamation and question mark at the end of the sentence suggest teasing the viewer to question the object and the person it encapsulates with its plastic vessel. The final effect is a certain commentary pun, making the one who hold the artefact wonder, whether the ideology of Marxism is the thing of the past, whether the world will be shook by it again and what all of it really means.
 
 
 
