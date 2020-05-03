@@ -68,6 +68,7 @@ What the noun 'snow' can mean:
 - cocaine, heroin (slang)
 
 
+
 Etymology in different languages
 - English snow, snaw, snāw (Old English)
 - Proto-Germanic snaiwaz
@@ -187,6 +188,11 @@ can be anything, not necessarily connected to snow
 <img src="/research/images/mekka.jpg" title ="Mekka" width="30%"/>
 <img src="/research/images/pope.jpg" title ="Pope" width="30%"/>
 <img src="/research/images/typical.jpg" title ="Typical" width="35%"/>
+
+![object1](/research/images/snowman.jpg)
+![object2](/research/images/mickey.jpg)
+![object3](/research/images/florida.jpg)
+![object4](/research/images/hawaii.jpg)
 
 ### Typology
 
