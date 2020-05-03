@@ -14,7 +14,9 @@
         2. [*Schnee von gestern?!*](#Schnee-von-gestern?!)
 3. [Transcoding](#Transcoding)
     1. [Transcoding No. 1](#Transcoding-no-1)
+        - [Description](#Description)
     2. [Transcoding No. 2](#Transcoding-no-2)
+        - [Description](#Description)
     3. [Transcoding No. 3](#Transcoding-no-3)
     4. [Transcoding No. 4](#Transcoding-no-4)
     5. [Transcoding No. 5](#Transcoding-no-5)
@@ -265,7 +267,7 @@ Friedrich Engels, (born Nov. 28, 1820, Barmen, Rhine province, Prussia [Germany]
 ![communist manifesto](/assets/images/original.jpeg "Schnee von gestern?")
 ![capital](/assets/images/original.jpeg "Schnee von gestern?")
 
-Documenatry about Marx's Life
+Documentary about Marx's Life
 [https://www.youtube.com/watch?v=9FaOKNpAiIM&t=695s](https://www.youtube.com/watch?v=9FaOKNpAiIM&t=695s)
 
 ### Similar Objects in IISG
@@ -379,33 +381,55 @@ The artefact of *The Snowglobe With Marx And Engels* has been translated into di
 | MEDIUM | installation |
 | RESULT | set of 3D printed figures of Marx put in different types of glass and plastic packaging |
 
+### Description
 
-The *Snowglobe with Marx and Engels* is in its most reductive form is just a set of figurines packaged in transparent material.
+On the website of IISG we can read that the material used for the *Snowglobe with Marx and Engels* is glass. Unfortunately, that information is wrong. It is plastic. And that distinction is quite important in uderstanding that object. Plastic evokes feelings of kitsch and cheapness, glass of craftsmanship and refinement. The only thing that connects the two materials is transparency and water resistance.
 
+The snowglobe is in its most reductive form is just a set of figurines packaged in transparent, water-resistant material. However, I want to show the immediate difference one can feel when interacting with a plastic material vs glass material.
 
-| ![Selection of materials](/assets/images/marx_plastics.jpg "Selection of materials") |![Mock-up of what the final result might be](/assets/images/marx_labels.jpg "Mock-up of what the final result might be")|
+### Materials
+
+I started with collecting different kinds of plastic and glass packagings.
+
+| ![Selection of materials](/T1/images/marx_plastics.jpg "Selection of materials") |
 |:--:|:--:|
-| *Selection of materials* | *Mock-up of what the final result might be* |
+| *Selection of materials* |
+
+I decided that in order to fully translate all the core elements of the snowglobe (the transparent globe, the figure of Marx and the text), I need to add a label for the inscription 'Schnee van gestern?!'. Not only does that complete the translation, but also immediately commodifies the snowglobe into a ready-made labelled product, with even a barcode (created using [this website](https://barcode.tec-it.com)) that after scanning reveals the original IISG classification number of the object.
+
+| ![generated barcode](/T1/images/barcode.gif) |
+|--|
+| *Generated scannable barcode* |
 
 ![First label sticker sketch](/assets/images/label.jpg "Label version 1")
 
-Proposal of what the label put on the package could be. The title of the product ('Schnee von gestern?!') is the same as the typography on the original artefact and the title of the archive. The barcode text was replaced with the classification number from the IISG archive (created using [this website](https://barcode.tec-it.com))
+*First version of the labele*
 
-![generated barcode](/T1/images/barcode.gif)
+In order to represent the figure of Marx in its most reductive way and be able to put it into packages of different forms and sizes, I decided to 3D print it.
 
-*Generated scannable barcode*
+| ![](/T1/images/marx_model.jpg) |
+|--|
+| *Image of a [found model](http://3dmag.org/en/market/download/item/3638/) of Marx in .stl format for 3D print* |
 
+I noticed that just the head of Marx will communicate better than the whole bust, so I decided to edit it in 3D editing software Cinema 4D.
 
-[<img src="/T1/images/marx_model.jpg" width="80%">](https://github.com/ada-popovic/markdown_archive/tree/master/T1/3D/marx.stl)
+| ![](/T1/images/marx_head.gif) |
+|--|
+| *Representation of an edited version of the [model](https://github.com/ada-popovic/markdown_archive/tree/master/T1/3D/marx2.stl)* |
 
-*Image of a found model of Marx in .stl format for 3D print*
+| ![Mock-up of what the final result might be](/T1/images/marx_labels.jpg "Mock-up of what the final result might be")|
+|:--:|
+|  *Mock-up of what the final result might look like* |
 
-I decided that just the head of Marx will communicate better than the whole bust, so I decided to edit it in 3D editing software Cinema 4D.
+### Production
 
-[<img src="/T1/images/marx_head.gif" width="80%">](https://github.com/ada-popovic/markdown_archive/tree/master/T1/3D/marx2.stl)
+**3D printing the figurines**
 
-*Representation of an edited version of the model*
+**Printing the labels**
 
+**Assembling**
+
+### Final Result
 
 ## Transcoding No. 2
 
@@ -415,6 +439,40 @@ I decided that just the head of Marx will communicate better than the whole bust
 | PURPOSE | showing how much the mistakes in original classification record of the IISG can augment the interpretation of the object |
 | MEDIUM | linocut |
 | RESULT | detailed linocut accompanied by prints, carved based on the mistakes in the description of the snowglobe from IISG |
+
+### Description
+
+Unfortunately, the original record kept on IISG website is a record of multiple errors. Together with an image of extremely low quality, the classification provided by the website leaves the interested in confusion and doesn't provide much relevant help for researchers.
+
+
+[<img src="/T2/images/wrongrecord.jpg" width="80%">](https://search.iisg.amsterdam/Record/991455)
+
+I started with an attempt at improving the record. Sadly, a lot of information (such as author or exact history of the object could not be obtained to the day).
+
+![Original image on IISG website](/assets/original.jpeg "Schnee von gestern?")
+
+Original image on IISG website
+
+| Category | Archive's description | Correction
+| :---        |    :----:   |     :----:
+| Schnee von gestern?     | Visual Documents | Schnee von gestern?!
+| Call Number   | IISG BG K21/144    | IISG BG K21/144
+| Object URL   | [IISG record](https://search.iisg.amsterdam/Record/991455)   | [IISG record](https://search.iisg.amsterdam/Record/991455)   
+| Designer    | Clay, Genet      | unknown
+| Period  | 1988-1993       | 1988-1993
+| Physical Description  | Glass     | Plastic, Clay
+| Genres | Object      | Object, decoration, tchochke
+| Note | Snow-globe with Marx en Engels in black snow     | Plastic snowglobe with clay figures of Karl Marx and Friedrich Engels in white snow
+| Subject Person | Marx, Karl Engels, Friedrich     | Karl Marx, Friedrich Engels
+| Subject   | Portrait      | Snowglobe
+| Subject Location   | Germany     | Germany
+| Image | ![Original image on IISG website](/research/images/original.jpeg "Schnee von gestern?") | ![Corrected image](/research/images/original.jpeg "Schnee von gestern?")
+
+After the correction however, I noticed the hidden potential of the errors in the IISG's record. They reminded me of mysterious medieval book illustrations (which even today the historians are struggling to fully decipher) or scientific etchings from early colonial age, in which the explorers tried to note down their (often mistaken) observations about local communities, whose habits and even looks very completely alien to them.
+
+### Materials
+### Production
+### Final Result
 
 
 
@@ -428,10 +486,13 @@ I decided that just the head of Marx will communicate better than the whole bust
 | MEDIUM | website |
 | RESULT | slider controlling the speed of snow and reacting with appropriate audio-visual response |
 
-### Disappearing snow
+### Description
 
 In the near future the word *snow* might become an anachronism. As global warming progresses, snow is more and more of a rare sight. And without its natural occurence, its relatability is lost. Phenomena like TV static/snow, visual snow syndrome or 'yesterday's snow' would be named differently if snow did not exist anymore.
 
+### Materials
+### Production
+### Final Result
 
 ## Transcoding No. 4
 
@@ -441,6 +502,11 @@ In the near future the word *snow* might become an anachronism. As global warmin
 | PURPOSE | introducing the strange clash of the capitalistic world of Coca-Cola and political ideology opposing it, all on the platform of a snowglobe |
 | MEDIUM | epoxy trinket |
 | RESULT | small transparent epoxy trinket with a red, 3D printed tag *Communism* in Coca-Cola font inside of it
+
+### Description
+### Materials
+### Production
+### Final Result
 
 ## Transcoding No. 5
 
@@ -452,11 +518,8 @@ In the near future the word *snow* might become an anachronism. As global warmin
 | RESULT | generator of divinations based on excerpts from Marx's Das Kapital |
 
 
-# Description
+### Description
 
-
-
-# Process
 **Initial Concept**
 
 *Usually, a snow globe has only image-based content inside of it (as in pictures or sculptures). In this transcoding I would like to not only put words into the globe, but also through multi-level construction allow for arbitrary narrative creation. Each small globe within a greater construction would be similar to a Magic8Ball.
@@ -467,8 +530,8 @@ In a digital version the construction would rely on randomly selected words from
 
 At the beginning of the project I wanted to create a physical, analogue, but interactive sculpture consisting of multiple smaller snowglobes, each of them functioning as a Magic8Ball. Later in the process, I decided to build an online platform for divinations instead. Each divination relies on randomly selected
 
-# Collecting Material
-# Quotes
+### Material
+### Quotes
 
 **Selection of original quotes from *Das Kapital* by Karl Marx**:
 
@@ -491,7 +554,7 @@ At the beginning of the project I wanted to create a physical, analogue, but int
 4. "_______, _______ and _______ are therefore his three cardinal virtues."
 
 
-# Nouns
+### Nouns
 
 In order to later fit the sentences gramatically, I had to divide the nouns into singular and plural.
 
@@ -511,7 +574,7 @@ In order to later fit the sentences gramatically, I had to divide the nouns into
 | - greed
 
 
-# Assembling
+### Production
 
 I started with picking one sentence and replacing its nouns with the nouns from the general selection. The nouns are assigned randomly by the code - each empty spot has its own array from which it selects either singular or plural nouns. The underlined spots are for singular ones, the dotted for plural. Each time the website is refreshed a newly generated sentence appears.
 
@@ -551,7 +614,7 @@ Apart from the basic sentence randomisation I was thinking about adding categori
 
 In this way each sentence would give an advice for a specific life domain of the user.
 
-# Final Result
+### Final Result
 
 [Divination Generator](https://ada-popovic.github.io/markdown_archive/T5/Divination_Generator)
 
