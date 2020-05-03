@@ -503,11 +503,17 @@ In order to later fit the sentences gramatically, I had to divide the nouns into
 
 # Assembling
 
-I started with picking one sentence and replacing its nouns with the nouns from the general selection. The nouns are assigned randomly by the code - each empty spot has its own array from which it selects either singular or plural nouns.
+I started with picking one sentence and replacing its nouns with the nouns from the general selection. The nouns are assigned randomly by the code - each empty spot has its own array from which it selects either singular or plural nouns. The underlined spots are for singular ones, the dotted for plural. Each time the website is refreshed a newly generated sentence appears.
 
 ![First working try-out of a generative sentence](/T5/images/sentence1.gif "First working try-out of a generative sentence")
 
-As the words are selected randomly by the computer, they do not necessarily make logical sense, but they are still selected from the same book - Das Kapital. Because of that their vernacular relations make a lot of sense and all generated sentences relate to the original, just in a new abstract sense. The created sentences seem to be mysteriously ambigual and yet, not completely senseless, which allows for individual interpretation of them - as it happens with any ritual of divination.
+As the words are selected randomly by the computer, they do not necessarily make logical sense, but they are still selected from the same book - Das Kapital. Because of that their vernacular relations make a lot of sense and all generated sentences relate to the original, just in a new abstract sense. The created sentences seem to be mysteriously ambiguous and yet, not completely senseless, which allows for individual interpretation of them - as it happens with any ritual of divination.
+
+Shaking a snowglobe is crucial to revealing the true magic of the scene it holds. I realised that it is crucial to preserve that movement in some way. Instead of clicking on a refresh button every time to refresh a website, I decided to use the shake-event availabkle on a mobile phone. Every time a user will shake his phone, a new sentence will appear.
+
+As the starting point, I used the [shake.js library](https://alexgibson.github.io/shake.js/) from Alex Gibson.
+
+I augmented to code and checked if [my result](https://ada-popovic.github.io/markdown_archive/T5/working_shake_event)worked on a Huawei P30. Unfortunately, the website functions properly only on Android devices.
 
 
 
