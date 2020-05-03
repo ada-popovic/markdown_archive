@@ -199,7 +199,7 @@ Depending on their inner subject, 3 main types of snowglobes can be differentiat
 
 ### Shaking event
 
-![handshake](/research/images/handshake.gif "Example of a hand shaking a snowglobe)
+![handshake](/research/images/handshake.gif "Example of a hand shaking a snowglobe")
 
 ![3Dshake](/research/images/onlineshake.gif "Example of an online snowglobe")
 
