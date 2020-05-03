@@ -295,9 +295,9 @@ Seeing the mentioned snowglobe next to these objects, we cannot help, but notice
 
 In the modern age, after the fall of USSR, we are experiencing a new approach to the icons of communism, especially in post-soviet countries. Dictators (Stalin), leaders (Lenin) or idealists (Marx) are commodified and turned into symbols, often ending up as a low quality T-shirt print or edgy cup available online or next to major tourist attraction from Warsaw to Budapest.
 
-![stalin matches](/research/images/stalinmatches.png)
-![hot stalin](/research/images/hotstalin.png)
-![t-shirt stalin](/research/images/stalintshirt.png)
+![stalin matches](/research/images/stalinmatches.gif)
+![hot stalin](/research/images/hotstalin.jpg)
+![t-shirt stalin](/research/images/tshirtstalin.jpg)
 
 
 There are however some objects which pose a certain difficulty in judging their intended use. This snowglobe with an image of Stalin from Stalin Museum in Georgia looks like a cheao souvenir, but there is a chance it was an actual dear reminder of the beloved leader kept safely at home by his admirers.
