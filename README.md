@@ -518,8 +518,8 @@ I augmented to code and checked if [my result](https://ada-popovic.github.io/mar
 ![Before shaking](/T5/images/beforeshake.jpg "Before shaking")
 ![After shaking](/T5/images/aftershake.jpg "After shaking")
 
-![Before shaking](/T5/images/beforeshake.jpg width="50%")
-![After shaking](/T5/images/aftershake.jpg width="50%")
+![Before shaking](/T5/images/beforeshake.jpg | width=100)
+![After shaking](/T5/images/aftershake.jpg | width="50%")
 
 
 
