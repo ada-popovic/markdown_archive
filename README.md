@@ -189,10 +189,6 @@ can be anything, not necessarily connected to snow
 <img src="/research/images/pope.jpg" title ="Pope" width="30%"/>
 <img src="/research/images/typical.jpg" title ="Typical" width="35%"/>
 
-![object1](/research/images/snowman.jpg)
-![object2](/research/images/mickey.jpg)
-![object3](/research/images/florida.jpg)
-![object4](/research/images/hawaii.jpg)
 
 ### Typology
 
@@ -307,7 +303,7 @@ In the modern age, after the fall of USSR, we are experiencing a new approach to
 
 
 There are however some objects which pose a certain difficulty in judging their intended use. This snowglobe with an image of Stalin from Stalin Museum in Georgia looks like a cheao souvenir, but there is a chance it was an actual dear reminder of the beloved leader kept safely at home by his admirers.
-![georgiastalin](/research/images/stalinglobe.png)
+![georgiastalin](/research/images/stalinglobe.jpg)
 
 ### The Face In A globe
 
@@ -327,7 +323,7 @@ However, it is specifically Marx that we see in there, so a few possibly over-in
   - Marx was once a person of serious hope, idealist, a **real** person, later turned into an ideological icon by bad propaganda (positioned next to Lenin, Stalin etc), an icon that never really existed:
       - *Marx as the one who offered salvation to proletariat*
       - *Marx as the prophet*
-      [Marx next to Lenin](/research/images/badpropaganda.png)
+      - [Marx next to Lenin](/research/images/badpropaganda.png)
 
 3. Commodification of marxism especially in post-soviet countries (edgy souvenirs) is parallel to commodification of a snow globe (valued memorabilia → cheap tchotchke)
 
