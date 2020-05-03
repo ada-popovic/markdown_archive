@@ -39,7 +39,7 @@ Asking (while not necessarily answering), those and other questions is the main 
 | **Medium** | Sculpture
 | **Materials** | Plastic, Water, Clay
 | **Date** | 1988-1993
-|![Original image on IISG website](/assets/original.jpeg "Schnee von gestern?")| The image shows the original *Snowglobe With Marx And Engels* as held in the International Institute of Social History in Amsterdam. Transparent plastic globe with a flat, round, 3-legged base of black plastic contains a figure of sitting Karl Marx and standing Friedrich Engels next to him. The diameter of the base is around 12cm and the height of the globe around 10cm. Judging by the colour and texture, the figures are most probably made out of clay, however there is no firm proof, as the inside of the globe cannot be accessed. On the back of the box-shaped element Karl Marx is sitting on, there is an inscription "CLAY Genet". The inscription seems to be incised directly into the material by hand, not imprinted automatically. As the 'CLAY' part of the inscription could be a clue to the type of material used, the meaning of 'Genet' remains a mystery. In front of the figures, on the inner white base of the globe (on which the figures are positioned), the words 'Schnee van gestern!?' are printed in black ink in decorative script typeface. Both figures are submerged in soapy, murky water. Initially intended to fill out the whole globe, now the liquid reaches to only about half the height of the object. In the water there are floating particles of what seems to be small white plastic shavings. The snowglobe fits in human hand in order to facilitate shaking the object. When the globe is shook, the white plastic particles are supposed to imitate a snowfall, as after initial shake-induced blizzard-like chaos, gradually slowed down by the water resistance, they calmly travel back to the bottom of the object.
+|![Original image on IISG website](/research/images/main_picture_marx.png "Schnee von gestern?")| The image shows the original *Snowglobe With Marx And Engels* as held in the International Institute of Social History in Amsterdam. Transparent plastic globe with a flat, round, 3-legged base of black plastic contains a figure of sitting Karl Marx and standing Friedrich Engels next to him. The diameter of the base is around 12cm and the height of the globe around 10cm. Judging by the colour and texture, the figures are most probably made out of clay, however there is no firm proof, as the inside of the globe cannot be accessed. On the back of the box-shaped element Karl Marx is sitting on, there is an inscription "CLAY Genet". The inscription seems to be incised directly into the material by hand, not imprinted automatically. As the 'CLAY' part of the inscription could be a clue to the type of material used, the meaning of 'Genet' remains a mystery. In front of the figures, on the inner white base of the globe (on which the figures are positioned), the words 'Schnee van gestern!?' are printed in black ink in decorative script typeface. Both figures are submerged in soapy, murky water. Initially intended to fill out the whole globe, now the liquid reaches to only about half the height of the object. In the water there are floating particles of what seems to be small white plastic shavings. The snowglobe fits in human hand in order to facilitate shaking the object. When the globe is shook, the white plastic particles are supposed to imitate a snowfall, as after initial shake-induced blizzard-like chaos, gradually slowed down by the water resistance, they calmly travel back to the bottom of the object.
 
 # Research
 
@@ -150,21 +150,21 @@ how accurate is it that in the majority of mainstream snowglobes, which are supp
 
 One of our unique designs included a 120mm snowglobe on a solid silver base which was given to President Bill Clinton. The snowglobe **contained the original confetti which was thrown at his inauguration party.**
 
-![Penguin](/assets/original.jpeg "Schnee von gestern?")
-![Glitter](/assets/original.jpeg "Schnee von gestern?")
-![Mars](/assets/original.jpeg "Schnee von gestern?")
-![Love](/assets/original.jpeg "Schnee von gestern?")
-![Honey](/assets/original.jpeg "Schnee von gestern?")
-![Halloween](/assets/original.jpeg "Schnee von gestern?")
+<img src="/research/images/penguinglobe.jpg" title ="Penguin" width="30%"/>
+<img src="/research/images/glitterglobe.jpg" title ="Glitter" width="30%"/>
+<img src="/research/images/mars.gif" title ="Mars" width="30%"/>
+
+<img src="/research/images/loveglobe.jpg" title ="Love" width="30%"/>
+<img src="/research/images/honeyglobe.jpg" title ="Honey" width="30%"/>
+<img src="/research/images/halloweenglobe.png" title ="Halloween" width="30%"/>
+
 
 **The Liquid**
 
 In the 1960's, several children got sick when they drank the contents of domes filled with polluted water taken directly from Hong Kong Harbor. In the 1950's, one manufacturer, finding that water froze when his inventory was being shipped, began adding antifreeze. Today, many manufacturers still add potentially lethal chemicals to prevent freezing and to thicken the water so the flakes drift through slowly.
 
-- there were dome send from canada that had liquid metaamphetamine in it
--
--
-- [https://edition.cnn.com/2019/07/26/world/liquid-meth-snow-globes-australia-trnd/index.html](https://edition.cnn.com/2019/07/26/world/liquid-meth-snow-globes-australia-trnd/index.html)
+- there were domes send from Canada that had liquid metaamphetamine in it
+ [https://edition.cnn.com/2019/07/26/world/liquid-meth-snow-globes-australia-trnd/index.html](https://edition.cnn.com/2019/07/26/world/liquid-meth-snow-globes-australia-trnd/index.html)
 
 **The Vessel**
 
@@ -177,15 +177,16 @@ doesnt really matter as long as its waterproof, most popular choices include pla
 **Subject**
 THE FIGURINE/DIORAMA/PICTURE
 doesnt really matter as long as its waterproof, most often its a sculpture,
-can be anything, not necesarily connected to snow
+can be anything, not necessarily connected to snow
 
-![snowman](/assets/original.jpeg "Schnee von gestern?")
-![mickey](/assets/original.jpeg "Schnee von gestern?")
-![florida](/assets/original.jpeg "Schnee von gestern?")
-![hawaii](/assets/original.jpeg "Schnee von gestern?")
-![mekka](/assets/original.jpeg "Schnee von gestern?")
-![papiez](/assets/original.jpeg "Schnee von gestern?")
-![online order](/assets/original.jpeg "Schnee von gestern?")
+<img src="/research/images/snowman.jpg" title ="Snowman" width="25%"/>
+<img src="/research/images/mickey.jpg" title ="Mickey" width="25%"/>
+<img src="/research/images/florida.jpg" title ="Florida" width="20%"/>
+<img src="/research/images/hawaii.jpg" title ="Hawaii" width="25%"/>
+
+<img src="/research/images/mekka.jpg" title ="Mekka" width="30%"/>
+<img src="/research/images/pope.jpg" title ="Pope" width="30%"/>
+<img src="/research/images/typical.jpg" title ="Typical" width="35%"/>
 
 ### Typology
 
@@ -193,12 +194,14 @@ Depending on their inner subject, 3 main types of snowglobes can be differentiat
 
 | two-dimensional | three-dimensional | bas-relief |
 |--|--|--|
-| ![2D](/assets/original.jpeg "Schnee von gestern?") | ![3D](/assets/original.jpeg "Schnee von gestern?") | ![bas](/assets/original.jpeg "Schnee von gestern?") |
-|![2Dexample](/assets/original.jpeg "Schnee von gestern?")| ![3D](/assets/original.jpeg "Schnee von gestern?") | ![basexample](/assets/original.jpeg "Schnee von gestern?") |
+| ![2D](/research/images/imageglobe.jpg "Image-based globe") | ![3D](/research/images/figureglobe.jpg "Sculpture-based globe") | ![bas](/research/images/basreliefglobe.jpg "Bas-relief globe") |
+|![2Dexample](/research/images/examplepictureglobe.jpg "Example of an image-based globe")| ![3D](/research/images/examplesculptureglobe.jpg "Example of a sculpture-based globe") | ![basexample](/research/images/examplebasreliefglobe.jpg "Example of a bas-relief globe") |
 
 ### Shaking event
-![handshake](/assets/original.jpeg "Schnee von gestern?")
-![3Dshake](/assets/original.jpeg "Schnee von gestern?")
+
+![handshake](/research/images/examplebasreliefglobe.jpg "Example of a hand shaking a snowglobe)
+
+![3Dshake](/research/images/examplebasreliefglobe.jpg "Example of an online snowglobe")
 
 ### History Of Snowglobes
 
