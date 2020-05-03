@@ -515,16 +515,17 @@ As the starting point, I used the [shake.js library](https://alexgibson.github.i
 
 I augmented to code and checked if [my result](https://ada-popovic.github.io/markdown_archive/T5/working_shake_event) worked on a Huawei P30. Unfortunately, the website functions properly only on Android devices. On laptops a new sentence will still be generated after refreshing the website.
 
-![Before shaking](/T5/images/beforeshake.jpg "Before shaking")
-![After shaking](/T5/images/aftershake.jpg "After shaking")
+| Before shaking | After shaking |
+|--|--|
+| ![Before shaking](/T5/images/beforeshake.jpg "Before shaking") | ![After shaking](/T5/images/aftershake.jpg "After shaking") |
 
-![Before shaking](/T5/images/beforeshake.jpg | width=100)
-![After shaking](/T5/images/aftershake.jpg | width="50%")
-
-
+Later, I tried adding to the [website](https://ada-popovic.github.io/markdown_archive/T5/shake_and_refresh) the refresh action on shake event.
 
 
 
+
+
+# Final Result
 
 [Divination Generator](https://ada-popovic.github.io/markdown_archive/T5/Divination_Generator)
 
