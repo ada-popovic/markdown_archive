@@ -389,12 +389,22 @@ The *Snowglobe with Marx and Engels* is in its most reductive form is just a set
 
 ![First label sticker sketch](/assets/images/label.jpg "Label version 1")
 
-Proposal of what the label put on the package could be. The title of the product ('Schnee von gestern?') is the same as the typography on the original artefact and the title of the archive. The barcode text was replaced with the original number of the artefact from the IISG archive.
+Proposal of what the label put on the package could be. The title of the product ('Schnee von gestern?!') is the same as the typography on the original artefact and the title of the archive. The barcode text was replaced with the classification number from the IISG archive (created using [this website](https://barcode.tec-it.com))
+
+![generated barcode](/T1/images/barcode.gif)
+
+*Generated scannable barcode*
 
 
-![3D model of Marx's face](/assets/images/marx_model.jpg "3D model of Marx's face")
+[<img src="/T1/images/marx_model.jpg" width="80%">](https://github.com/ada-popovic/markdown_archive/tree/master/T1/3D/marx.stl)
 
-3D model of Marx (to be printed)
+*Image of a found model of Marx in .stl format for 3D print*
+
+I decided that just the head of Marx will communicate better than the whole bust, so I decided to edit it in 3D editing software Cinema 4D.
+
+[<img src="/T1/images/marx_head.gif" width="80%">](https://github.com/ada-popovic/markdown_archive/tree/master/T1/3D/marx2.stl)
+
+*Representation of an edited version of the model*
 
 
 ## Transcoding No. 2
