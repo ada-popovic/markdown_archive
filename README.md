@@ -336,11 +336,11 @@ On the snowglobe we can find two textual additions: 'CLAY GENET' on the back of 
 
 Unfortunately, the IISG is unable to inform what is the meaning of that inscription. Research leads only as far as to show that Genet is a slender cat-like animal with a long body, a long ringed tail, large ears, a pointed muzzle and partly retractile claws.
 
-![genet](/assets/images/original.jpeg "Schnee von gestern?")
+![genet](/research/images/genet.jpg)
 
 And there are figurines of it made out of clay.
 
-![claygenet](/assets/images/original.jpeg "Schnee von gestern?")
+![claygenet](/research/images/claygenet.jpg)
 
 However, there does not seem to be any connection between a genet and Marx.
 
