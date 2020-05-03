@@ -513,7 +513,7 @@ Shaking a snowglobe is crucial to revealing the true magic of the scene it holds
 
 As the starting point, I used the [shake.js library](https://alexgibson.github.io/shake.js/) from Alex Gibson.
 
-I augmented to code and checked if [my result](https://ada-popovic.github.io/markdown_archive/T5/working_shake_event)worked on a Huawei P30. Unfortunately, the website functions properly only on Android devices.
+I augmented to code and checked if [my result](https://ada-popovic.github.io/markdown_archive/T5/working_shake_event)worked on a Huawei P30. Unfortunately, the website functions properly only on Android devices. On laptops a new sentence will still be generated after refreshing the website.
 
 
 
