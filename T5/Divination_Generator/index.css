@@ -19,15 +19,9 @@ body {
 
 }
 
-.word {
-  font-size: 2em;
-  font-family: monospace;
-  color: red;
-  display: inline-block;
-  position: absolute;
-}
-
 .sentence {
+  width:90%;
+  height:100%;
   margin-left: 5%;
   margin-top: 10%;
   font-size: 2em;
@@ -37,33 +31,6 @@ body {
 
 }
 
-.word1 {
-  margin-top: 10%;
-  margin-left: 15%;
-
-}
-
-.wordD2 {
-  margin-top: 9.5%;
-  margin-left: 57%;
-
-}
-
-.word3 {
-  margin-top: 12.5%;
-  margin-left: 10%;
-
-}
-
-.wordD4 {
-  margin-top: 14.5%;
-  margin-left: 25%;
-
-}
-
-.word5 {
-
-  margin-top: 15%;
-  margin-left: 55%;
-
+.noun {
+  color: red;
 }

@@ -55,7 +55,7 @@ var randomItem2 = myArray2[Math.floor(Math.random()*myArray2.length)];
 
 
 
-document.getElementById('wordD2').innerHTML = randomItem2;
+document.getElementById('word2').innerHTML = randomItem2;
 
 
 var myArray3 = [
@@ -90,7 +90,7 @@ var myArray4 = [
 
 var randomItem4 = myArray4[Math.floor(Math.random()*myArray4.length)];
 
-document.getElementById('wordD4').innerHTML = randomItem4;
+document.getElementById('word4').innerHTML = randomItem4;
 
 
 
