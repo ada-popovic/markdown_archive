@@ -486,9 +486,8 @@ In order to later fit the sentences gramatically, I had to divide the nouns into
 
 | singular | plural |
 |--|--|
-| - education
-- freedom
-- law
+| - education - freedom
+| - law
 - state
 - religion
 - brain
