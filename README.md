@@ -389,7 +389,7 @@ The *Snowglobe with Marx and Engels* is in its most reductive form is just a set
 
 ![First label sticker sketch](/assets/images/label.jpg "Label version 1")
 
-Proposal of what the label put on the package could be. The title of the product ('Schnnee von gestern?') is the same as the typography on the original artefact and the title of the archive. The barcode text was replaced with the original number of the artefact from the IISG archive.
+Proposal of what the label put on the package could be. The title of the product ('Schnee von gestern?') is the same as the typography on the original artefact and the title of the archive. The barcode text was replaced with the original number of the artefact from the IISG archive.
 
 
 ![3D model of Marx's face](/assets/images/marx_model.jpg "3D model of Marx's face")
@@ -519,21 +519,31 @@ I augmented to code and checked if [my result](https://ada-popovic.github.io/mar
 |--|--|
 | ![Before shaking](/T5/images/beforeshake.jpg "Before shaking") | ![After shaking](/T5/images/aftershake.jpg "After shaking") |
 
-Later, I tried adding to the [website](https://ada-popovic.github.io/markdown_archive/T5/shake_and_refresh) the refresh action on shake event.
+Later, I tried adding to the [website](https://ada-popovic.github.io/markdown_archive/T5/Divination_Generator_shake) the refresh action on shake event. For now the content is misaligned, as it is just a check of functionality.
 
+| Before shaking | Alert appearing on shake event | After shaking |
+|--|--|--|
+| ![Before shaking](/T5/images/beforeshake2.jpg "Before shaking") | ![After shaking](/T5/images/alert.jpg "Alert") | ![After shaking](/T5/images/aftershake2.jpg "After shaking") |
 
+Apart from the basic sentence randomisation I was thinking about adding categories for each sentence such as:
 
+- love
+- life
+- work
+- money
+- friendship
 
+In this way each sentence would give an advice for a specific life domain of the user.
 
 # Final Result
 
 [Divination Generator](https://ada-popovic.github.io/markdown_archive/T5/Divination_Generator)
 
 # Reflection
-You might want to include a section about reflecting on the results of your coding and IMD experiments this semester. It can give additional context before reading the final outcomes below.
+During this semester I was planning to make quite a lot of physical, analogue projects next to my coding-related endeavours. Unfortunately, because of COVID-19 crisis, we were forced to present the outcomes in a digital way, which influenced my decision process for majority of transcodings.
 
 # Outcomes
-Snowglobe Wunderkammer holds all the objects together
+Snowglobe Wunderkammer holds all the objects together?
 
 
 
