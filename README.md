@@ -363,21 +363,21 @@ The artefact of *The Snowglobe With Marx And Engels* has been translated into di
 | TRANSCODING | 1 | 2 | 3 | 4 | 5 |
 |--|--|--|--|--|--|
 | TITLE | Typology of Transparency | The Mistaken Record | Dancing at a Pace of Snow | Coca-Communism | Das Kapital and its Divinations |
-| PURPOSE | showing how type of transparent material impacts the perceived value of a packaged object | showing how much the mistakes in original classification record of the IISG can augment the interpretation of the object | explaining how the speed of snow impacts the emotional response and audio-visual association | introducing the strange clash of the capitalistic world of Coca-Cola and political ideology opposing it, all on the platform of a snowglobe | exploring the possibilities of repurposing an snow globe as an object |
+| PURPOSE | showing how type of transparent material impacts the perceived value of a packaged object | showing how much the mistakes in original classification record of the IISG can augment the interpretation of the object | explaining how the speed of snow impacts the emotional response and audio-visual association | introducing the strange clash of the capitalistic world of Coca-Cola and political ideology opposing it, all on the platform of a snowglobe | exploring the possibilities of repurposing a snow globe as a storytelling device for complex text-based construction of meaning |
 | MEDIUM | installation | linocut | website | epoxy trinket | website |
-| RESULT | set of 3D printed figures of Marx put in different types of glass and plastic packaging | detailed linocut accompanied by prints, carved based on the mistakes in the description of the snowglobe from IISG | website | small transparent epoxy trinket with a red, 3D printed tag *Communism* in Coca-Cola font inside of it | generator of divinations for the future based on excerpts from Marx's Das Kapital |
+| RESULT | set of 3D printed figures of Marx put in different types of glass and plastic packaging | detailed linocut accompanied by prints, carved based on the mistakes in the description of the snowglobe from IISG | slider controlling the speed of snow and reacting with appropriate audio-visual response | small transparent epoxy trinket with a red, 3D printed tag *Communism* in Coca-Cola font inside of it | generator of divinations based on excerpts from Marx's Das Kapital |
 
 
 [<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
 
 ## Transcoding No. 1
 
-| ELEMENT     | DESCRIPTION |
-| :---        |    :----   |
-| PURPOSE | FILL IN |
-| METHOD | FILL IN |
-| TOOLS | FILL IN |
-| RESULTS | FILL IN |
+| TRANSCODING | 1 |
+|--|--|
+| TITLE | Typology of Transparency |
+| PURPOSE | showing how type of transparent material impacts the perceived value of a packaged object |
+| MEDIUM | installation |
+| RESULT | set of 3D printed figures of Marx put in different types of glass and plastic packaging | 
 
 
 | ![](/assets/T1/marx_plastics.jpg "Selection of materials") |![](/assets/T1/marx_labels.jpg "Mock-up of what the final result might be") |
