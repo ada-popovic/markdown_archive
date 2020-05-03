@@ -362,7 +362,7 @@ The artefact of *The Snowglobe With Marx And Engels* has been translated into di
 | TRANSCODING | 1 | 2 | 3 | 4 | 5 |
 |--|--|--|--|--|--|
 | TITLE | Typology of Transparency | The Mistaken Record | Dancing at a Pace of Snow | Coca-Communism | Das Kapital and its Divinations |
-| PURPOSE | showing how type of transparent material impacts the perceived value of a packaged object | showing how much the mistakes in original classification record of the IISG can augment the interpretation of the object | explaining how the speed of snow impacts the emotional response and audio-visual association | introducing the strange clash of the capitalistic world of Coca-Cola and political ideology opposing it, all on the platform of a snowglobe | exploring the possibilities of repurposing a snow globe as a storytelling device for complex text-based construction of meaning |
+| PURPOSE | showing how type of transparent material impacts the perceived value of a packaged object | showing how much the mistakes in original classification record of the IISG can augment the interpretation of the object | explaining how the speed of snow impacts the emotional response and audio-visual association | introducing the strange clash of the capitalistic world of Coca-Cola and political ideology opposing it, all on the platform of a snowglobe | exploring the possibilities of repurposing a snow globe as a storytelling device for complex text-based construction of meaning AND preserving the importance of shaking gesture|
 | MEDIUM | installation | linocut | website | epoxy trinket | website |
 | RESULT | set of 3D printed figures of Marx put in different types of glass and plastic packaging | detailed linocut accompanied by prints, carved based on the mistakes in the description of the snowglobe from IISG | slider controlling the speed of snow and reacting with appropriate audio-visual response | small transparent epoxy trinket with a red, 3D printed tag *Communism* in Coca-Cola font inside of it | generator of divinations based on excerpts from Marx's Das Kapital |
 
@@ -437,7 +437,7 @@ In the near future the word *snow* might become an anachronism. As global warmin
 | TRANSCODING | 5 |
 |--|--|
 | TITLE | Das Kapital and its Divinations |
-| PURPOSE | exploring the possibilities of repurposing a snow globe as a storytelling device for complex text-based construction of meaning |
+| PURPOSE | exploring the possibilities of repurposing a snow globe as a storytelling device for complex text-based construction of meaning AND preserving the importance of shaking gesture|
 | MEDIUM | website |
 | RESULT | generator of divinations based on excerpts from Marx's Das Kapital |
 
@@ -458,7 +458,7 @@ In a digital version the construction would rely on randomly selected words from
 At the beginning of the project I wanted to create a physical, analogue, but interactive sculpture consisting of multiple smaller snowglobes, each of them functioning as a Magic8Ball. Later in the process, I decided to build an online platform for divinations instead. Each divination relies on randomly selected
 
 # Collecting Material
-
+# Quotes
 
 **Selection of original quotes from *Das Kapital* by Karl Marx**:
 
@@ -480,7 +480,8 @@ At the beginning of the project I wanted to create a physical, analogue, but int
 
 4. "_______, _______ and _______ are therefore his three cardinal virtues."
 
-**Selection of nouns**
+
+# Nouns
 
 In order to later fit the sentences gramatically, I had to divide the nouns into singular and plural.
 
@@ -500,6 +501,13 @@ In order to later fit the sentences gramatically, I had to divide the nouns into
 | - greed
 
 
+# Assembling
+
+I started with picking one sentence and replacing its nouns with the nouns from the general selection. The nouns are assigned randomly by the code - each empty spot has its own array from which it selects either singular or plural nouns.
+
+![First working try-out of a generative sentence](/T5/images/sentence1.gif "First working try-out of a generative sentence")
+
+As the words are selected randomly by the computer, they do not necessarily make logical sense, but they are still selected from the same book - Das Kapital. Because of that their vernacular relations make a lot of sense and all generated sentences relate to the original, just in a new abstract sense. The created sentences seem to be mysteriously ambigual and yet, not completely senseless, which allows for individual interpretation of them - as it happens with any ritual of divination.
 
 
 
