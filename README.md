@@ -358,7 +358,6 @@ The resilience of any archived object largely relies on its adaptability to a va
 
 The artefact of *The Snowglobe With Marx And Engels* has been translated into different formats - using both coding and more analogue techniques of such inter-media translation. Every attempt at transcoding takes on a different aspect of the globe, analysing and preserving it, in hope that when viewed collectively, transcoded versions of the original will be able to reflect not only the physicality of the *The Snowglobe*, but also its socio-political relevance and emotional response it may have once evoked.
 
-*ALL TRANSCODINGS*
 
 | TRANSCODING | 1 | 2 | 3 | 4 | 5 |
 |--|--|--|--|--|--|
@@ -367,8 +366,6 @@ The artefact of *The Snowglobe With Marx And Engels* has been translated into di
 | MEDIUM | installation | linocut | website | epoxy trinket | website |
 | RESULT | set of 3D printed figures of Marx put in different types of glass and plastic packaging | detailed linocut accompanied by prints, carved based on the mistakes in the description of the snowglobe from IISG | slider controlling the speed of snow and reacting with appropriate audio-visual response | small transparent epoxy trinket with a red, 3D printed tag *Communism* in Coca-Cola font inside of it | generator of divinations based on excerpts from Marx's Das Kapital |
 
-
-[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
 
 ## Transcoding No. 1
 
@@ -416,6 +413,9 @@ In the near future the word *snow* might become an anachronism. As global warmin
 | MEDIUM | website |
 | RESULT | slider controlling the speed of snow and reacting with appropriate audio-visual response |
 
+
+
+[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
 
 ## Transcoding No. 4
 
