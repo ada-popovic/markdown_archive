@@ -396,9 +396,9 @@ I decided that in order to fully translate all the core elements of the snowglob
 |--|
 | *Generated scannable barcode* |
 
-![First label sticker sketch](/T1/images/label.jpg "Label version 1")
-
-*First version of the label*
+| ![First label sticker sketch](/T1/images/label.jpg "Label version 1")|
+|--|
+| *First version of the label* |
 
 In order to represent the figure of Marx in its most reductive way and be able to put it into packages of different forms and sizes, I decided to 3D print it.
 
@@ -413,7 +413,7 @@ I noticed that just the head of Marx will communicate better than the whole bust
 | *Representation of an edited version of the [model](https://github.com/ada-popovic/markdown_archive/tree/master/T1/3D/marx2.stl)* |
 
 | ![Mock-up of what the final result might be](/T1/images/marx_labels.jpg "Mock-up of what the final result might be")|
-|:--:|
+|--|
 |  *Mock-up of what the final result might look like* |
 
 ### Production
@@ -463,10 +463,65 @@ Original image on IISG website
 | Subject Location   | Germany     | Germany
 | Image | ![Original image on IISG website](/research/images/original.jpeg "Schnee von gestern?") | ![Corrected image](/research/images/original.jpeg "Schnee von gestern?")
 
-After the correction however, I noticed the hidden potential of the errors in the IISG's record. They reminded me of mysterious medieval book illustrations (which even today the historians are struggling to fully decipher) or scientific etchings from early colonial age, in which the explorers tried to note down their (often mistaken) observations about local communities, whose habits and even looks very completely alien to them.
+After the correction however, I noticed the hidden potential of the errors in the IISG's record. They reminded me of mysterious medieval book illustrations, alchemic manuscripts (like [The Voynich Manuscript](http://www.voynich.nu/)) or scientific etchings from early colonial age, in which the explorers tried to note down their (often mistaken) observations about local communities, whose habits and even looks very completely alien to them.
 
-### Materials
+| Examples of old etchings, illustrations and manuscripts |
+|--|
+| ![](/T2/images/oldetching1.jpg)
+| ![](/T2/images/oldetching2.jpg)
+| ![](/T2/images/oldetching3.jpg)
+| ![](/T2/images/oldetching4.jpg)
+
+
+### Methods and Materials
+
+In the context of connection to early scientific illustration, resorting to etching seemed like the most intuitive choice of technique.
+
+*[Etching](https://www.tate.org.uk/art/art-terms/e/etching) is a printmaking technique that uses chemical action to produce incised lines in a metal printing plate which then hold the applied ink and form the image*
+
+| ![](/T2/images/etching.jpg) |
+|--|
+| *example of an etching plate together with a print* |
+
+In the current situation, etching, even though it would be my preferred technique of producing the outcome, is impossible. I decided to try linocut technique instead.
+
+A [linocut](https://www.tate.org.uk/art/art-terms/l/linocut) is a relief print produced in a manner similar to a woodcut but that uses linoleum as the surface into which the design is cut and printed from
+
+| ![](/T2/images/linocut.jpg) |
+|--|
+| *example of a linocut block together with a print* |
+
+| Material | Picture
+|--|--
+| A3 sized linoleum block | ![](/T2/images/mylinoleum.jpg)
+| linoleum cutting knives | ![](/T2/images/mytools.jpg)
+| ink | ![](/T2/images/myink.jpg)
+| ink roller | ![](/T2/images/myroller.jpg)
+
 ### Production
+
+I started with sketching an idea of what kind of element I would like to show on the final print.
+
+List of misinterpretations:
+
+- there are no measurements in the description, so I imagined the globe could be completely out of proportion, human-sized significantly smaller or bigger than the original
+- I thought a viewer, seeing the IISG description without a context could think that Marx and Engels are one organism monster with two heads
+- the inscription of 'CLAY GENET' should lead to an image of actual genet animal
+- the black base of the globe has 3 legs - maybe the globe is an organism in itself and can move?
+- the base on which figurines are standing has actually two colors - half is black and half is white, I would like to attempt at assigning some meaning to that division
+- description in the archive states that the snow inside the globe is black, I would like to refer to it in some way
+- The water is very murky and soapy, maybe something can be noticed there
+- IISG describes the location of the object to be Germany and the time period between 1988 and 1993, I would like that to be also prominently shown on the print
+
+| ![](/T2/images/sketch1.jpg)
+|--|
+| First sketch for the linocut |
+
+| ![](/T2/images/sketch2.jpg)
+|--|
+| Final sketch |
+
+
 ### Final Result
 
 
@@ -517,15 +572,26 @@ In the near future the word *snow* might become an anachronism. As global warmin
 
 **Initial Concept**
 
-*Usually, a snow globe has only image-based content inside of it (as in pictures or sculptures). In this transcoding I would like to not only put words into the globe, but also through multi-level construction allow for arbitrary narrative creation. Each small globe within a greater construction would be similar to a Magic8Ball.
+*Usually, a snow globe has only image-based content inside of it (as in pictures or sculptures). In this transcoding I would like to not only put words into the globe, but also through multi-level construction (as in complex Diney's snowglobes) allow for arbitrary narrative creation. Each small globe within a greater construction would be similar to a Magic8Ball.
+
+| ![](/T2/images/sketch1.jpg)
+|--|
+| Magic8Ball |
 
 In an analogue version each globe would have a small transparent opening at the top and a dice inside of it. After the globe has been shook one of the sides of the dice floats to the top, revealing a word. Among other consecutive words a narrative is created.
 
 In a digital version the construction would rely on randomly selected words from a few array (one array for each globe).*
 
-At the beginning of the project I wanted to create a physical, analogue, but interactive sculpture consisting of multiple smaller snowglobes, each of them functioning as a Magic8Ball. Later in the process, I decided to build an online platform for divinations instead. Each divination relies on randomly selected
+At the beginning of the project I wanted to create a physical, analogue, but interactive sculpture consisting of multiple smaller snowglobes, each of them functioning as a Magic8Ball. Later in the process, I decided to build an online platform for divinations instead. Each divination consists of a excerpt from Marx's *Das Kapital* and a set of randomly assigned nouns that, every time the tool is used, open themselves up to new interpretations, which is an integral part of any esoteric attempt at prediciting the future.
+
+Divination
+
+Esoterism
 
 ### Material
+
+As the source material I used the [original text](/T5/Capital-Volume-I.pdf) of the first volume of *Das Kapital*
+
 ### Quotes
 
 **Selection of original quotes from *Das Kapital* by Karl Marx**:
