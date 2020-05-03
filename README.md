@@ -525,10 +525,11 @@ Later, I tried adding to the [website](https://ada-popovic.github.io/markdown_ar
 |--|--|--|
 | ![Before shaking](/T5/images/beforeshake2.jpg "Before shaking") | ![After shaking](/T5/images/alert.jpg "Alert") | ![After shaking](/T5/images/aftershake2.jpg "After shaking") |
 
-I have added the nouns as a <span> element in the html so that their replacement is easier and works in every screen size.
-![](/T5/images/span1.jpg)
-![](/T5/images/span2.jpg)
-![](/T5/images/span3.jpg) 
+I have added the nouns as a < span > element in the html so that their replacement is easier and works in every screen size.
+| ![](/T5/images/span1.jpg) | ![](/T5/images/span2.jpg) | ![](/T5/images/span3.jpg)  |
+|--|--|--|
+
+
 
 Apart from the basic sentence randomisation I was thinking about adding categories for each sentence such as:
 
