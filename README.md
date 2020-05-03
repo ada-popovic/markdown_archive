@@ -60,12 +60,11 @@ What the noun 'snow' can mean:
 - precipitation in the form of small white ice crystals formed directly from the water vapour of the air at a temperature of less than 32°F (0°C)
 - snow white - shade of colour white
 - visual snow syndrome causes a person to see numerous flickering tiny dots that fill the entire visual field in both eyes
-
-<img src="/research/images/visualsnow.jpg" title ="Visual snow" width="200"/>
+<img src="/research/images/visualsnow.jpg" title ="Visual snow" width="50%"/>
 
 - a mass of flickering white spots on a television or radar screen, caused by interference or a poor signal (tv static snow)
-![Static snow tv](/assets/original.jpeg "Schnee von gestern?")
-![Static snow movement](/assets/original.jpeg "Schnee von gestern?")
+<img src="/research/images/static.jpg" title ="Tv static" width="50%"/>
+<img src="/research/images/static.gif" title ="Tv static in movement" width="40%"/>
 - cocaine, heroin (slang)
 
 
@@ -90,13 +89,17 @@ Etymology in different languages
 
 Snow consists of hexagonally bound molecules of water. It represents water's solid state of matter (created when 0 degrees Celsius or less is reached). It preserves the transformative value of the hydrogen-oxygen bonds, as it can sublimate back into liquid or gas state at a temperature above 0 Celsius.
 
-![Hydrogen bonds](/assets/original.jpeg "Schnee von gestern?")
-![Hydrogen bonds](/assets/original.jpeg "Schnee von gestern?")
-![Hexagonal bonds](/assets/original.jpeg "Schnee von gestern?")
-![Naturally occuring snowflake](/assets/original.jpeg "Schnee von gestern?")
-![Snowflake under controlled environment](/assets/original.jpeg "Schnee von gestern?")
-![Snow examples](/assets/original.jpeg "Schnee von gestern?")
-![Water cycle](/assets/original.jpeg "Schnee von gestern?")
+<img src="/research/images/hydro.jpg" title ="Hydrogen bonds (simplified)" width="20%"/>
+<img src="/research/images/hydro2.jpg" title ="Hydrogen bonds" width="40%"/>
+<img src="/research/images/hydro3.jpg" title ="Hexagonal bonds" width="30%"/>
+
+<img src="/research/images/naturalflake.jpg" title ="Naturally occuring snowflake" width="30%"/>
+<img src="/research/images/controlflake.jpg" title ="Snowflake under controlled environment" width="40%"/>
+
+<img src="/research/images/snowexamples.jpg" title ="Snow examples" width="80%"/>
+
+<img src="/research/images/watercycle.jpg" title ="Water cycle" width="100%"/>
+
 
 ### Global perspective
 
@@ -104,9 +107,10 @@ Thanks to global warming, naturally occuring snow is a vision gradually more and
 
 The warmer countries around equator, without any mountains are the ones least likely to experience snow. Of course, with global warming and all the glaciers melting, the number of countries without snow will gradually grow larger. For example, there used to be a small ski area called Chacaltaya on a tall mountain in Bolivia, but that ski area has already closed permanently because of lack of snow.
 
-![Air temperature](/assets/original.jpeg "Schnee von gestern?")
-![Snow seasons](/assets/original.jpeg "Schnee von gestern?")
-![Density of snow](/assets/original.jpeg "Schnee von gestern?")
+<img src="/research/images/temperature.gif" title ="Air temperature" width="100%"/>
+<img src="/research/images/snowseasons.gif" title ="Snow seasons" width="100%"/>
+<img src="/research/images/density.png" title ="Density of snow" width="100%"/>
+
 
 ### Emotional charge
 
@@ -114,14 +118,14 @@ Snow can, depending on the cintext it appears in, evoke both positive and negati
 
 | positive | negative |
 |--|--|
-| ![Christmas](/assets/original.jpeg "Schnee von gestern?") | ![Skiing](/assets/original.jpeg "Schnee von gestern?")
-| ![Napoleon's defeat](/assets/original.jpeg "Schnee von gestern?") | ![Traffic](/assets/original.jpeg "Schnee von gestern?")
+| <img src="/research/images/christmas.jpg" title ="Christmas" width="100%"/> | <img src="/research/images/skiing.jpg" title ="Skiing" width="100%"/>
+| <img src="/research/images/napoleon.jpg" title ="Napoleon's defeat" width="100%"/> | <img src="/research/images/traffic.jpg" title ="Traffic" width="100%"/>
 
 Generally speaking, snow operates on the border of seductive magicality and cold unapproachability, as shown below in a selection of pop-culturally established stories connected to strong presence of snow.
 
 | positive | negative | in-between |
 |--|--|--|
-| ![Nanny](/assets/original.jpeg "Schnee von gestern?") | ![Narnia](/assets/original.jpeg "Schnee von gestern?") ![Narnia](/assets/original.jpeg "Schnee von gestern?")| ![Frozen](/assets/original.jpeg "Schnee von gestern?")
+| <img src="/research/images/nanny.gif" title ="Christmas" width="100%"/> | <img src="/research/images/narnia.gif" title ="Christmas" width="100%"/> <img src="/research/images/narniawitch.jpg" title ="Christmas" width="100%"/>| <img src="/research/images/elsa.jpg" title ="Christmas" width="100%"/> <img src="/research/images/frozen.jpg" title ="Christmas" width="100%"/>
 
 
 ## Snowglobe
