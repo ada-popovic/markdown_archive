@@ -201,9 +201,11 @@ Depending on their inner subject, 3 main types of snowglobes can be differentiat
 
 ![handshake](/research/images/handshake.gif "Example of a hand shaking a snowglobe)
 
-![3Dshake](/research/images/examplebasreliefglobe.jpg "Example of an online snowglobe")
+![3Dshake](/research/images/onlineshake.gif "Example of an online snowglobe")
 
 ### History Of Snowglobes
+
+[Extensive article by Mental Floss on history of Snow Globes](/research/pdf/HistorySnowGlobes.pdf "Extensive article by Mental Floss on history of Snow Globes")
 
 1900 - Invention of the snow globe
 
@@ -219,40 +221,41 @@ Depending on their inner subject, 3 main types of snowglobes can be differentiat
 
 In all of its unconventional value, as products offering infinite variation, snowglobes are one of the most famous and attractive collector items and can be found in multi-thousand-count collections all over the world.
 
-![collector1](/assets/original.jpeg "Schnee von gestern?")
-![collector2](/assets/original.jpeg "Schnee von gestern?")
-![collector3](/assets/original.jpeg "Schnee von gestern?")
+![collector3](/research/images/collector3.jpg "Schnee von gestern?")
+![collector1](/research/images/collector1.jpg "Schnee von gestern?")
+![collector2](/research/images/collector2.jpg "Schnee von gestern?")
 
-### Snow globe as an established format
+
+<!-- ### Snow globe as an established format
 
 **life-sized Snowglobe**
 
-blow up, soft materail
+blow up, soft material
 
 bubble tent
 
 offered in rentals, often for means of advertisement or promotion
 
-website renting ballerinas with an hourly rate in snoglobes
+website renting ballerinas with an hourly rate in snowglobes
 
 for winter wonderland themed parties
 
 [https://www.dreamsindetail.com/rental-products/snow-globe/](https://www.dreamsindetail.com/rental-products/snow-globe/)
 
-![lifesized1](/assets/images/original.jpeg "Schnee von gestern?")
-![lifesized1](/assets/images/original.jpeg "Schnee von gestern?")
-![lifesized1](/assets/images/original.jpeg "Schnee von gestern?")
-![lifesized1](/assets/images/original.jpeg "Schnee von gestern?")
-![lifesized1](/assets/images/original.jpeg "Schnee von gestern?")
+![lifesized1](/research/images/lifesized1.jpg "Schnee von gestern?")
+![lifesized1](/assets/images/lifesized2.jpg "Schnee von gestern?")
+![lifesized1](/assets/images/lifesized3.jpg "Schnee von gestern?")
+![lifesized1](/assets/images/lifesized4.jpg "Schnee von gestern?") -->
 
-**Digital Snowglobe**
+
+<!-- **Digital Snowglobe** TO BE FINISHED
 
 ![digital1](/assets/images/original.jpeg "Schnee von gestern?")
-![digital2](/assets/images/original.jpeg "Schnee von gestern?")
+![digital2](/assets/images/original.jpeg "Schnee von gestern?") -->
 
 ### Snow globe - more than a tchotchke
 
-[Space+and+Culture-2016-Freeman-1206331215621001.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c446002b-8e76-4e2b-ba9e-4cb4980c4af8/SpaceandCulture-2016-Freeman-1206331215621001.pdf)
+Very informative [text](/research/pdf/SpaceAndCulture.pdf "Space and Culture") by Freeman on hidden potential of snowglobes, of which below a selection of excerpts is presented.
 
 >While at first glance, snow globes might seem trite or trivial objects, on closer reflection, they are revealed to be symbolic realms that provide clues to the desires, dreams, nightmares, and memories of the cultures that produce them.
 
@@ -265,14 +268,16 @@ opens up riddles of modern life. It brings attention to our size, to ourselves, 
 
 ### Marx and Engels
 
-![marxengels](/assets/images/original.jpeg "Schnee von gestern?")
+![Marx and Engels](/research/images/marxengels.jpg "Marx and Engels")
 
 Karl Marx, in full Karl Heinrich Marx, (born May 5, 1818, Trier, Rhine province, Prussia [Germany]—died March 14, 1883, London, England), revolutionary, sociologist, historian, and economist. He published (with Friedrich Engels) Manifest der Kommunistischen Partei (1848), commonly known as The Communist Manifesto, the most celebrated pamphlet in the history of the socialist movement. He also was the author of the movement’s most important book, Das Kapital. These writings and others by Marx and Engels form the basis of the body of thought and belief known as Marxism. (See also socialism; communism.)
 
 Friedrich Engels, (born Nov. 28, 1820, Barmen, Rhine province, Prussia [Germany]—died Aug. 5, 1895, London, Eng.), German socialist philosopher, the closest collaborator of Karl Marx in the foundation of modern communism. They coauthored The Communist Manifesto (1848), and Engels edited the second and third volumes of Das Kapital after Marx’s death.
 
-![communist manifesto](/assets/images/original.jpeg "Schnee von gestern?")
-![capital](/assets/images/original.jpeg "Schnee von gestern?")
+[Communist Manifesto by Karl Marx and Friedrich Engels](/research/pdf/CommunistManifesto.pdf "Communist Manifesto by Karl Marx and Friedrich Engels")
+
+[Das Kapital by Karl Marx](/research/pdf/DasKapital.pdf "Das Kapital by Karl Marx")
+
 
 Documentary about Marx's Life
 [https://www.youtube.com/watch?v=9FaOKNpAiIM&t=695s](https://www.youtube.com/watch?v=9FaOKNpAiIM&t=695s)
@@ -281,22 +286,22 @@ Documentary about Marx's Life
 
 Apart from the Snowglobe With Marx And Engels, there are other objects connected to the German philosopher
 
-![object1](/assets/images/original.jpeg "Schnee von gestern?")
-![object2](/assets/images/original.jpeg "Schnee von gestern?")
-![object3](/assets/images/original.jpeg "Schnee von gestern?")
-![object4](/assets/images/original.jpeg "Schnee von gestern?")
+![object1](/research/images/object1.jpg)
+![object2](/research/images/object2.jpg)
+![object3](/research/images/object3.jpg)
+![object4](/research/images/object4.jpg)
 
 Seeing the mentioned snowglobe next to these objects, we cannot help, but notice that they are not primarily objects of preservation, but rather of mockery.
 
 In the modern age, after the fall of USSR, we are experiencing a new approach to the icons of communism, especially in post-soviet countries. Dictators (Stalin), leaders (Lenin) or idealists (Marx) are commodified and turned into symbols, often ending up as a low quality T-shirt print or edgy cup available online or next to major tourist attraction from Warsaw to Budapest.
 
-![hot stalin](/assets/images/original.jpeg "Schnee von gestern?")
-![tshirt](/assets/images/original.jpeg "Schnee von gestern?")
-![matches](/assets/images/original.jpeg "Schnee von gestern?")
-![cup](/assets/images/original.jpeg "Schnee von gestern?")
+![stalin matches](/research/images/stalinmatches.png)
+![hot stalin](/research/images/hotstalin.png)
+![t-shirt stalin](/research/images/stalintshirt.png)
+
 
 There are however some objects which pose a certain difficulty in judging their intended use. This snowglobe with an image of Stalin from Stalin Museum in Georgia looks like a cheao souvenir, but there is a chance it was an actual dear reminder of the beloved leader kept safely at home by his admirers.
-![georgiastalin](/assets/images/original.jpeg "Schnee von gestern?")
+![georgiastalin](/research/images/stalinglobe.png)
 
 ### The Face In A globe
 
@@ -316,6 +321,7 @@ However, it is specifically Marx that we see in there, so a few possibly over-in
   - Marx was once a person of serious hope, idealist, a **real** person, later turned into an ideological icon by bad propaganda (positioned next to Lenin, Stalin etc), an icon that never really existed:
       - *Marx as the one who offered salvation to proletariat*
       - *Marx as the prophet*
+      [Marx next to Lenin](/research/images/badpropaganda.png)
 
 3. Commodification of marxism especially in post-soviet countries (edgy souvenirs) is parallel to commodification of a snow globe (valued memorabilia → cheap tchotchke)
 
