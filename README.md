@@ -486,19 +486,19 @@ In order to later fit the sentences gramatically, I had to divide the nouns into
 
 | singular | plural |
 |--|--|
-| - education - freedom
-| - law
-- state
-- religion
-- brain
-- hand
-- perseus
-- magic cap
-- work
-- thrift
-- greed | - products
-- virtues
-- monsters |
+| - education | - virtues
+| - freedom | - products
+| - law | - monsters
+| - state
+| - religion
+| - brain
+| - hand
+| - perseus
+| - magic cap
+| - work
+| - thrift
+| - greed
+
 
 
 
