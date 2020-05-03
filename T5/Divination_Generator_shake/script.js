@@ -16,9 +16,9 @@ window.onload = function() {
     function shakeEventDidOccur () {
 
         //put your own code here etc.
-        alert('snow!');
+        // alert('snow!');
 
-        // location.reload();
+        location.reload();
         // document.getElementById("square").style.backgroundImage = "url("snowfall.gif")";
 
     }
