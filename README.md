@@ -4,7 +4,12 @@
 ### Table of Contents
 1. [Artefact](#Artefact)
     1. [Metadata](#Metadata)
-2. [Research](#Research-h1)
+2. [Research](#Research)
+    2. [The Globe](#The-Globe)
+      2. [Snow](#Snow)
+      2. [Snowglobe](#Snowglobe)
+    2. [The Subject](#The-Subject)
+    2. [The Inscriptions](#The-Inscriptions)
 3. [Transcoding](#Transcoding)
     1. [Transcoding No. 1](#Transcoding-no-1)
     2. [Transcoding No. 2](#Transcoding-no-2)
@@ -185,9 +190,129 @@ Depending on their inner subject, 3 main types of snowglobes can be differentiat
 | ![2D](/assets/original.jpeg "Schnee von gestern?") | ![3D](/assets/original.jpeg "Schnee von gestern?") | ![bas](/assets/original.jpeg "Schnee von gestern?") |
 |![2Dexample](/assets/original.jpeg "Schnee von gestern?")| ![3D](/assets/original.jpeg "Schnee von gestern?") | ![basexample](/assets/original.jpeg "Schnee von gestern?") |
 
+### Shaking event
+![handshake](/assets/original.jpeg "Schnee von gestern?")
+![3Dshake](/assets/original.jpeg "Schnee von gestern?")
+
+### History Of Snowglobes
+
+1900 - Invention of the snow globe
+
+1920s - Start of production of snowglobes
+
+1940s - Snoglobes go mainstream
+
+1950s - Switch to plastic-based production
+
+1980s - Snowglobe becomes a symbol of gift industry
+
+### Snowglobe Collectors
+
+In all of its unconventional value, as products offering infinite variation, snowglobes are one of the most famous and attractive collector items and can be found in multi-thousand-count collections all over the world.
+
+![collector1](/assets/original.jpeg "Schnee von gestern?")
+![collector2](/assets/original.jpeg "Schnee von gestern?")
+![collector3](/assets/original.jpeg "Schnee von gestern?")
+
+### Snow globe as an established format
+
+**life-sized Snowglobe**
+
+blow up, soft materail
+
+bubble tent
+
+offered in rentals, often for means of advertisement or promotion
+
+website renting ballerinas with an hourly rate in snoglobes
+
+for winter wonderland themed parties
+
+[https://www.dreamsindetail.com/rental-products/snow-globe/](https://www.dreamsindetail.com/rental-products/snow-globe/)
+
+![lifesized1](/assets/images/original.jpeg "Schnee von gestern?")
+![lifesized1](/assets/images/original.jpeg "Schnee von gestern?")
+![lifesized1](/assets/images/original.jpeg "Schnee von gestern?")
+![lifesized1](/assets/images/original.jpeg "Schnee von gestern?")
+![lifesized1](/assets/images/original.jpeg "Schnee von gestern?")
+
+**Digital Snowglobe**
+
+![digital1](/assets/images/original.jpeg "Schnee von gestern?")
+![digital2](/assets/images/original.jpeg "Schnee von gestern?")
+
+### Snow globe - more than a tchotchke
+
+[Space+and+Culture-2016-Freeman-1206331215621001.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c446002b-8e76-4e2b-ba9e-4cb4980c4af8/SpaceandCulture-2016-Freeman-1206331215621001.pdf)
+
+>While at first glance, snow globes might seem trite or trivial objects, on closer reflection, they are revealed to be symbolic realms that provide clues to the desires, dreams, nightmares, and memories of the cultures that produce them.
+
+>A snowglobe can seem a frustrating object because it does not appear to offer opportunities to create change, only the temporary disruption of a snowstorm or total disruption by smashing.
+
+>Thinking critically about the hermetically sealed worlds of snow globes
+opens up riddles of modern life. It brings attention to our size, to ourselves, and to the worlds we inhabit and create. The art of catastrophe expressed in disaster snow globes points out our faults and our fears, but allows us to give them a shake. As we shake them, they shake us.
 
 # The Subject
 
+### Marx and Engels
+
+![marxengels](/assets/images/original.jpeg "Schnee von gestern?")
+
+Karl Marx, in full Karl Heinrich Marx, (born May 5, 1818, Trier, Rhine province, Prussia [Germany]—died March 14, 1883, London, England), revolutionary, sociologist, historian, and economist. He published (with Friedrich Engels) Manifest der Kommunistischen Partei (1848), commonly known as The Communist Manifesto, the most celebrated pamphlet in the history of the socialist movement. He also was the author of the movement’s most important book, Das Kapital. These writings and others by Marx and Engels form the basis of the body of thought and belief known as Marxism. (See also socialism; communism.)
+
+Friedrich Engels, (born Nov. 28, 1820, Barmen, Rhine province, Prussia [Germany]—died Aug. 5, 1895, London, Eng.), German socialist philosopher, the closest collaborator of Karl Marx in the foundation of modern communism. They coauthored The Communist Manifesto (1848), and Engels edited the second and third volumes of Das Kapital after Marx’s death.
+
+![communist manifesto](/assets/images/original.jpeg "Schnee von gestern?")
+![capital](/assets/images/original.jpeg "Schnee von gestern?")
+
+Documenatry about Marx's Life
+[https://www.youtube.com/watch?v=9FaOKNpAiIM&t=695s](https://www.youtube.com/watch?v=9FaOKNpAiIM&t=695s)
+
+### Similar Objects in IISG
+
+Apart from the Snowglobe With Marx And Engels, there are other objects connected to the German philosopher
+
+![object1](/assets/images/original.jpeg "Schnee von gestern?")
+![object2](/assets/images/original.jpeg "Schnee von gestern?")
+![object3](/assets/images/original.jpeg "Schnee von gestern?")
+![object4](/assets/images/original.jpeg "Schnee von gestern?")
+
+Seeing the mentioned snowglobe next to these objects, we cannot help, but notice that they are not primarily objects of preservation, but rather of mockery.
+
+In the modern age, after the fall of USSR, we are experiencing a new approach to the icons of communism, especially in post-soviet countries. Dictators (Stalin), leaders (Lenin) or idealists (Marx) are commodified and turned into symbols, often ending up as a low quality T-shirt print or edgy cup available online or next to major tourist attraction from Warsaw to Budapest.
+
+![hot stalin](/assets/images/original.jpeg "Schnee von gestern?")
+![tshirt](/assets/images/original.jpeg "Schnee von gestern?")
+![matches](/assets/images/original.jpeg "Schnee von gestern?")
+![cup](/assets/images/original.jpeg "Schnee von gestern?")
+
+There are however some objects which pose a certain difficulty in judging their intended use. This snowglobe with an image of Stalin from Stalin Museum in Georgia looks like a cheao souvenir, but there is a chance it was an actual dear reminder of the beloved leader kept safely at home by his admirers.
+![georgiastalin](/assets/images/original.jpeg "Schnee von gestern?")
+
+### The Face In A globe
+
+Generally speaking, in order to achieve a similar effect of absurdity that this specific artefact holds, it doesn't matter that it's Marx's figure put in there. It could be Stalin, Mao, any 'politically serious' person of recent past with mostly negative or at least controversial connotations and we would relate to it in a similar way - in the future it might be Trump or Putin that will land in such a globe, if they haven't already.
+
+List of traits for someone's figure to be put in that globe and have similar effect of absurdity:
+  1. recognizable face
+  2. a person with serious background (as in powerful enough to have caused some socio-political stir)
+  3. general public has negative or at least controversial connotations to that person
+  4. person of recent past (wouldn't work with king from 500 years ago)
+
+However, it is specifically Marx that we see in there, so a few possibly over-interpreted connections come to mind of a contemporary viewer:
+
+1. Shaking a snow globe = communist revolution that shook the world (and yet it all goes back to calmness as snow falls in a globe)
+2. Devaluation of a snowglobe is parallel to certain devaluation of Marx
+  - snow globes were once expensive memorabilia, now a cheap souvenir
+  - Marx was once a person of serious hope, idealist, a **real** person, later turned into an ideological icon by bad propaganda (positioned next to Lenin, Stalin etc), an icon that never really existed:
+      - *Marx as the one who offered salvation to proletariat*
+      - *Marx as the prophet*
+
+3. Commodification of marxism especially in post-soviet countries (edgy souvenirs) is parallel to commodification of a snow globe (valued memorabilia → cheap tchotchke)
+
+- CLAY GENET
+- 'Schnee van gestern?'
+    - commentary pun?
 
 # The Inscriptions
 
@@ -559,9 +684,54 @@ This is the main way to access your IMD + Coding outcomes for the semester. So i
 You might have a nice conclusive observation to share at the end :)
 
 ## Bibliography
-Of course, as with all research work please include a good bibliography with links, and any references that were used or might give additional depth to the work.
 
-<a name="footnote-1">**[1]**</a>: Look at this little referenced footnote over here. You can look up different text formats for referencing books, online articles, films etc.
+### General Introductory Research
+
+[https://www.mentalfloss.com/article/71983/brief-history-snow-globes](https://www.mentalfloss.com/article/71983/brief-history-snow-globes)
+
+[https://www.quora.com/Which-countries-havent-ever-had-any-record-of-snow](https://www.quora.com/Which-countries-havent-ever-had-any-record-of-snow)
+
+[https://chloesaustrianadventure.wordpress.com/2013/04/13/10-things-you-should-know-about-vienna-and-other-interesting-facts/](https://chloesaustrianadventure.wordpress.com/2013/04/13/10-things-you-should-know-about-vienna-and-other-interesting-facts/)
+
+[https://www.maxinesniderinc.com/blog/general/matter-snow/](https://www.maxinesniderinc.com/blog/general/matter-snow/)
+
+[https://www.viennasnowglobe.at/](https://www.viennasnowglobe.at/)
+
+[https://www.schneekugel.at/geschichte?___store=en&___from_store=de](https://www.schneekugel.at/geschichte?___store=en&___from_store=de)
+
+[https://en.wiktionary.org/wiki/snow](https://en.wiktionary.org/wiki/snow)
+
+[https://www.merriam-webster.com/dictionary/snow](https://www.merriam-webster.com/dictionary/snow)
+
+[https://en.wikipedia.org/wiki/Snow](https://en.wikipedia.org/wiki/Snow)
+
+[https://www.nytimes.com/1997/12/07/nyregion/the-view-from-harrison-collector-of-6000-snow-domes-knows-kitsch-from-priceless.html](https://www.nytimes.com/1997/12/07/nyregion/the-view-from-harrison-collector-of-6000-snow-domes-knows-kitsch-from-priceless.html)
+
+[https://www.kickstarter.com/projects/danabramson/mars-dust-globe](https://www.kickstarter.com/projects/danabramson/mars-dust-globe)
+
+[https://www.amazon.com/gp/product/B001M08Z5E/cathechesguitol-20](https://www.amazon.com/gp/product/B001M08Z5E/cathechesguitol-20)
+
+[https://artsandculture.google.com/asset/snowdome-weight-eiffel-tower/MgHSayX2eeFc2g](https://artsandculture.google.com/asset/snowdome-weight-eiffel-tower/MgHSayX2eeFc2g)
+
+[http://old.post-gazette.com/travel/20001008bear1.asp](http://old.post-gazette.com/travel/20001008bear1.asp)
+
+[https://babel.hathitrust.org/cgi/pt?id=umn.31951000798038h&view=1up&seq=318](https://babel.hathitrust.org/cgi/pt?id=umn.31951000798038h&view=1up&seq=318)
+
+[https://www.queenofsnowglobes.com/snow-globe-collectors/](https://www.queenofsnowglobes.com/snow-globe-collectors/)
+
+[https://en.wikipedia.org/wiki/Noise_(video)](https://en.wikipedia.org/wiki/Noise_(video))
+
+[https://www.thecut.com/2017/10/a-mysterious-condition-that-makes-the-world-look-like-static.html?utm_campaign=sou&utm_source=tw&utm_medium=s1&fbclid=IwAR3J8T_zS5SxbKG-Nu9kIOlUJ1Dnjc38d6tXQ3tRgVRH7wpzMA584AVh8bY](https://www.thecut.com/2017/10/a-mysterious-condition-that-makes-the-world-look-like-static.html?utm_campaign=sou&utm_source=tw&utm_medium=s1&fbclid=IwAR3J8T_zS5SxbKG-Nu9kIOlUJ1Dnjc38d6tXQ3tRgVRH7wpzMA584AVh8bY)
+
+[https://rarediseases.info.nih.gov/diseases/12062/visual-snow-syndrome](https://rarediseases.info.nih.gov/diseases/12062/visual-snow-syndrome)
+
+[https://fuckyeahyoungstalin.tumblr.com/](https://fuckyeahyoungstalin.tumblr.com/)
+
+[https://www.myphotobook.nl/sneeuwbol.html?gclid=Cj0KCQjwtLT1BRD9ARIsAMH3BtU20b3RqjDo3eDHP4ZSUHcHUUSRd34OhXG6p_RzWpdqbjeLVNsoo6waAoPkEALw_wcB](https://www.myphotobook.nl/sneeuwbol.html?gclid=Cj0KCQjwtLT1BRD9ARIsAMH3BtU20b3RqjDo3eDHP4ZSUHcHUUSRd34OhXG6p_RzWpdqbjeLVNsoo6waAoPkEALw_wcB)
+
+[https://www.britannica.com/biography/Karl-Marx](https://www.britannica.com/biography/Karl-Marx)
+
+[https://plato.stanford.edu/entries/marx/](https://plato.stanford.edu/entries/marx/)
 
 
 ---------------------------------------
