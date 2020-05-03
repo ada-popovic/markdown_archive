@@ -367,6 +367,9 @@ The artefact of *The Snowglobe With Marx And Engels* has been translated into di
 | RESULT | set of 3D printed figures of Marx put in different types of glass and plastic packaging | detailed linocut accompanied by prints, carved based on the mistakes in the description of the snowglobe from IISG | slider controlling the speed of snow and reacting with appropriate audio-visual response | small transparent epoxy trinket with a red, 3D printed tag *Communism* in Coca-Cola font inside of it | generator of divinations based on excerpts from Marx's Das Kapital |
 
 
+
+[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
+
 ## Transcoding No. 1
 
 | TRANSCODING | 1 |
@@ -417,9 +420,8 @@ Proposal of what the label put on the package could be. The title of the product
 
 ### Disappearing snow
 
-In the near future the word *snow* might become an anachronism. As global warming progresses, snow is more and more of a rare sight. And without its natural occurence, its relatability is lost. Phenomena like TV static/snow, visual snow or yesterday's snow would be named differently if snow did not exist anymore.
+In the near future the word *snow* might become an anachronism. As global warming progresses, snow is more and more of a rare sight. And without its natural occurence, its relatability is lost. Phenomena like TV static/snow, visual snow syndrome or 'yesterday's snow' would be named differently if snow did not exist anymore.
 
-[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
 
 ## Transcoding No. 4
 
@@ -440,7 +442,7 @@ In the near future the word *snow* might become an anachronism. As global warmin
 | RESULT | generator of divinations based on excerpts from Marx's Das Kapital |
 
 
-https://ada-popovic.github.io/markdown_archive/capital/
+https://ada-popovic.github.io/markdown_archive/T5/Divination_Generator
 
 Usually snow globe has only image-based content inside of it (as in pictures or sculptures). In this transcoding I would like to not only put words into the globe, but also through multi-level construction allow for arbitrary narrative creation. Each small globe within a greater construction would be similar to a Magic8Ball.
 
