@@ -396,9 +396,9 @@ I decided that in order to fully translate all the core elements of the snowglob
 |--|
 | *Generated scannable barcode* |
 
-![First label sticker sketch](/assets/images/label.jpg "Label version 1")
+![First label sticker sketch](/T1/images/label.jpg "Label version 1")
 
-*First version of the labele*
+*First version of the label*
 
 In order to represent the figure of Marx in its most reductive way and be able to put it into packages of different forms and sizes, I decided to 3D print it.
 
