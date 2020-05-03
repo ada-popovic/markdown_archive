@@ -60,7 +60,9 @@ What the noun 'snow' can mean:
 - precipitation in the form of small white ice crystals formed directly from the water vapour of the air at a temperature of less than 32°F (0°C)
 - snow white - shade of colour white
 - visual snow syndrome causes a person to see numerous flickering tiny dots that fill the entire visual field in both eyes
-![Visual Snow](/assets/original.jpeg "Schnee von gestern?")
+
+<img src="/research/images/visualsnow.jpg" title ="Visual snow" width="200"/>
+
 - a mass of flickering white spots on a television or radar screen, caused by interference or a poor signal (tv static snow)
 ![Static snow tv](/assets/original.jpeg "Schnee von gestern?")
 ![Static snow movement](/assets/original.jpeg "Schnee von gestern?")
@@ -440,9 +442,12 @@ For the printing I used a the [Anycubic Photon S – UV Resin DLP 3D Printer](ht
 |--|
 |  *Slicing through layers of the to-be-printed model in the software of the 3D printer* |
 
-| ![](/T1/images/pouring.jpg )|
+<img src="/T1/images/pouring.jpg" title ="Pouring resin into the container" width="150"/>
+<img src="/T1/images/layer.jpg" title ="Progression of the print displayed on the screen" width="150"/>
+
+| ![[Caption text]](/T1/images/pouring.jpg )|
 |--|
-|  *Pouring resing into the container* |
+|  *Pouring resin into the container* |
 | ![](/T1/images/layer.jpg )|
 |  *Progression of the print displayed on the screen* |
 | ![](/T1/images/finished.jpg )|
