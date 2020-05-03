@@ -397,11 +397,7 @@ Proposal of what the label put on the package could be. The title of the product
 | MEDIUM | linocut |
 | RESULT | detailed linocut accompanied by prints, carved based on the mistakes in the description of the snowglobe from IISG |
 
-### Description
 
-### Disappearing snow
-
-In the near future the word *snow* might become an anachronism. As global warming progresses, snow is more and more of a rare sight. And without its natural occurence, its relatability is lost. Phenomena like TV static/snow, visual snow or yesterday's snow would be named differently if snow did not exist anymore.
 
 
 ## Transcoding No. 3
@@ -413,7 +409,9 @@ In the near future the word *snow* might become an anachronism. As global warmin
 | MEDIUM | website |
 | RESULT | slider controlling the speed of snow and reacting with appropriate audio-visual response |
 
+### Disappearing snow
 
+In the near future the word *snow* might become an anachronism. As global warming progresses, snow is more and more of a rare sight. And without its natural occurence, its relatability is lost. Phenomena like TV static/snow, visual snow or yesterday's snow would be named differently if snow did not exist anymore.
 
 [<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
 
