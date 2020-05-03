@@ -442,29 +442,51 @@ In the near future the word *snow* might become an anachronism. As global warmin
 | RESULT | generator of divinations based on excerpts from Marx's Das Kapital |
 
 
-https://ada-popovic.github.io/markdown_archive/T5/Divination_Generator
+# Description
 
-Usually snow globe has only image-based content inside of it (as in pictures or sculptures). In this transcoding I would like to not only put words into the globe, but also through multi-level construction allow for arbitrary narrative creation. Each small globe within a greater construction would be similar to a Magic8Ball.
+
+
+# Process
+**Initial Concept**
+
+*Usually, a snow globe has only image-based content inside of it (as in pictures or sculptures). In this transcoding I would like to not only put words into the globe, but also through multi-level construction allow for arbitrary narrative creation. Each small globe within a greater construction would be similar to a Magic8Ball.
 
 In an analogue version each globe would have a small transparent opening at the top and a dice inside of it. After the globe has been shook one of the sides of the dice floats to the top, revealing a word. Among other consecutive words a narrative is created.
 
-In a digital version the construction would rely on randomly selected words from a few array (one array for each globe).
+In a digital version the construction would rely on randomly selected words from a few array (one array for each globe).*
+
+At the beginning of the project I wanted to create a physical, analogue, but interactive sculpture consisting of multiple smaller snowglobes, each of them functioning as a Magic8Ball. Later in the process, I decided to build an online platform for divinations instead. Each divination relies on randomly selected
+
+# Collecting Material
 
 
-### Selection of quotes from *Das Kapital*
+**Selection of original quotes from *Das Kapital* by Karl Marx**:
 
-“Education is free. Freedoom of education shall be enjoyed under the condition fixed by law and under the supreme control of the state”
+1. “Education is free. Freedom of education shall be enjoyed under the condition fixed by law and under the supreme control of the state”
 
-“As, in religion, man is governed by the products of his own brain, so in capitalistic production, he is governed by the products of his own hand.10”
+2. “As, in religion, man is governed by the products of his own brain, so in capitalistic production, he is governed by the products of his own hand.10”
 
-“Perseus wore a magic cap down over his eyes and ears as a make-believe that there are no monsters.”
+3. “Perseus wore a magic cap down over his eyes and ears as a make-believe that there are no monsters.”
 
-"Work, thrift and greed are therefore his three cardinal virtues."
+4. "Work, thrift and greed are therefore his three cardinal virtues."
 
-### Nouns
+**The same quotes with removed nouns**:
 
-Singular
-- education
+1. “_______ is free. _______ of _______ shall be enjoyed under the condition fixed by _______ and under the supreme control of _______”
+
+2. “As, in _______, man is governed by the _______ of his own _______, so in _______, he is governed by the _______ of his own _______.”
+
+3. “_______ wore a _______ down over his _______ and _______ as a make-believe that there are no _______.”
+
+4. "_______, _______ and _______ are therefore his three cardinal virtues."
+
+**Selection of nouns**
+
+In order to later fit the sentences gramatically, I had to divide the nouns into singular and plural.
+
+| singular | plural |
+|--|--|
+| - education
 - freedom
 - law
 - state
@@ -475,12 +497,9 @@ Singular
 - magic cap
 - work
 - thrift
-- greed
-
-Plural
-- products
+- greed | - products
 - virtues
-- monsters
+- monsters |
 
 
 
@@ -488,13 +507,7 @@ Plural
 
 
 
-
-
-
-
-
-
-
+[Divination Generator](https://ada-popovic.github.io/markdown_archive/T5/Divination_Generator)
 
 # Reflection
 You might want to include a section about reflecting on the results of your coding and IMD experiments this semester. It can give additional context before reading the final outcomes below.
@@ -510,7 +523,7 @@ Snowglobe Wunderkammer holds all the objects together
 - linocut scan?
 - website for slider
 - trinket Documentation (photos +video?)
-- website divination
+- [Divination Generator](https://ada-popovic.github.io/markdown_archive/T5/Divination_Generator)
 
 
 # Conclusion
