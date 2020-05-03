@@ -377,14 +377,20 @@ The artefact of *The Snowglobe With Marx And Engels* has been translated into di
 | RESULT | set of 3D printed figures of Marx put in different types of glass and plastic packaging |
 
 
-| ![](/assets/T1/marx_plastics.jpg "Selection of materials") |![](/assets/T1/marx_labels.jpg "Mock-up of what the final result might be") |
+The *Snowglobe with Marx and Engels* is in its most reductive form is just a set of figurines packaged in transparent material.
+
+
+| ![Selection of materials](/assets/images/marx_plastics.jpg "Selection of materials") |![Mock-up of what the final result might be](/assets/images/marx_labels.jpg "Mock-up of what the final result might be")|
 |:--:|:--:|
 | *Selection of materials* | *Mock-up of what the final result might be* |
 
-![](/assets/T1/label.jpg "Selection of materials")
-Proposal of what the label put on the package could be. The title of the product ('Schnnee von gestern?') is teh same as the typography on th eoriginal artefact and the title of the archive. The barcode text was replaced with the original number of the artefact from the IISG archive.
+![First label sticker sketch](/assets/images/label.jpg "Label version 1")
 
-![](/assets/T1/marx_model.jpg "Selection of materials")
+Proposal of what the label put on the package could be. The title of the product ('Schnnee von gestern?') is the same as the typography on the original artefact and the title of the archive. The barcode text was replaced with the original number of the artefact from the IISG archive.
+
+
+![3D model of Marx's face](/assets/images/marx_model.jpg "3D model of Marx's face")
+
 3D model of Marx (to be printed)
 
 
@@ -492,15 +498,21 @@ Plural
 You might want to include a section about reflecting on the results of your coding and IMD experiments this semester. It can give additional context before reading the final outcomes below.
 
 # Outcomes
-This section will be different for each student, depending on how and what is formatted as a final result for the semester assignment. Nevertheless a clear written and documented outcomes is important. So give the appropriate subsections or formats to make this as thorough as possible.
+Snowglobe Wunderkammer holds all the objects together
+
+
 
 ### Outcome Links
-Here you link to your final assignment outcomes. This could be a website, a video, etc etc. Please include links to the appropriate GitHub folder on your repository where your coding tool is stored.
 
-This is the main way to access your IMD + Coding outcomes for the semester. So its very important that you check for bugs, troubleshoot hyperlink issues, embedded media issues etc. Please make sure you KNOW where each file you use is stored. E.g. If you migrated from Notion markdown into GitHub, its **VERY IMPORTANT** to know that Notion randomly stores images on an Amazon server. It changes those locations all the time. So if your main outcome or documentation is still grabbing those links, **its very likely** they might disappear before collectives. So please have all media and necessary files managed well in your own locations (online or github etc).   
+- installation Documentation (photos +video?)
+- linocut scan?
+- website for slider
+- trinket Documentation (photos +video?)
+- website divination
+
 
 # Conclusion
-You might have a nice conclusive observation to share at the end :)
+
 
 ## Bibliography
 
