@@ -14,9 +14,7 @@
         2. [*Schnee von gestern?!*](#Schnee-von-gestern?!)
 3. [Transcoding](#Transcoding)
     1. [Transcoding No. 1](#Transcoding-no-1)
-        - [Description](#Description)
     2. [Transcoding No. 2](#Transcoding-no-2)
-        - [Description](#Description)
     3. [Transcoding No. 3](#Transcoding-no-3)
     4. [Transcoding No. 4](#Transcoding-no-4)
     5. [Transcoding No. 5](#Transcoding-no-5)
@@ -389,7 +387,7 @@ The snowglobe is in its most reductive form is just a set of figurines packaged 
 I started with collecting different kinds of plastic and glass packagings.
 
 | ![Selection of materials](/T1/images/marx_plastics.jpg "Selection of materials") |
-|:--:|:--:|
+|--|
 | *Selection of materials* |
 
 I decided that in order to fully translate all the core elements of the snowglobe (the transparent globe, the figure of Marx and the text), I need to add a label for the inscription 'Schnee van gestern?!'. Not only does that complete the translation, but also immediately evokes terms of disposability, saleability and it commodifies the snowglobe into a ready-made labelled product, with even a functional barcode (created using [this website](https://barcode.tec-it.com)) that after scanning reveals the original IISG classification number of the object.
