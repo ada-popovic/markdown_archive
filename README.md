@@ -45,11 +45,11 @@ Asking (while not necessarily answering), those and other questions is the main 
 
 What constitutes this fascinating artefact is its eclecticism, the fact that on one hand the globe evokes feelings of nostalgia, calmness, lightness, while figures of Marx and Engels bring on certain political seriousness, remind the viewer of the controversial subjects of marxism and communism and their consequences. The connection of those two elements, together with baffling inscriptions, completes an image of an object that in its simplicity of form, is surprisingly complex and absurd.
 
-In order to comprehensibly portray the richness, ridiculousness and metaphorical value of *Snowglobe With Marx And Engels* an explanation of its individual elements, history and socio-political context should be introduced first. Essentially, any snowglobe can be divided into three parts: **The Globe** itself, [**The Subject**](#The-Subject) (figure, picture placed inside of it) and **The Inscription** or any textual content accompanying it (if there is any).
+In order to comprehensibly portray the richness, ridiculousness and metaphorical value of *Snowglobe With Marx And Engels* an explanation of its individual elements, history and socio-political context should be introduced first. Essentially, any snowglobe can be divided into three parts: [**The Globe**](#The-Globe) itself, [**The Subject**](#The-Subject) (figure, picture placed inside of it) and [**The Inscription**](#The-Inscription)or any textual content accompanying it (if there is any).
 
 # The Globe
 
-Preserving relatability of a snow globe logically starts with an explanation of what the clear subject matter, **snow**, is.
+Preserving relatability of a snow globe logically starts with an explanation of what the obviousd subject matter, **snow**, is.
 
 ## Snow
 
@@ -358,10 +358,26 @@ The resilience of any archived object largely relies on its adaptability to a va
 
 The artefact of *The Snowglobe With Marx And Engels* has been translated into different formats - using both coding and more analogue techniques of such inter-media translation. Every attempt at transcoding takes on a different aspect of the globe, analysing and preserving it, in hope that when viewed collectively, transcoded versions of the original will be able to reflect not only the physicality of the *The Snowglobe*, but also its socio-political relevance and emotional response it may have once evoked.
 
+*ALL TRANSCODINGS*
+
+| TRANSCODING | 1 | 2 | 3 | 4 | 5 |
+|--|--|--|--|--|--|
+| TITLE | Typology of Transparency | The Mistaken Record | Dancing at a Pace of Snow | Coca-Communism | Das Kapital and its Divinations |
+| PURPOSE | showing how type of transparent material impacts the perceived value of a packaged object | showing how much the mistakes in original classification record of the IISG can augment the interpretation of the object | explaining how the speed of snow impacts the emotional response and audio-visual association | introducing the strange clash of the capitalistic world of Coca-Cola and political ideology opposing it, all on the platform of a snowglobe | exploring the possibilities of repurposing an snow globe as an object |
+| MEDIUM | installation | linocut | website | epoxy trinket | website |
+| RESULT | set of 3D printed figures of Marx put in different types of glass and plastic packaging | detailed linocut accompanied by prints, carved based on the mistakes in the description of the snowglobe from IISG | website | small transparent epoxy trinket with a red, 3D printed tag *Communism* in Coca-Cola font inside of it | generator of divinations for the future based on excerpts from Marx's Das Kapital |
+
+
+[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
+
 ## Transcoding No. 1
 
-
-
+| ELEMENT     | DESCRIPTION |
+| :---        |    :----   |
+| PURPOSE | FILL IN |
+| METHOD | FILL IN |
+| TOOLS | FILL IN |
+| RESULTS | FILL IN |
 
 
 | ![](/assets/T1/marx_plastics.jpg "Selection of materials") |![](/assets/T1/marx_labels.jpg "Mock-up of what the final result might be") |
@@ -374,104 +390,22 @@ Proposal of what the label put on the package could be. The title of the product
 ![](/assets/T1/marx_model.jpg "Selection of materials")
 3D model of Marx (to be printed)
 
-### Description
-
-
-Short description here. You can structure the information and documentation for each transcoding, design research or coding tool as you like. It's important that you make clear the aims & goals of the transcoding, what methods and tools you use. If this is often the same across different transcodings, consider making a standardised table at the beginning of each.
-
-You should include well-formatted documentation of your experiments and developments below. Someone without previous knowledge about your work should be able to follow along the steps, aims and results of your developments from this structure. Make sure all media used is correctly linked or embedded (images, PDFs, Videos, etc).
-
-### Methods
-Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
-
-With some HTML tags you can do simple styling in markdown, for example:
-
-    <width="50%">
-[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
-
-Remember to include the url link to jump to the full media, of course!
-
-
-### Tools
-Mention the tools that you used or made (if and when relevant).
-
-### Results
-Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.  
-
-## Transcoding Tool
-### Description
-You might have made multiple coding tools during the semester. Or the transcoding tool might be part of a specific transcoding experiment itself. It's up to you to define the linear flow of the Readme. Just like the transcoding of media itself, the coding tool should be well documented. So if you are using a coding tool in your first experiment, include the documentation of the coding tool **before** you include the results, etc.
-
-### Aims
-Include the main aims or intentions behind making the tool, and what it is used for.
-
-### Methods
-This includes the coding languages, coding frameworks or libraries, and any platforms or webtools for example.   
-
-### Results
-The coding tool will vary a lot between different students. So depending on the use and type, you may include more or less documentation here.
-
-### Source Links
-Please include links to the tools, sources etc used during the coding. E.g. the resources used for making your coding tool.  
-
 
 ## Transcoding No. 2
-### Description
 
+| ELEMENT     | DESCRIPTION |
+| :---        |    :----   |
+| PURPOSE | FILL IN |
+| METHOD | FILL IN |
+| TOOLS | FILL IN |
+| MEDIUM | FILL IN |
+| RESULTS | FILL IN |
+
+### Description
 
 ### Disappearing snow
 
 In the near future the word *snow* might become an anachronism. As global warming progresses, snow is more and more of a rare sight. And without its natural occurence, its relatability is lost. Phenomena like TV static/snow, visual snow or yesterday's snow would be named differently if snow did not exist anymore.
-
-
-| Tag | Data |  
-|--|--|
-**IISG BG K21/144** | [IISG BG K21/144](https://search.iisg.amsterdam/Record/991455)
-| **Physical Description** | Plastic Snowglobe
-| **Type** | Object
-| **Medium** | Sculpture
-| **Materials** | Plastic, Water, Clay
-| **Date** | 1988-1993
-|![Original image on IISG website](/assets/original.jpeg "Schnee von gestern?")| The image shows the original *Snowglobe With Marx And Engels* as held in the International Institute of Social History in Amsterdam. Transparent plastic globe with a flat, round, 3-legged base of black plastic contains a figure of sitting Karl Marx and standing Friedrich Engels next to him. The diameter of the base is around 12cm and the height of the globe around 10cm. Judging by the colour and texture, the figures are most probably made out of clay, however there is no firm proof, as the inside of the globe cannot be accessed. On the back of the box-shaped element Karl Marx is sitting on, there is an inscription "CLAY Genet". The inscription seems to be incised directly into the material by hand, not imprinted automatically. As the 'CLAY' part of the inscription could be a clue to the type of material used, the meaning of 'Genet' remains a mystery. In front of the figures, on the inner white base of the globe (on which the figures are positioned), the words 'Schnee van gestern!?' are printed in black ink in decorative script typeface. Both figures are submerged in soapy, murky water. Initially intended to fill out the whole globe, now the liquid reaches to only about half the height of the globe. In the water there are floating particles of what seems to be small white plastic shavings. The snowglobe fits in human hand in order to facilitate shaking the object. When the globe is shook, the white plastic particles are supposed to imitate a snowfall, as after initial blizzard  chaos, gradually slowed down by the water resistance, they calmly travel back to the bottom of the object.
-
-
-Short description here. You can structure the information and documentation for each transcoding, design research or coding tool as you like. It's important that you make clear the aims & goals of the transcoding, what methods and tools you use. If this is often the same across different transcodings, consider making a standardised table at the beginning of each.
-
-You should include well-formatted documentation of your experiments and developments below. Someone without previous knowledge about your work should be able to follow along the steps, aims and results of your developments from this structure. Make sure all media used is correctly linked or embedded (images, PDFs, Videos, etc).
-
-### Methods
-Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
-
-With some HTML tags you can do simple styling in markdown, for example:
-
-    <width="50%">
-[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
-
-Remember to include the url link to jump to the full media, of course!
-
-
-### Tools
-Mention the tools that you used or made (if and when relevant).
-
-### Results
-Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.  
-
-## Transcoding Tool
-### Description
-You might have made multiple coding tools during the semester. Or the transcoding tool might be part of a specific transcoding experiment itself. It's up to you to define the linear flow of the Readme. Just like the transcoding of media itself, the coding tool should be well documented. So if you are using a coding tool in your first experiment, include the documentation of the coding tool **before** you include the results, etc.
-
-### Aims
-Include the main aims or intentions behind making the tool, and what it is used for.
-
-### Methods
-This includes the coding languages, coding frameworks or libraries, and any platforms or webtools for example.   
-
-### Results
-The coding tool will vary a lot between different students. So depending on the use and type, you may include more or less documentation here.
-
-### Source Links
-Please include links to the tools, sources etc used during the coding. E.g. the resources used for making your coding tool.  
-
 
 
 ## Transcoding No. 3
@@ -481,7 +415,8 @@ Please include links to the tools, sources etc used during the coding. E.g. the 
 | :---        |    :----   |
 | PURPOSE | Showing the possibilities the format of the snow globes offers for repurposing it as an object of new use. |
 | METHOD | Arranging excerpts from Marx's *Kapital* into new sentences|
-| LAYER | hhh |
+| TOOLS | hhh |
+| RESULTS | hhh |
 
 https://ada-popovic.github.io/markdown_archive/capital/
 
@@ -570,117 +505,10 @@ Please include links to the tools, sources etc used during the coding. E.g. the 
 
 
 ## Transcoding No. 4
-### Description
-
-
-| Tag | Data |  
-|--|--|
-**IISG BG K21/144** | [IISG BG K21/144](https://search.iisg.amsterdam/Record/991455)
-| **Designer** | Clay, Genet
-| **Period** | 1988-1993
-| **Physical Description** | Glass.
-| **Genres** | Object
-| **Note** | Snow-globe with Marx en Engels in black snow.
-| **Subject Person** | Marx, Karl Engels, Friedrich
-| **Subject** | Portrait
-| **Subject Location** | Germany
-|![Original image on IISG website](/assets/original.jpeg "Schnee von gestern?")| The image shows the original *Snowglobe With Marx And Engels* as held in the International Institute of Social History in Amsterdam.
-
-
-Short description here. You can structure the information and documentation for each transcoding, design research or coding tool as you like. It's important that you make clear the aims & goals of the transcoding, what methods and tools you use. If this is often the same across different transcodings, consider making a standardised table at the beginning of each.
-
-You should include well-formatted documentation of your experiments and developments below. Someone without previous knowledge about your work should be able to follow along the steps, aims and results of your developments from this structure. Make sure all media used is correctly linked or embedded (images, PDFs, Videos, etc).
-
-### Methods
-Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
-
-With some HTML tags you can do simple styling in markdown, for example:
-
-    <width="50%">
-[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
-
-Remember to include the url link to jump to the full media, of course!
-
-
-### Tools
-Mention the tools that you used or made (if and when relevant).
-
-### Results
-Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.  
-
-## Transcoding Tool
-### Description
-You might have made multiple coding tools during the semester. Or the transcoding tool might be part of a specific transcoding experiment itself. It's up to you to define the linear flow of the Readme. Just like the transcoding of media itself, the coding tool should be well documented. So if you are using a coding tool in your first experiment, include the documentation of the coding tool **before** you include the results, etc.
-
-### Aims
-Include the main aims or intentions behind making the tool, and what it is used for.
-
-### Methods
-This includes the coding languages, coding frameworks or libraries, and any platforms or webtools for example.   
-
-### Results
-The coding tool will vary a lot between different students. So depending on the use and type, you may include more or less documentation here.
-
-### Source Links
-Please include links to the tools, sources etc used during the coding. E.g. the resources used for making your coding tool.  
-
-
 
 
 ## Transcoding No. 5
-### Description
 
-
-| Tag | Data |  
-|--|--|
-**IISG BG K21/144** | [IISG BG K21/144](https://search.iisg.amsterdam/Record/991455)
-| **Designer** | Clay, Genet
-| **Period** | 1988-1993
-| **Physical Description** | Glass.
-| **Genres** | Object
-| **Note** | Snow-globe with Marx en Engels in black snow.
-| **Subject Person** | Marx, Karl Engels, Friedrich
-| **Subject** | Portrait
-| **Subject Location** | Germany
-|![Original image on IISG website](/assets/original.jpeg "Schnee von gestern?")| The image shows the original *Snowglobe With Marx And Engels* as held in the International Institute of Social History in Amsterdam.
-
-
-Short description here. You can structure the information and documentation for each transcoding, design research or coding tool as you like. It's important that you make clear the aims & goals of the transcoding, what methods and tools you use. If this is often the same across different transcodings, consider making a standardised table at the beginning of each.
-
-You should include well-formatted documentation of your experiments and developments below. Someone without previous knowledge about your work should be able to follow along the steps, aims and results of your developments from this structure. Make sure all media used is correctly linked or embedded (images, PDFs, Videos, etc).
-
-### Methods
-Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
-
-With some HTML tags you can do simple styling in markdown, for example:
-
-    <width="50%">
-[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
-
-Remember to include the url link to jump to the full media, of course!
-
-
-### Tools
-Mention the tools that you used or made (if and when relevant).
-
-### Results
-Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.  
-
-## Transcoding Tool
-### Description
-You might have made multiple coding tools during the semester. Or the transcoding tool might be part of a specific transcoding experiment itself. It's up to you to define the linear flow of the Readme. Just like the transcoding of media itself, the coding tool should be well documented. So if you are using a coding tool in your first experiment, include the documentation of the coding tool **before** you include the results, etc.
-
-### Aims
-Include the main aims or intentions behind making the tool, and what it is used for.
-
-### Methods
-This includes the coding languages, coding frameworks or libraries, and any platforms or webtools for example.   
-
-### Results
-The coding tool will vary a lot between different students. So depending on the use and type, you may include more or less documentation here.
-
-### Source Links
-Please include links to the tools, sources etc used during the coding. E.g. the resources used for making your coding tool.  
 
 
 
