@@ -45,13 +45,11 @@ Asking (while not necessarily answering), those and other questions is the main 
 
 What constitutes this fascinating artefact is its eclecticism, the fact that on one hand the globe evokes feelings of nostalgia, calmness, lightness, while figures of Marx and Engels bring on certain political seriousness, remind the viewer of the controversial subjects of marxism and communism and their consequences. The connection of those two elements, together with baffling inscriptions, completes an image of an object that in its simplicity of form, is surprisingly complex and absurd.
 
-In order to comprehensibly portray the richness, ridiculousness and metaphorical value of *Snowglobe With Marx And Engels* an explanation of its individual elements, history and socio-political context should be introduced first.
-
-Essentially, any snowglobe can be divided into three parts: **the globe** itself, **the subject** (figure, picture placed inside of it) and **the inscription** or any textual content accompanying it (if there is any).
+In order to comprehensibly portray the richness, ridiculousness and metaphorical value of *Snowglobe With Marx And Engels* an explanation of its individual elements, history and socio-political context should be introduced first. Essentially, any snowglobe can be divided into three parts: **The Globe** itself, [**The Subject**](#The-Subject) (figure, picture placed inside of it) and **The Inscription** or any textual content accompanying it (if there is any).
 
 # The Globe
 
-Preserving relatability of a snow globe logically starts with an explanation of what the clear subject matter, **snow** is.
+Preserving relatability of a snow globe logically starts with an explanation of what the clear subject matter, **snow**, is.
 
 ## Snow
 
@@ -312,14 +310,10 @@ However, it is specifically Marx that we see in there, so a few possibly over-in
 
 3. Commodification of marxism especially in post-soviet countries (edgy souvenirs) is parallel to commodification of a snow globe (valued memorabilia → cheap tchotchke)
 
-- CLAY GENET
-- 'Schnee van gestern?'
-    - commentary pun?
 
 # The Inscriptions
 
-On the snowglobe we can find two textual additions: 'CLAY GENET' on the back of the sculpture and 'Schnee van gestern?' in fron of it
-
+On the snowglobe we can find two textual additions: 'CLAY GENET' on the back of the sculpture and 'Schnee von gestern?!' in front of it
 
 ## *CLAY GENET*
 
@@ -339,18 +333,24 @@ However, there does not seem to be any connection between a genet and Marx.
 
 The reason why inscription was made is unknown. It is supposed that it can be the name of the author, but no such person was found. Moreover, the snowglobe is probably an example of a mass produced object (which is rarely individually signed). The only information about the origin of the artefact is that it once was spotted on a souvenir market by a staff member of IISG and brought back to the archive, mostly as a bit of a joke, but also to enrich its collection on Marx.
 
-## *Schnee van gestern?*
+## *Schnee von gestern?!*
 
 ### Meaning
 
-The inscription is made in German and literally translates to *Snow of yesterday*.
+The inscription is made in German and literally translates to *Snow of yesterday* or *Yesterday's snow*.
+
+"Schnee von gestern" is a way of saying that something is already a thing of the past, something old, unimportant that has no more relevance to the discussed topic or is not worthy of worrying about. Its English synonym is 'water under the bridge'.
+
+There are three German documentary movies entitled *Schnee von gestern*
+- by director Michael Würfel from 2008
+- by the directors Claus Oppermann and Gerald Grote from 2008
+- by director Yael Reuveny from 2013
+
+None of them relates to the artefact.
 
 ### Function
 
-Function of the inscription is unknown, but there are some clues. *Snow of yesterday* in a snowglobe is an obvious play on words. Exclamation and question mark at the end of the sentence suggest teasing the viewer to question the object and the person it encapsulates with its plastic vessel. The final effect is a certain commentary pun, making the one who hold the artefact wonder, whether the ideology of Marxism is the thing of the past, whether the world will be shook by it again and what all of it really means.
-
-
-
+Function of the inscription is unknown, but there are some clues. *Snow of yesterday?!* in a snowglobe is an obvious play on words. Exclamation and question mark at the end of the sentence suggest teasing the viewer to question the object and the person it encapsulates with its plastic vessel. The final effect is a certain commentary pun, making the one who hold the artefact wonder, whether the ideology of Marxism is the thing of the past, whether the world will be shook by it again and what all of it really means.
 
 
 # Transcoding
@@ -361,12 +361,6 @@ The artefact of *The Snowglobe With Marx And Engels* has been translated into di
 ## Transcoding No. 1
 
 
-
-| ELEMENT     | DESCRIPTION
-| :---        |    :----   |
-| PURPOSE | Showing how the type of a transparent material impacts the perceived value of the packaged object.    |
-| METHOD | Putting a 3D printed representation of Larl Marx in different kinds of plastic and glass packages.|
-| LAYER | Globe |
 
 
 
@@ -763,6 +757,12 @@ You might have a nice conclusive observation to share at the end :)
 [https://www.britannica.com/biography/Karl-Marx](https://www.britannica.com/biography/Karl-Marx)
 
 [https://plato.stanford.edu/entries/marx/](https://plato.stanford.edu/entries/marx/)
+
+https://german.stackexchange.com/questions/4766/meaning-of-the-schnee-von-gestern-as-an-idiom
+
+https://de.wikipedia.org/wiki/Schnee_von_gestern_(Reuveny)
+https://de.wikipedia.org/wiki/Schnee_von_gestern_(Oppermann,_Grote)
+https://de.wikipedia.org/wiki/Schnee_von_gestern_(Michael_W%C3%BCrfel)
 
 
 ---------------------------------------
