@@ -5,7 +5,8 @@ import ddf.minim.analysis.*;
 import ddf.minim.effects.*;
 
 Minim minim;
-AudioPlayer player;
+AudioPlayer track1;
+AudioPlayer track2;
 AudioInput input;
   
 import processing.sound.*;
@@ -21,6 +22,8 @@ int [] direction = new int[quantity];
 int minFlakeSize = 1;
 int maxFlakeSize = 5;
 
+int playing = 0;
+
 
 void setup() {
   
@@ -31,9 +34,11 @@ void setup() {
   
 
   minim = new Minim(this);
-  player = minim.loadFile("track1.mp3");
+  track1 = minim.loadFile("track1.mp3");
+  track2 = minim.loadFile("track2.mp3");
   input = minim.getLineIn();
-  player.play();
+  track1.play();
+  playing = 1;
 
   
   cp5 = new ControlP5(this);
@@ -60,9 +65,18 @@ void draw() {
   //HERE IS WHERE THE PROBLEM STARTS
   
   if(speed> 150) { 
-  minim = new Minim(this); 
-  player = minim.loadFile("track2.mp3"); 
-  player.play(); }
+    if (playing != 2) {
+      track1.pause();
+      track2.play();
+      playing = 2;
+    }
+  } else {
+     if (playing != 1) {
+      track2.pause();
+      track1.play();
+      playing = 1;
+    }
+  }  
   
   for(int i = 0; i < xPosition.length; i++) {
     
