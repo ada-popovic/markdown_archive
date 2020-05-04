@@ -603,7 +603,14 @@ List of misinterpretations:
 In the near future the word *snow* might become an anachronism. As global warming progresses, snow is more and more of a rare sight. And without its natural occurence, its relatability is lost. Phenomena like TV static/snow, visual snow syndrome or 'yesterday's snow' would be named differently if snow did not exist anymore.
 
 ### Materials
+
+Processing, Arduino?
+
 ### Production
+
+| ![](/T3/images/snow_controller.gif)
+|--|
+| control of the snow speed with a slider
 ### Final Result
 
 ## Transcoding No. 4
