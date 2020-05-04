@@ -1,4 +1,15 @@
 import controlP5.*;
+import ddf.minim.*;
+import ddf.minim.signals.*;
+import ddf.minim.analysis.*;
+import ddf.minim.effects.*;
+
+Minim minim;
+AudioPlayer player;
+AudioInput input;
+  
+import processing.sound.*;
+SoundFile file;
 
 ControlP5 cp5;
 int quantity = 300;
@@ -17,6 +28,13 @@ void setup() {
   frameRate(speed);
   noStroke();
   smooth();
+  
+
+  minim = new Minim(this);
+  player = minim.loadFile("track1.mp3");
+  input = minim.getLineIn();
+  player.play();
+
   
   cp5 = new ControlP5(this);
   
@@ -37,8 +55,14 @@ void setup() {
 void draw() {
   
   background(0);
-  //println(mouseX);
   println(quantity);
+  
+  //HERE IS WHERE THE PROBLEM STARTS
+  
+  if(speed> 150) { 
+  minim = new Minim(this); 
+  player = minim.loadFile("track2.mp3"); 
+  player.play(); }
   
   for(int i = 0; i < xPosition.length; i++) {
     
