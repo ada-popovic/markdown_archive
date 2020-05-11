@@ -22,27 +22,19 @@ window.onload = function() {
     //shake event callback
     function shakeEventDidOccur () {
 
-      function testDeviceOrientation() {
-        // feature detect
         if (typeof DeviceMotionEvent.requestPermission === 'function') {
           DeviceMotionEvent.requestPermission()
             .then(permissionState => {
               if (permissionState === 'granted') {
                 window.addEventListener('devicemotion', () => {});
+                location.reload();
               }
             })
             .catch(console.error);
         } else {
-          // handle regular non iOS 13+ devices
+          location.reload();
         }
       }
-
-        //put your own code here etc.
-        // alert('snow!');
-
-        location.reload();
-      
-    }
 };
 
 var myArray1 = [

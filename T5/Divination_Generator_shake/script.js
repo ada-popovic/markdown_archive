@@ -1,4 +1,43 @@
 
+function shakeEventDidOccur () {
+
+    if (typeof DeviceMotionEvent.requestPermission === 'function') {
+      DeviceMotionEvent.requestPermission()
+        .then(permissionState => {
+          if (permissionState === 'granted') {
+            window.addEventListener('devicemotion', () => {});
+            location.reload();
+          }
+        })
+        .catch(console.error);
+    } else {
+      location.reload();
+    }
+  }
+
+
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 window.onload = function() {
 
     //create a new instance of shake.js.
