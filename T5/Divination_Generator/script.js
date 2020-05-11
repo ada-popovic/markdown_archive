@@ -1,6 +1,26 @@
 
 window.onload = function() {
 
+  function testDeviceOrientation() {
+    // feature detect
+    if (typeof DeviceMotionEvent.requestPermission === 'function') {
+      DeviceMotionEvent.requestPermission()
+        .then(permissionState => {
+          if (permissionState === 'granted') {
+            window.addEventListener('devicemotion', () => {});
+          }
+        })
+        .catch(console.error);
+    } else {
+      // handle regular non iOS 13+ devices
+    }
+  }
+
+
+
+
+
+
     //create a new instance of shake.js.
     var myShakeEvent = new Shake({
         threshold: 15

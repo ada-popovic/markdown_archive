@@ -1,5 +1,7 @@
 window.onload = function() {
 
+
+
     //create a new instance of shake.js.
     var myShakeEvent = new Shake({
         threshold: 15
