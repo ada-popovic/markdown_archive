@@ -23,14 +23,14 @@
 6. [Conclusion](#conclusion)
 7. [Bibliography](#bibliography)
 
-# Artefact
+## Artefact
 In the archive of International Institute of Social History there is a fascinating object. It is a plastic snow globe with Karl Marx and Friedrich Engels inside of it. The object even in it's purest, today's form already poses a multitude of questions and allows for various interpretations. However, what will happen with it in the future? How can we preserve a feeling of holding that snow globe when global warming already threatens the very existence of snow? And Marx - how does putting him in a tchotchke change his image and his ideology? What is the meaning of the snow globe's caption ('Schnee van gestern?')?
 
 Asking (while not necessarily answering), those and other questions is the main premise of the Archival Resilience Project conducted in 2020 in KABK by its 40 students under supervision of Hannes Bernard and Martijn de Heer.
 
 [Research](#Research-h1)
 
-## Metadata
+### Metadata
 | Tag | Data |  
 |--|--|
 **IISG BG K21/144** | [IISG BG K21/144](https://search.iisg.amsterdam/Record/991455)
@@ -41,19 +41,19 @@ Asking (while not necessarily answering), those and other questions is the main 
 | **Date** | 1988-1993
 |![](/research/images/main_picture_marx.png "Schnee von gestern?")| The image shows the original *Snowglobe With Marx And Engels* as held in the International Institute of Social History in Amsterdam. Transparent plastic globe with a flat, round, 3-legged base of black plastic contains a figure of sitting Karl Marx and standing Friedrich Engels next to him. The diameter of the base is around 12cm and the height of the globe around 10cm. Judging by the colour and texture, the figures are most probably made out of clay, however there is no firm proof, as the inside of the globe cannot be accessed. On the back of the box-shaped element Karl Marx is sitting on, there is an inscription "CLAY Genet". The inscription seems to be incised directly into the material by hand, not imprinted automatically. As the 'CLAY' part of the inscription could be a clue to the type of material used, the meaning of 'Genet' remains a mystery. In front of the figures, on the inner white base of the globe (on which the figures are positioned), the words 'Schnee van gestern!?' are printed in black ink in decorative script typeface. Both figures are submerged in soapy, murky water. Initially intended to fill out the whole globe, now the liquid reaches to only about half the height of the object. In the water there are floating particles of what seems to be small white plastic shavings. The snowglobe fits in human hand in order to facilitate shaking the object. When the globe is shook, the white plastic particles are supposed to imitate a snowfall, as after initial shake-induced blizzard-like chaos, gradually slowed down by the water resistance, they calmly travel back to the bottom of the object.
 
-# Research
+## Research
 
 What constitutes this fascinating artefact is its eclecticism, the fact that on one hand the globe evokes feelings of nostalgia, calmness, lightness, while figures of Marx and Engels bring on certain political seriousness, remind the viewer of the controversial subjects of marxism and communism and their consequences. The connection of those two elements, together with baffling inscriptions, completes an image of an object that in its simplicity of form, is surprisingly complex and absurd.
 
 In order to comprehensibly portray the richness, ridiculousness and metaphorical value of *Snowglobe With Marx And Engels* an explanation of its individual elements, history and socio-political context should be introduced first. Essentially, any snowglobe can be divided into three parts: [**The Globe**](#The-Globe) itself, [**The Subject**](#The-Subject) (figure, picture placed inside of it) and [**The Inscription**](#The-Inscription)or any textual content accompanying it (if there is any).
 
-# The Globe
+## The Globe
 
 Preserving relatability of a snow globe logically starts with an explanation of what the obviousd subject matter, **snow**, is.
 
-## Snow
+### Snow
 
-### Definitions
+**Definitions**
 
 What the noun 'snow' can mean:
 - atmospheric water vapour frozen into ice crystals and falling in light white flakes or lying on the ground as a white layer.
@@ -86,7 +86,7 @@ Etymology in different languages
 - Sanskrit स्नेह
 
 
-### Water, Vapour, Ice
+**Water, Vapour, Ice**
 
 Snow consists of hexagonally bound molecules of water. It represents water's solid state of matter (created when 0 degrees Celsius or less is reached). It preserves the transformative value of the hydrogen-oxygen bonds, as it can sublimate back into liquid or gas state at a temperature above 0 Celsius.
 
@@ -102,7 +102,7 @@ Snow consists of hexagonally bound molecules of water. It represents water's sol
 <img src="/research/images/watercycle.jpg" title ="Water cycle" width="100%"/>
 
 
-### Global perspective
+**Global perspective**
 
 Thanks to global warming, naturally occuring snow is a vision gradually more and more rare. As much as mountain peaks are whitened with snow pretty much all year long, the majority of land lucky enough to be in cold/moderate climate, experiences a snowfall only in winter season. With the lowering of temperature, a chance of snowfall increases.
 
@@ -113,7 +113,7 @@ The warmer countries around equator, without any mountains are the ones least li
 <img src="/research/images/density.png" title ="Density of snow" width="100%"/>
 
 
-### Emotional charge
+**Emotional charge**
 
 Snow can, depending on the cintext it appears in, evoke both positive and negative connections.
 
@@ -129,19 +129,19 @@ Generally speaking, snow operates on the border of seductive magicality and cold
 | <img src="/research/images/nanny.gif" title ="Christmas" width="100%"/> | <img src="/research/images/narnia.gif" title ="Christmas" width="100%"/> <img src="/research/images/narniawitch.jpg" title ="Christmas" width="100%"/>| <img src="/research/images/elsa.jpg" title ="Christmas" width="100%"/> <img src="/research/images/frozen.jpg" title ="Christmas" width="100%"/>
 
 
-## Snowglobe
+### Snowglobe
 
 As snow exists somewhere between magical dust and natural disaster, so does an object of a snowglobe position itself on the border of cheap tchotchke and priceless memorabilia.
 
-### Layers
+**Layers**
 
 Every snowglobe consists of the following layers:
 
-**The Name**
+*The Name*
 
 known as snow domes , snow shakers, water domes, water balls, snow scenes and blizzard weights
 
-**The Snow Material**
+*The Snow Material*
 
 The ''snow'' was made of ground rice, bone, ceramic, camphor and wax or porcelain; today it is almost always tiny bits of plastic.
 
@@ -149,7 +149,7 @@ The ''snow'' was made of ground rice, bone, ceramic, camphor and wax or porcelai
 
 how accurate is it that in the majority of mainstream snowglobes, which are supposed to be reminiscent of a magical event of snow globe, it already snows plastic (instead more natural materials like rice, wax, bone). Perhaps one day the snow on our Earth globe will follow. As the natural occurence of snow decreasee, the amount of plastic covering our planet increases.
 
-One of our unique designs included a 120mm snowglobe on a solid silver base which was given to President Bill Clinton. The snowglobe **contained the original confetti which was thrown at his inauguration party.**
+One of our unique designs included a 120mm snowglobe on a solid silver base which was given to President Bill Clinton. The snowglobe contained the original confetti which was thrown at his inauguration party.
 
 <img src="/research/images/penguinglobe.jpg" title ="Penguin" width="30%"/>
 <img src="/research/images/glitterglobe.jpg" title ="Glitter" width="30%"/>
@@ -160,22 +160,22 @@ One of our unique designs included a 120mm snowglobe on a solid silver base whic
 <img src="/research/images/halloweenglobe.png" title ="Halloween" width="30%"/>
 
 
-**The Liquid**
+*The Liquid*
 
 In the 1960's, several children got sick when they drank the contents of domes filled with polluted water taken directly from Hong Kong Harbor. In the 1950's, one manufacturer, finding that water froze when his inventory was being shipped, began adding antifreeze. Today, many manufacturers still add potentially lethal chemicals to prevent freezing and to thicken the water so the flakes drift through slowly.
 
 - there were domes send from Canada that had liquid metaamphetamine in it
  [https://edition.cnn.com/2019/07/26/world/liquid-meth-snow-globes-australia-trnd/index.html](https://edition.cnn.com/2019/07/26/world/liquid-meth-snow-globes-australia-trnd/index.html)
 
-**The Vessel**
+*The Vessel*
 
 In the early 1950's, plastic began to take the place of glass as a material for the globe itself.
 
-**Base**
+*Base*
 
 doesnt really matter as long as its waterproof, most popular choices include plastic
 
-**Subject**
+*Subject*
 THE FIGURINE/DIORAMA/PICTURE
 doesnt really matter as long as its waterproof, most often its a sculpture,
 can be anything, not necessarily connected to snow
@@ -190,7 +190,7 @@ can be anything, not necessarily connected to snow
 <img src="/research/images/typical.jpg" title ="Typical" width="35%"/>
 
 
-### Typology
+**Typology**
 
 Depending on their inner subject, 3 main types of snowglobes can be differentiated: two-dimensional, three-dimensional or bas-relief
 
@@ -199,13 +199,13 @@ Depending on their inner subject, 3 main types of snowglobes can be differentiat
 | ![2D](/research/images/imageglobe.jpg "Image-based globe") | ![3D](/research/images/figureglobe.jpg "Sculpture-based globe") | ![bas](/research/images/basreliefglobe.jpg "Bas-relief globe") |
 |![2Dexample](/research/images/examplepictureglobe.jpg "Example of an image-based globe")| ![3D](/research/images/examplesculptureglobe.jpg "Example of a sculpture-based globe") | ![basexample](/research/images/examplebasreliefglobe.jpg "Example of a bas-relief globe") |
 
-### Shaking event
+**Shaking event**
 
 ![handshake](/research/images/handshake.gif "Example of a hand shaking a snowglobe")
 
 ![3Dshake](/research/images/onlineshake.gif "Example of an online snowglobe")
 
-### History Of Snowglobes
+**History Of Snowglobes**
 
 [Extensive article by Mental Floss on history of Snow Globes](/research/pdf/HistorySnowGlobes.pdf "Extensive article by Mental Floss on history of Snow Globes")
 
@@ -219,7 +219,7 @@ Depending on their inner subject, 3 main types of snowglobes can be differentiat
 
 1980s - Snowglobe becomes a symbol of gift industry
 
-### Snowglobe Collectors
+**Snowglobe Collectors**
 
 In all of its unconventional value, as products offering infinite variation, snowglobes are one of the most famous and attractive collector items and can be found in multi-thousand-count collections all over the world.
 
@@ -255,7 +255,7 @@ for winter wonderland themed parties
 ![digital1](/assets/images/original.jpeg "Schnee von gestern?")
 ![digital2](/assets/images/original.jpeg "Schnee von gestern?") -->
 
-### Snow globe - more than a tchotchke
+**Snow globe - more than a tchotchke**
 
 Very informative [text](/research/pdf/SpaceAndCulture.pdf "Space and Culture") by Freeman on hidden potential of snowglobes, of which below a selection of excerpts is presented.
 
@@ -266,9 +266,9 @@ Very informative [text](/research/pdf/SpaceAndCulture.pdf "Space and Culture") b
 >Thinking critically about the hermetically sealed worlds of snow globes
 opens up riddles of modern life. It brings attention to our size, to ourselves, and to the worlds we inhabit and create. The art of catastrophe expressed in disaster snow globes points out our faults and our fears, but allows us to give them a shake. As we shake them, they shake us.
 
-# The Subject
+### The Subject
 
-### Marx and Engels
+**Marx and Engels**
 
 ![Marx and Engels](/research/images/marxengels.jpg "Marx and Engels")
 
@@ -284,7 +284,7 @@ Friedrich Engels, (born Nov. 28, 1820, Barmen, Rhine province, Prussia [Germany]
 Documentary about Marx's Life
 [https://www.youtube.com/watch?v=9FaOKNpAiIM&t=695s](https://www.youtube.com/watch?v=9FaOKNpAiIM&t=695s)
 
-### Similar Objects in IISG
+**Similar Objects in IISG**
 
 Apart from the Snowglobe With Marx And Engels, there are other objects connected to the German philosopher
 
@@ -305,7 +305,7 @@ In the modern age, after the fall of USSR, we are experiencing a new approach to
 There are however some objects which pose a certain difficulty in judging their intended use. This snowglobe with an image of Stalin from Stalin Museum in Georgia looks like a cheao souvenir, but there is a chance it was an actual dear reminder of the beloved leader kept safely at home by his admirers.
 ![georgiastalin](/research/images/stalinglobe.jpg)
 
-### The Face In A globe
+**The Face In A globe**
 
 Generally speaking, in order to achieve a similar effect of absurdity that this specific artefact holds, it doesn't matter that it's Marx's figure put in there. It could be Stalin, Mao, any 'politically serious' person of recent past with mostly negative or at least controversial connotations and we would relate to it in a similar way - in the future it might be Trump or Putin that will land in such a globe, if they haven't already.
 
@@ -328,13 +328,13 @@ However, it is specifically Marx that we see in there, so a few possibly over-in
 3. Commodification of marxism especially in post-soviet countries (edgy souvenirs) is parallel to commodification of a snow globe (valued memorabilia → cheap tchotchke)
 
 
-# The Inscriptions
+### The Inscriptions
 
 On the snowglobe we can find two textual additions: 'CLAY GENET' on the back of the sculpture and 'Schnee von gestern?!' in front of it
 
-## *CLAY GENET*
+**CLAY GENET**
 
-### Meaning
+*Meaning*
 
 Unfortunately, the IISG is unable to inform what is the meaning of that inscription. Research leads only as far as to show that Genet is a slender cat-like animal with a long body, a long ringed tail, large ears, a pointed muzzle and partly retractile claws.
 
@@ -346,13 +346,13 @@ And there are figurines of it made out of clay.
 
 However, there does not seem to be any connection between a genet and Marx.
 
-### Function
+*Function*
 
 The reason why inscription was made is unknown. It is supposed that it can be the name of the author, but no such person was found. Moreover, the snowglobe is probably an example of a mass produced object (which is rarely individually signed). The only information about the origin of the artefact is that it once was spotted on a souvenir market by a staff member of IISG and brought back to the archive, mostly as a bit of a joke, but also to enrich its collection on Marx.
 
-## *Schnee von gestern?!*
+**Schnee von gestern?!**
 
-### Meaning
+*Meaning*
 
 The inscription is made in German and literally translates to *Snow of yesterday* or *Yesterday's snow*.
 
@@ -365,12 +365,12 @@ There are three German documentary movies entitled *Schnee von gestern*
 
 None of them relates to the artefact.
 
-### Function
+*Function*
 
 Function of the inscription is unknown, but there are some clues. *Snow of yesterday?!* in a snowglobe is an obvious play on words. Exclamation and question mark at the end of the sentence suggest teasing the viewer to question the object and the person it encapsulates with its plastic vessel. The final effect is a certain commentary pun, making the one who hold the artefact wonder, whether the ideology of Marxism is the thing of the past, whether the world will be shook by it again and what all of it really means.
 
 
-# Transcoding
+## Transcoding
 The resilience of any archived object largely relies on its adaptability to a variety of media. Technology comes in, but also dies out at dizzying pace. Innovative technologies (CD, VHS), prevailing the market just 20 years ago are now considered out of date, which majorly impedes the process of retrieving the information held on them.
 
 The artefact of *The Snowglobe With Marx And Engels* has been translated into different formats - using both coding and more analogue techniques of such inter-media translation. Every attempt at transcoding takes on a different aspect of the globe, analysing and preserving it, in hope that when viewed collectively, transcoded versions of the original will be able to reflect not only the physicality of the *The Snowglobe*, but also its socio-political relevance and emotional response it may have once evoked.
@@ -384,7 +384,7 @@ The artefact of *The Snowglobe With Marx And Engels* has been translated into di
 | RESULT | set of 3D printed figures of Marx put in different types of glass and plastic packaging | detailed linocut accompanied by prints, carved based on the mistakes in the description of the snowglobe from IISG | slider controlling the speed of snow and reacting with appropriate audio-visual response | small transparent epoxy trinket with a red, 3D printed tag *Communism* in Coca-Cola font inside of it | generator of divinations based on excerpts from Marx's Das Kapital |
 
 
-## Transcoding No. 1
+### Transcoding No. 1
 
 | TRANSCODING | 1 |
 |--|--|
@@ -393,13 +393,13 @@ The artefact of *The Snowglobe With Marx And Engels* has been translated into di
 | MEDIUM | installation |
 | RESULT | set of 3D printed figures of Marx put in different types of glass and plastic packaging |
 
-### Description
+**Description**
 
 On the website of IISG we can read that the material used for the *Snowglobe with Marx and Engels* is glass. Unfortunately, that information is wrong. It is plastic. And that distinction is quite important in uderstanding that object. Plastic evokes feelings of kitsch and cheapness, glass of craftsmanship and refinement. The only thing that connects the two materials is transparency and water resistance.
 
 The snowglobe is in its most reductive form is just a set of figurines packaged in transparent, water-resistant material. However, I want to show the immediate difference one can feel when interacting with a plastic material vs glass material.
 
-### Materials
+**Materials**
 
 I started with collecting different kinds of plastic and glass packagings.
 
@@ -439,9 +439,9 @@ I noticed that just the head of Marx will communicate better than the whole bust
 |--|
 |  *Mock-up of what the final result might look like* |
 
-### Production
+**Production**
 
-**3D printing the figurines**
+*3D printing the figurines*
 
 For the printing I used a the [Anycubic Photon S – UV Resin DLP 3D Printer](https://www.elektor.nl/anycubic-photon-s-uv-resin-dlp-3d-printer). It is a printer that uses UV-reactive resin, which as the printing progresses, solidifies. That kind of printing allows for a significantly more detailed print.
 
@@ -460,7 +460,7 @@ For the printing I used a the [Anycubic Photon S – UV Resin DLP 3D Printer](ht
 <img src="/T1/images/pouring.jpg" title ="Pouring resin into the container" width="150"/>
 <img src="/T1/images/layer.jpg" title ="Progression of the print displayed on the screen" width="150"/>
 
-| ![[Caption text]](/T1/images/pouring.jpg )|
+| ![[Caption text]](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/pouring.jpg)|
 |--|
 |  *Pouring resin into the container* |
 | ![](/T1/images/layer.jpg )|
