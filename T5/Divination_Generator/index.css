@@ -19,6 +19,11 @@ body {
 
 }
 
+@font-face {
+   font-family: Sprat;
+   src: url("typefaces/Sprat_Variable.ttf");
+}
+
 .sentence {
   width:90%;
   height:100%;
