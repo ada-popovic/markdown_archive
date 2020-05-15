@@ -137,57 +137,56 @@ As snow exists somewhere between magical dust and natural disaster, so does an o
 
 Every snowglobe consists of the following layers:
 
-*The Name*
+1. The Name
 
-known as snow domes , snow shakers, water domes, water balls, snow scenes and blizzard weights
+  known as snow domes , snow shakers, water domes, water balls, snow scenes and blizzard weights
 
-*The Snow Material*
+2. The Snow Material
 
-The ''snow'' was made of ground rice, bone, ceramic, camphor and wax or porcelain; today it is almost always tiny bits of plastic.
+  The ''snow'' was made of ground rice, bone, ceramic, camphor and wax or porcelain; today it is almost always tiny bits of plastic.
 
-- isn't that accurate? it used to be snowing snow, but now, because of our need to own things, it snowing plastic.
+  isn't that accurate? it used to be snowing snow, but now, because of our need to own things, it snowing plastic.
 
-how accurate is it that in the majority of mainstream snowglobes, which are supposed to be reminiscent of a magical event of snow globe, it already snows plastic (instead more natural materials like rice, wax, bone). Perhaps one day the snow on our Earth globe will follow. As the natural occurence of snow decreasee, the amount of plastic covering our planet increases.
+  how accurate is it that in the majority of mainstream snowglobes, which are supposed to be reminiscent of a magical event of snow globe, it already snows plastic (instead more natural materials like rice, wax, bone). Perhaps one day the snow on our Earth globe will follow. As the natural occurence of snow decreasee, the amount of plastic covering our planet increases.
 
-One of our unique designs included a 120mm snowglobe on a solid silver base which was given to President Bill Clinton. The snowglobe contained the original confetti which was thrown at his inauguration party.
+  One of our unique designs included a 120mm snowglobe on a solid silver base which was given to President Bill Clinton. The snowglobe contained the original confetti which was thrown at his inauguration party.
 
-<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/penguinglobe.jpg" title ="Penguin" width="30%"/>
-<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/glitterglobe.jpg" title ="Glitter" width="30%"/>
-<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/mars.gif" title ="Mars" width="30%"/>
+  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/penguinglobe.jpg" title ="Penguin" width="30%"/>
+  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/glitterglobe.jpg" title ="Glitter" width="30%"/>
+  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/mars.gif" title ="Mars" width="30%"/>
 
-<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/loveglobe.jpg" title ="Love" width="30%"/>
-<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/honeyglobe.jpg" title ="Honey" width="30%"/>
-<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/halloweenglobe.png" title ="Halloween" width="30%"/>
+  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/loveglobe.jpg" title ="Love" width="30%"/>
+  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/honeyglobe.jpg" title ="Honey" width="30%"/>
+  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/halloweenglobe.png" title ="Halloween" width="30%"/>
 
 
-*The Liquid*
+3. The Liquid
 
-In the 1960's, several children got sick when they drank the contents of domes filled with polluted water taken directly from Hong Kong Harbor. In the 1950's, one manufacturer, finding that water froze when his inventory was being shipped, began adding antifreeze. Today, many manufacturers still add potentially lethal chemicals to prevent freezing and to thicken the water so the flakes drift through slowly.
+  In the 1960's, several children got sick when they drank the contents of domes filled with polluted water taken directly from Hong Kong Harbor. In the 1950's, one manufacturer, finding that water froze when his inventory was being shipped, began adding antifreeze. Today, many manufacturers still add potentially lethal chemicals to prevent freezing and to thicken the water so the flakes drift through slowly.
 
-- there were domes send from Canada that had liquid metaamphetamine in it
- [https://edition.cnn.com/2019/07/26/world/liquid-meth-snow-globes-australia-trnd/index.html](https://edition.cnn.com/2019/07/26/world/liquid-meth-snow-globes-australia-trnd/index.html)
+  there were domes send from Canada that had liquid metaamphetamine in it   [https://edition.cnn.com/2019/07/26/world/liquid-meth-snow-globes-australia-trnd/index.html](https://edition.cnn.com/2019/07/26/world/liquid-meth-snow-globes-australia-trnd/index.html)
 
-*The Vessel*
+4. The Vessel
 
-In the early 1950's, plastic began to take the place of glass as a material for the globe itself.
+  In the early 1950's, plastic began to take the place of glass as a material for the globe itself.
 
-*Base*
+5. Base
 
-doesnt really matter as long as its waterproof, most popular choices include plastic
+  doesnt really matter as long as its waterproof, most popular choices include plastic
 
-*Subject*
-THE FIGURINE/DIORAMA/PICTURE
-doesnt really matter as long as its waterproof, most often its a sculpture,
-can be anything, not necessarily connected to snow
+6. Subject
+  THE FIGURINE/DIORAMA/PICTURE
+  doesnt really matter as long as its waterproof, most often its a sculpture,
+  can be anything, not necessarily connected to snow
 
-<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/snowman.jpg" title ="Snowman" width="25%"/>
-<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/mickey.jpg" title ="Mickey" width="25%"/>
-<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/florida.jpg" title ="Florida" width="20%"/>
-<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/hawaii.jpg" title ="Hawaii" width="25%"/>
+  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/snowman.jpg" title ="Snowman" width="25%"/>
+  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/mickey.jpg" title ="Mickey" width="25%"/>
+  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/florida.jpg" title ="Florida" width="20%"/>
+  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/hawaii.jpg" title ="Hawaii" width="25%"/>
 
-<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/mekka.jpg" title ="Mekka" width="30%"/>
-<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/pope.jpg" title ="Pope" width="30%"/>
-<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/typical.jpg" title ="Typical" width="35%"/>
+  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/mekka.jpg" title ="Mekka" width="30%"/>
+  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/pope.jpg" title ="Pope" width="30%"/>
+  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/typical.jpg" title ="Typical" width="35%"/>
 
 
 **Typology**
@@ -484,7 +483,7 @@ For the printing I used a the [Anycubic Photon S – UV Resin DLP 3D Printer](ht
 
 ### Final Result
 
-## Transcoding No. 2
+### Transcoding No. 2
 
 | TRANSCODING | 2 |
 |--|--|
@@ -493,7 +492,7 @@ For the printing I used a the [Anycubic Photon S – UV Resin DLP 3D Printer](ht
 | MEDIUM | linocut |
 | RESULT | detailed linocut accompanied by prints, carved based on the mistakes in the description of the snowglobe from IISG |
 
-### Description
+**Description**
 
 Unfortunately, the original record kept on IISG website is a record of multiple errors. Together with an image of extremely low quality, the classification provided by the website leaves the interested in confusion and doesn't provide much relevant help for researchers.
 
@@ -519,7 +518,7 @@ Original image on IISG website
 | Subject Person | Marx, Karl Engels, Friedrich     | Karl Marx, Friedrich Engels
 | Subject   | Portrait      | Snowglobe
 | Subject Location   | Germany     | Germany
-| Image | ![Original image on IISG website](/research/images/original.jpeg "Schnee von gestern?") | ![Corrected image](/research/images/original.jpeg "Schnee von gestern?")
+| Image | ![Original image on IISG website](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/original.jpeg "Schnee von gestern?") | ![Corrected image](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/original.jpeg "Schnee von gestern?")
 
 After the correction however, I noticed the hidden potential of the errors in the IISG's record. They reminded me of phrenology, mysterious medieval book illustrations, alchemic manuscripts (like [The Voynich Manuscript](http://www.voynich.nu/)) or scientific etchings from early colonial age, in which the explorers tried to note down their (often mistaken) observations about local communities, whose habits and even looks very completely alien to them.
 
@@ -535,7 +534,7 @@ After the correction however, I noticed the hidden potential of the errors in th
 [this website](https://www.strangescience.net/stmons.htm) was very helpful in finding examples.
 
 
-### Methods and Materials
+**Methods and Materials**
 
 In the context of connection to early scientific illustration, resorting to etching seemed like the most intuitive choice of technique.
 
@@ -560,7 +559,7 @@ A [linocut](https://www.tate.org.uk/art/art-terms/l/linocut) is a relief print p
 | ink | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/myink.jpg)
 | ink roller | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/myroller.jpg)
 
-### Production
+**Production**
 
 I started with sketching an idea of what kind of element I would like to show on the final print.
 
@@ -584,12 +583,12 @@ List of misinterpretations:
 | Final sketch |
 
 
-### Final Result
+**Final Result**
 
 
 
 
-## Transcoding No. 3
+### Transcoding No. 3
 
 | TRANSCODING | 3 |
 |--|--|
@@ -598,22 +597,22 @@ List of misinterpretations:
 | MEDIUM | website |
 | RESULT | slider controlling the speed of snow and reacting with appropriate audio-visual response |
 
-### Description
+**Description**
 
 In the near future the word *snow* might become an anachronism. As global warming progresses, snow is more and more of a rare sight. And without its natural occurence, its relatability is lost. Phenomena like TV static/snow, visual snow syndrome or 'yesterday's snow' would be named differently if snow did not exist anymore.
 
-### Materials
+**Materials**
 
 Processing, Arduino?
 
-### Production
+**Production**
 
 | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/snow_controller.gif)
 |--|
 | control of the snow speed with a slider
-### Final Result
+**Final Result**
 
-## Transcoding No. 4
+### Transcoding No. 4
 
 | TRANSCODING | 4 |
 |--|--|
@@ -622,12 +621,12 @@ Processing, Arduino?
 | MEDIUM | epoxy trinket |
 | RESULT | small transparent epoxy trinket with a red, 3D printed tag *Communism* in Coca-Cola font inside of it
 
-### Description
-### Materials
-### Production
-### Final Result
+**Description**
+**Materials**
+**Production**
+**Final Result**
 
-## Transcoding No. 5
+### Transcoding No. 5
 
 | TRANSCODING | 5 |
 |--|--|
@@ -637,9 +636,9 @@ Processing, Arduino?
 | RESULT | generator of divinations based on excerpts from Marx's *Das Kapital* |
 
 
-### Description
+**Description**
 
-**Initial Concept**
+*Initial Concept*
 
 *Usually, a snow globe has only image-based content inside of it (as in pictures or sculptures). In this transcoding I would like to not only put words into the globe, but also through multi-level construction (as in complex Diney's snowglobes) allow for arbitrary narrative creation. Each small globe within a greater construction would be similar to a Magic8Ball.
 
@@ -656,27 +655,27 @@ In an analogue version each globe would have a small transparent opening at the 
 
 In a digital version the construction would rely on randomly selected words from a few array (one array for each globe).*
 
-At the beginning of the project I wanted to create a physical, analogue, but interactive sculpture consisting of multiple smaller snowglobes, each of them functioning as a Magic8Ball. Later in the process, I decided to build an online platform for divinations instead. Each divination consists of a excerpt from Marx's *Das Kapital* and a set of randomly assigned nouns that, every time the tool is used, open themselves up to new interpretations, which is an integral part of any esoteric attempt at prediciting the future.
+At the beginning of the project I wanted to create a physical, analogue, but interactive sculpture consisting of multiple smaller snowglobes, each of them functioning as a Magic8Ball. Later in the process, I decided to build an online platform for divinations instead. Each divination consists of a excerpt from Marx's *Das Kapital* and a set of randomly assigned nouns that, every time the tool is used, open themselves up to new interpretations, which is an integral part of any esoteric attempt at prediciing the future.
 
-Divination
+*Divination*
 
-Esoterism
+*Esoterism*
 
 | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/divination0.jpg)
 |--|
 | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/divination1.jpg)
 | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/divination2.gif)
 | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/divination3.jpg)
-| A crystall ball in use as an esoteric/divination tool |
+| A crystal ball in use as an esoteric/divination tool |
 
 
-### Material
+**Material**
 
 As the source material I used the [original text](https://github.com/ada-popovic/markdown_archive/blob/master/T5/Capital-Volume-I.pdf) of the first volume of *Das Kapital*
 
-### Quotes
+**Quotes**
 
-**Selection of original quotes from *Das Kapital* by Karl Marx**:
+*Selection of original quotes from *Das Kapital* by Karl Marx*:
 
 1. “Education is free. Freedom of education shall be enjoyed under the condition fixed by law and under the supreme control of the state”
 
@@ -686,7 +685,7 @@ As the source material I used the [original text](https://github.com/ada-popovic
 
 4. "Work, thrift and greed are therefore his three cardinal virtues."
 
-**The same quotes with removed nouns**:
+*The same quotes with removed nouns*:
 
 1. “_______ is free. _______ of _______ shall be enjoyed under the condition fixed by _______ and under the supreme control of _______”
 
@@ -697,9 +696,9 @@ As the source material I used the [original text](https://github.com/ada-popovic
 4. "_______, _______ and _______ are therefore his three cardinal virtues."
 
 
-### Nouns
+**Nouns**
 
-In order to later fit the sentences gramatically, I had to divide the nouns into singular and plural.
+In order to later fit the sentences grammatically, I had to divide the nouns into singular and plural.
 
 | singular | plural |
 |--|--|
@@ -717,7 +716,7 @@ In order to later fit the sentences gramatically, I had to divide the nouns into
 | - greed
 
 
-### Production
+**Production**
 
 I started with picking one sentence and replacing its nouns with the nouns from the general selection. The nouns are assigned randomly by the code - each empty spot has its own array from which it selects either singular or plural nouns. The underlined spots are for singular ones, the dotted for plural. Each time the website is refreshed a newly generated sentence appears.
 
@@ -733,13 +732,13 @@ I augmented to code and checked if [my result](https://ada-popovic.github.io/mar
 
 | Before shaking | After shaking |
 |--|--|
-| ![Before shaking](/T5/images/beforeshake.jpg "Before shaking") | ![After shaking](/T5/images/aftershake.jpg "After shaking") |
+| ![Before shaking](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/beforeshake.jpg "Before shaking") | ![After shaking](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/aftershake.jpg "After shaking") |
 
 Later, I tried adding to the [website](https://ada-popovic.github.io/markdown_archive/T5/Divination_Generator_shake) the refresh action on shake event. For now the content is misaligned, as it is just a check of functionality.
 
 | Before shaking | Alert appearing on shake event | After shaking |
 |--|--|--|
-| ![Before shaking](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/beforeshake2.jpg "Before shaking") | ![After shaking](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/alert.jpg "Alert") | ![After shaking](/T5/images/aftershake2.jpg "After shaking") |
+| ![Before shaking](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/beforeshake2.jpg "Before shaking") | ![After shaking](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/alert.jpg "Alert") | ![After shaking](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/aftershake2.jpg "After shaking") |
 
 I have added the nouns as a < span > element in the html so that their replacement is easier and works in every screen size.
 | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/span1.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/span2.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/span3.jpg)  |
@@ -757,14 +756,14 @@ Apart from the basic sentence randomisation I was thinking about adding categori
 
 In this way each sentence would give an advice for a specific life domain of the user.
 
-### Final Result
+**Final Result**
 
 [Divination Generator](https://ada-popovic.github.io/markdown_archive/T5/Divination_Generator)
 
-# Reflection
+## Reflection
 During this semester I was planning to make quite a lot of physical, analogue projects next to my coding-related endeavours. Unfortunately, because of COVID-19 crisis, we were forced to present the outcomes in a digital way, which influenced my decision process for majority of transcodings.
 
-# Outcomes
+## Outcomes
 Snowglobe Wunderkammer holds all the objects together?
 
 
@@ -778,12 +777,11 @@ Snowglobe Wunderkammer holds all the objects together?
 - [Divination Generator](https://ada-popovic.github.io/markdown_archive/T5/Divination_Generator)
 
 
-# Conclusion
+## Conclusion
 
 
 ## Bibliography
 
-### General Introductory Research
 
 [https://www.mentalfloss.com/article/71983/brief-history-snow-globes](https://www.mentalfloss.com/article/71983/brief-history-snow-globes)
 
