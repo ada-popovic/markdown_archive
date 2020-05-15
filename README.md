@@ -189,7 +189,7 @@ Every snowglobe consists of the following layers:
   <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/typical.jpg" title ="Typical" width="35%"/>
 
 
-**Typology**
+**Typology** 
 
 Depending on their inner subject, 3 main types of snowglobes can be differentiated: two-dimensional, three-dimensional or bas-relief
 
