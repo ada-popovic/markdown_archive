@@ -126,7 +126,7 @@ Generally speaking, snow operates on the border of seductive magicality and cold
 
 | positive | negative | in-between |
 |--|--|--|
-| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/nanny.gif" title ="Christmas" width="100%"/> | <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/narnia.gif" title ="Christmas" width="100%"/> <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/narniawitch.jpg" title ="Christmas" width="100%"/>| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/elsa.jpg" title ="Christmas" width="100%"/> <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/frozen.jpg" title ="Christmas" width="100%"/>
+| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/nanny.gif" title ="Christmas" width="100%"/> <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/nanny2.jpg" title ="Christmas" width="100%"/>| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/narnia.gif" title ="Christmas" width="100%"/> <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/narniawitch.jpg" title ="Christmas" width="100%"/>| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/elsa.jpg" title ="Christmas" width="100%"/> <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/frozen.jpg" title ="Christmas" width="100%"/>
 
 
 ### Snowglobe
