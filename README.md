@@ -1,4 +1,4 @@
-[<img src="https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/pouring.jpg" width="100%">](#)
+[<img src="https://github.com/ada-popovic/markdown_archive/blob/master/coverimage.jpg" width="100%">](#)
 # Wunderkammer van gestern?
 
 ### Table of Contents
