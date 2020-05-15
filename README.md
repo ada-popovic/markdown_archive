@@ -39,7 +39,7 @@ Asking (while not necessarily answering), those and other questions is the main 
 | **Medium** | Sculpture
 | **Materials** | Plastic, Water, Clay
 | **Date** | 1988-1993
-|![](/research/images/main_picture_marx.png "Schnee von gestern?")| The image shows the original *Snowglobe With Marx And Engels* as held in the International Institute of Social History in Amsterdam. Transparent plastic globe with a flat, round, 3-legged base of black plastic contains a figure of sitting Karl Marx and standing Friedrich Engels next to him. The diameter of the base is around 12cm and the height of the globe around 10cm. Judging by the colour and texture, the figures are most probably made out of clay, however there is no firm proof, as the inside of the globe cannot be accessed. On the back of the box-shaped element Karl Marx is sitting on, there is an inscription "CLAY Genet". The inscription seems to be incised directly into the material by hand, not imprinted automatically. As the 'CLAY' part of the inscription could be a clue to the type of material used, the meaning of 'Genet' remains a mystery. In front of the figures, on the inner white base of the globe (on which the figures are positioned), the words 'Schnee van gestern!?' are printed in black ink in decorative script typeface. Both figures are submerged in soapy, murky water. Initially intended to fill out the whole globe, now the liquid reaches to only about half the height of the object. In the water there are floating particles of what seems to be small white plastic shavings. The snowglobe fits in human hand in order to facilitate shaking the object. When the globe is shook, the white plastic particles are supposed to imitate a snowfall, as after initial shake-induced blizzard-like chaos, gradually slowed down by the water resistance, they calmly travel back to the bottom of the object.
+|![](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/main_picture_marx.png "Schnee von gestern?")| The image shows the original *Snowglobe With Marx And Engels* as held in the International Institute of Social History in Amsterdam. Transparent plastic globe with a flat, round, 3-legged base of black plastic contains a figure of sitting Karl Marx and standing Friedrich Engels next to him. The diameter of the base is around 12cm and the height of the globe around 10cm. Judging by the colour and texture, the figures are most probably made out of clay, however there is no firm proof, as the inside of the globe cannot be accessed. On the back of the box-shaped element Karl Marx is sitting on, there is an inscription "CLAY Genet". The inscription seems to be incised directly into the material by hand, not imprinted automatically. As the 'CLAY' part of the inscription could be a clue to the type of material used, the meaning of 'Genet' remains a mystery. In front of the figures, on the inner white base of the globe (on which the figures are positioned), the words 'Schnee van gestern!?' are printed in black ink in decorative script typeface. Both figures are submerged in soapy, murky water. Initially intended to fill out the whole globe, now the liquid reaches to only about half the height of the object. In the water there are floating particles of what seems to be small white plastic shavings. The snowglobe fits in human hand in order to facilitate shaking the object. When the globe is shook, the white plastic particles are supposed to imitate a snowfall, as after initial shake-induced blizzard-like chaos, gradually slowed down by the water resistance, they calmly travel back to the bottom of the object.
 
 ## Research
 
@@ -49,7 +49,7 @@ In order to comprehensibly portray the richness, ridiculousness and metaphorical
 
 ## The Globe
 
-Preserving relatability of a snow globe logically starts with an explanation of what the obviousd subject matter, **snow**, is.
+Preserving relatability of a snow globe logically starts with an explanation of what the obvious subject matter, **snow**, is.
 
 ### Snow
 
@@ -60,11 +60,11 @@ What the noun 'snow' can mean:
 - precipitation in the form of small white ice crystals formed directly from the water vapour of the air at a temperature of less than 32°F (0°C)
 - snow white - shade of colour white
 - visual snow syndrome causes a person to see numerous flickering tiny dots that fill the entire visual field in both eyes
-<img src="/research/images/visualsnow.jpg" title ="Visual snow" width="50%"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/visualsnow.jpg" title ="Visual snow" width="50%"/>
 
 - a mass of flickering white spots on a television or radar screen, caused by interference or a poor signal (tv static snow)
-<img src="/research/images/static.jpg" title ="Tv static" width="50%"/>
-<img src="/research/images/static.gif" title ="Tv static in movement" width="40%"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/static.jpg" title ="Tv static" width="50%"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/static.gif" title ="Tv static in movement" width="40%"/>
 - cocaine, heroin (slang)
 
 
@@ -90,16 +90,16 @@ Etymology in different languages
 
 Snow consists of hexagonally bound molecules of water. It represents water's solid state of matter (created when 0 degrees Celsius or less is reached). It preserves the transformative value of the hydrogen-oxygen bonds, as it can sublimate back into liquid or gas state at a temperature above 0 Celsius.
 
-<img src="/research/images/hydro.jpg" title ="Hydrogen bonds (simplified)" width="20%"/>
-<img src="/research/images/hydro2.jpg" title ="Hydrogen bonds" width="40%"/>
-<img src="/research/images/hydro3.jpg" title ="Hexagonal bonds" width="30%"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/hydro.jpg" title ="Hydrogen bonds (simplified)" width="20%"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/hydro2.jpg" title ="Hydrogen bonds" width="40%"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/hydro3.jpg" title ="Hexagonal bonds" width="30%"/>
 
-<img src="/research/images/naturalflake.jpg" title ="Naturally occuring snowflake" width="30%"/>
-<img src="/research/images/controlflake.jpg" title ="Snowflake under controlled environment" width="40%"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/naturalflake.jpg" title ="Naturally occuring snowflake" width="30%"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/controlflake.jpg" title ="Snowflake under controlled environment" width="40%"/>
 
-<img src="/research/images/snowexamples.jpg" title ="Snow examples" width="80%"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/snowexamples.jpg" title ="Snow examples" width="80%"/>
 
-<img src="/research/images/watercycle.jpg" title ="Water cycle" width="100%"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/watercycle.jpg" title ="Water cycle" width="100%"/>
 
 
 **Global perspective**
@@ -108,9 +108,9 @@ Thanks to global warming, naturally occuring snow is a vision gradually more and
 
 The warmer countries around equator, without any mountains are the ones least likely to experience snow. Of course, with global warming and all the glaciers melting, the number of countries without snow will gradually grow larger. For example, there used to be a small ski area called Chacaltaya on a tall mountain in Bolivia, but that ski area has already closed permanently because of lack of snow.
 
-<img src="/research/images/temperature.gif" title ="Air temperature" width="100%"/>
-<img src="/research/images/snowseasons.gif" title ="Snow seasons" width="100%"/>
-<img src="/research/images/density.png" title ="Density of snow" width="100%"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/temperature.gif" title ="Air temperature" width="100%"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/snowseasons.gif" title ="Snow seasons" width="100%"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/density.png" title ="Density of snow" width="100%"/>
 
 
 **Emotional charge**
@@ -119,14 +119,14 @@ Snow can, depending on the cintext it appears in, evoke both positive and negati
 
 | positive | negative |
 |--|--|
-| <img src="/research/images/christmas.jpg" title ="Christmas" width="100%"/> | <img src="/research/images/skiing.jpg" title ="Skiing" width="100%"/>
-| <img src="/research/images/napoleon.jpg" title ="Napoleon's defeat" width="100%"/> | <img src="/research/images/traffic.jpg" title ="Traffic" width="100%"/>
+| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/christmas.jpg" title ="Christmas" width="100%"/> | <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/skiing.jpg" title ="Skiing" width="100%"/>
+| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/napoleon.jpg" title ="Napoleon's defeat" width="100%"/> | <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/traffic.jpg" title ="Traffic" width="100%"/>
 
 Generally speaking, snow operates on the border of seductive magicality and cold unapproachability, as shown below in a selection of pop-culturally established stories connected to strong presence of snow.
 
 | positive | negative | in-between |
 |--|--|--|
-| <img src="/research/images/nanny.gif" title ="Christmas" width="100%"/> | <img src="/research/images/narnia.gif" title ="Christmas" width="100%"/> <img src="/research/images/narniawitch.jpg" title ="Christmas" width="100%"/>| <img src="/research/images/elsa.jpg" title ="Christmas" width="100%"/> <img src="/research/images/frozen.jpg" title ="Christmas" width="100%"/>
+| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/nanny.gif" title ="Christmas" width="100%"/> | <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/narnia.gif" title ="Christmas" width="100%"/> <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/narniawitch.jpg" title ="Christmas" width="100%"/>| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/elsa.jpg" title ="Christmas" width="100%"/> <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/frozen.jpg" title ="Christmas" width="100%"/>
 
 
 ### Snowglobe
@@ -151,13 +151,13 @@ how accurate is it that in the majority of mainstream snowglobes, which are supp
 
 One of our unique designs included a 120mm snowglobe on a solid silver base which was given to President Bill Clinton. The snowglobe contained the original confetti which was thrown at his inauguration party.
 
-<img src="/research/images/penguinglobe.jpg" title ="Penguin" width="30%"/>
-<img src="/research/images/glitterglobe.jpg" title ="Glitter" width="30%"/>
-<img src="/research/images/mars.gif" title ="Mars" width="30%"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/penguinglobe.jpg" title ="Penguin" width="30%"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/glitterglobe.jpg" title ="Glitter" width="30%"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/mars.gif" title ="Mars" width="30%"/>
 
-<img src="/research/images/loveglobe.jpg" title ="Love" width="30%"/>
-<img src="/research/images/honeyglobe.jpg" title ="Honey" width="30%"/>
-<img src="/research/images/halloweenglobe.png" title ="Halloween" width="30%"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/loveglobe.jpg" title ="Love" width="30%"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/honeyglobe.jpg" title ="Honey" width="30%"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/halloweenglobe.png" title ="Halloween" width="30%"/>
 
 
 *The Liquid*
@@ -180,14 +180,14 @@ THE FIGURINE/DIORAMA/PICTURE
 doesnt really matter as long as its waterproof, most often its a sculpture,
 can be anything, not necessarily connected to snow
 
-<img src="/research/images/snowman.jpg" title ="Snowman" width="25%"/>
-<img src="/research/images/mickey.jpg" title ="Mickey" width="25%"/>
-<img src="/research/images/florida.jpg" title ="Florida" width="20%"/>
-<img src="/research/images/hawaii.jpg" title ="Hawaii" width="25%"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/snowman.jpg" title ="Snowman" width="25%"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/mickey.jpg" title ="Mickey" width="25%"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/florida.jpg" title ="Florida" width="20%"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/hawaii.jpg" title ="Hawaii" width="25%"/>
 
-<img src="/research/images/mekka.jpg" title ="Mekka" width="30%"/>
-<img src="/research/images/pope.jpg" title ="Pope" width="30%"/>
-<img src="/research/images/typical.jpg" title ="Typical" width="35%"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/mekka.jpg" title ="Mekka" width="30%"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/pope.jpg" title ="Pope" width="30%"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/typical.jpg" title ="Typical" width="35%"/>
 
 
 **Typology**
@@ -196,18 +196,18 @@ Depending on their inner subject, 3 main types of snowglobes can be differentiat
 
 | two-dimensional | three-dimensional | bas-relief |
 |--|--|--|
-| ![2D](/research/images/imageglobe.jpg "Image-based globe") | ![3D](/research/images/figureglobe.jpg "Sculpture-based globe") | ![bas](/research/images/basreliefglobe.jpg "Bas-relief globe") |
-|![2Dexample](/research/images/examplepictureglobe.jpg "Example of an image-based globe")| ![3D](/research/images/examplesculptureglobe.jpg "Example of a sculpture-based globe") | ![basexample](/research/images/examplebasreliefglobe.jpg "Example of a bas-relief globe") |
+| ![2D](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/imageglobe.jpg "Image-based globe") | ![3D](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/figureglobe.jpg "Sculpture-based globe") | ![bas](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/basreliefglobe.jpg "Bas-relief globe") |
+|![2Dexample](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/examplepictureglobe.jpg "Example of an image-based globe")| ![3D](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/examplesculptureglobe.jpg "Example of a sculpture-based globe") | ![basexample](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/examplebasreliefglobe.jpg "Example of a bas-relief globe") |
 
 **Shaking event**
 
-![handshake](/research/images/handshake.gif "Example of a hand shaking a snowglobe")
+![handshake](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/handshake.gif "Example of a hand shaking a snowglobe")
 
-![3Dshake](/research/images/onlineshake.gif "Example of an online snowglobe")
+![3Dshake](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/onlineshake.gif "Example of an online snowglobe")
 
 **History Of Snowglobes**
 
-[Extensive article by Mental Floss on history of Snow Globes](/research/pdf/HistorySnowGlobes.pdf "Extensive article by Mental Floss on history of Snow Globes")
+[Extensive article by Mental Floss on history of Snow Globes](https://github.com/ada-popovic/markdown_archive/blob/master/research/pdf/HistorySnowGlobes.pdf "Extensive article by Mental Floss on history of Snow Globes")
 
 1900 - Invention of the snow globe
 
@@ -223,9 +223,9 @@ Depending on their inner subject, 3 main types of snowglobes can be differentiat
 
 In all of its unconventional value, as products offering infinite variation, snowglobes are one of the most famous and attractive collector items and can be found in multi-thousand-count collections all over the world.
 
-![collector3](/research/images/collector3.jpg "Schnee von gestern?")
-![collector1](/research/images/collector1.jpg "Schnee von gestern?")
-![collector2](/research/images/collector2.jpg "Schnee von gestern?")
+![collector3](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/collector3.jpg "Schnee von gestern?")
+![collector1](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/collector1.jpg "Schnee von gestern?")
+![collector2](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/collector2.jpg "Schnee von gestern?")
 
 
 <!-- ### Snow globe as an established format
@@ -257,7 +257,7 @@ for winter wonderland themed parties
 
 **Snow globe - more than a tchotchke**
 
-Very informative [text](/research/pdf/SpaceAndCulture.pdf "Space and Culture") by Freeman on hidden potential of snowglobes, of which below a selection of excerpts is presented.
+Very informative [text](https://github.com/ada-popovic/markdown_archive/blob/master/research/pdf/SpaceAndCulture.pdf "Space and Culture") by Freeman on hidden potential of snowglobes, of which below a selection of excerpts is presented.
 
 >While at first glance, snow globes might seem trite or trivial objects, on closer reflection, they are revealed to be symbolic realms that provide clues to the desires, dreams, nightmares, and memories of the cultures that produce them.
 
@@ -270,15 +270,15 @@ opens up riddles of modern life. It brings attention to our size, to ourselves, 
 
 **Marx and Engels**
 
-![Marx and Engels](/research/images/marxengels.jpg "Marx and Engels")
+![Marx and Engels](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/marxengels.jpg "Marx and Engels")
 
 Karl Marx, in full Karl Heinrich Marx, (born May 5, 1818, Trier, Rhine province, Prussia [Germany]—died March 14, 1883, London, England), revolutionary, sociologist, historian, and economist. He published (with Friedrich Engels) Manifest der Kommunistischen Partei (1848), commonly known as The Communist Manifesto, the most celebrated pamphlet in the history of the socialist movement. He also was the author of the movement’s most important book, Das Kapital. These writings and others by Marx and Engels form the basis of the body of thought and belief known as Marxism. (See also socialism; communism.)
 
 Friedrich Engels, (born Nov. 28, 1820, Barmen, Rhine province, Prussia [Germany]—died Aug. 5, 1895, London, Eng.), German socialist philosopher, the closest collaborator of Karl Marx in the foundation of modern communism. They coauthored The Communist Manifesto (1848), and Engels edited the second and third volumes of Das Kapital after Marx’s death.
 
-[Communist Manifesto by Karl Marx and Friedrich Engels](/research/pdf/CommunistManifesto.pdf "Communist Manifesto by Karl Marx and Friedrich Engels")
+[Communist Manifesto by Karl Marx and Friedrich Engels](https://github.com/ada-popovic/markdown_archive/blob/master/research/pdf/CommunistManifesto.pdf "Communist Manifesto by Karl Marx and Friedrich Engels")
 
-[Das Kapital by Karl Marx](/research/pdf/DasKapital.pdf "Das Kapital by Karl Marx")
+[Das Kapital by Karl Marx](https://github.com/ada-popovic/markdown_archive/blob/master/research/pdf/DasKapital.pdf "Das Kapital by Karl Marx")
 
 
 Documentary about Marx's Life
@@ -288,22 +288,22 @@ Documentary about Marx's Life
 
 Apart from the Snowglobe With Marx And Engels, there are other objects connected to the German philosopher
 
-![object1](/research/images/object1.jpg)
-![object2](/research/images/object2.jpg)
-![object3](/research/images/object3.jpg)
-![object4](/research/images/object4.jpg)
+![object1](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/object1.jpg)
+![object2](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/object2.jpg)
+![object3](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/object3.jpg)
+![object4](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/object4.jpg)
 
 Seeing the mentioned snowglobe next to these objects, we cannot help, but notice that they are not primarily objects of preservation, but rather of mockery.
 
 In the modern age, after the fall of USSR, we are experiencing a new approach to the icons of communism, especially in post-soviet countries. Dictators (Stalin), leaders (Lenin) or idealists (Marx) are commodified and turned into symbols, often ending up as a low quality T-shirt print or edgy cup available online or next to major tourist attraction from Warsaw to Budapest.
 
-![stalin matches](/research/images/stalinmatches.gif)
-![hot stalin](/research/images/hotstalin.jpg)
-![t-shirt stalin](/research/images/tshirtstalin.jpg)
+![stalin matches](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/stalinmatches.gif)
+![hot stalin](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/hotstalin.jpg)
+![t-shirt stalin](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/tshirtstalin.jpg)
 
 
 There are however some objects which pose a certain difficulty in judging their intended use. This snowglobe with an image of Stalin from Stalin Museum in Georgia looks like a cheao souvenir, but there is a chance it was an actual dear reminder of the beloved leader kept safely at home by his admirers.
-![georgiastalin](/research/images/stalinglobe.jpg)
+![georgiastalin](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/stalinglobe.jpg)
 
 **The Face In A globe**
 
@@ -323,7 +323,7 @@ However, it is specifically Marx that we see in there, so a few possibly over-in
   - Marx was once a person of serious hope, idealist, a **real** person, later turned into an ideological icon by bad propaganda (positioned next to Lenin, Stalin etc), an icon that never really existed:
       - *Marx as the one who offered salvation to proletariat*
       - *Marx as the prophet*
-      ![Marx next to Lenin](/research/images/badpropaganda.png)
+      ![Marx next to Lenin](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/badpropaganda.png)
 
 3. Commodification of marxism especially in post-soviet countries (edgy souvenirs) is parallel to commodification of a snow globe (valued memorabilia → cheap tchotchke)
 
@@ -338,11 +338,11 @@ On the snowglobe we can find two textual additions: 'CLAY GENET' on the back of 
 
 Unfortunately, the IISG is unable to inform what is the meaning of that inscription. Research leads only as far as to show that Genet is a slender cat-like animal with a long body, a long ringed tail, large ears, a pointed muzzle and partly retractile claws.
 
-![genet](/research/images/genet.jpg)
+![genet](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/genet.jpg)
 
 And there are figurines of it made out of clay.
 
-![claygenet](/research/images/claygenet.jpg)
+![claygenet](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/claygenet.jpg)
 
 However, there does not seem to be any connection between a genet and Marx.
 
@@ -403,39 +403,39 @@ The snowglobe is in its most reductive form is just a set of figurines packaged 
 
 I started with collecting different kinds of plastic and glass packagings.
 
-| ![Selection of materials](/T1/images/marx_plastics.jpg "Selection of materials") |
+| ![Selection of materials](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/marx_plastics.jpg "Selection of materials") |
 |--|
 | *Selection of materials* |
 
-| ![](/T1/images/example2.jpg) |
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/example2.jpg) |
 |--|
-| ![](/T1/images/example1.jpg) |
-| ![](/T1/images/example3.jpg) |
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/example1.jpg) |
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/example3.jpg) |
 | *Examples of plastic packages* |
 
 After looking at the above examples of packagings, I decided that in order to fully translate all the core elements of the snowglobe (the transparent globe, the figure of Marx and the text), I need to add a label for the inscription 'Schnee van gestern?!'. Not only does that complete the translation, but also immediately evokes terms of disposability, saleability and it commodifies the snowglobe into a ready-made labelled product, with even a functional barcode (created using [this website](https://barcode.tec-it.com)) that after scanning reveals the original IISG classification number of the object.
 
-| ![generated barcode](/T1/images/barcode.gif) |
+| ![generated barcode](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/barcode.gif) |
 |--|
 | *Generated scannable barcode* |
 
-| ![First label sticker sketch](/T1/images/label.jpg "Label version 1")|
+| ![First label sticker sketch](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/label.jpg "Label version 1")|
 |--|
 | *First version of the label* |
 
 In order to represent the figure of Marx in its most reductive way and be able to put it into packages of different forms and sizes, I decided to 3D print it.
 
-| ![](/T1/images/marx_model.jpg) |
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/marx_model.jpg) |
 |--|
 | *Image of a [found model](http://3dmag.org/en/market/download/item/3638/) of Marx in .stl format for 3D print* |
 
 I noticed that just the head of Marx will communicate better than the whole bust, so I decided to edit it in 3D editing software Cinema 4D.
 
-| ![](/T1/images/marx_head.gif) |
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/marx_head.gif) |
 |--|
 | *Representation of an edited version of the [model](https://github.com/ada-popovic/markdown_archive/tree/master/T1/3D/marx2.stl)* |
 
-| ![Mock-up of what the final result might be](/T1/images/marx_labels.jpg "Mock-up of what the final result might be")|
+| ![Mock-up of what the final result might be](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/marx_labels.jpg "Mock-up of what the final result might be")|
 |--|
 |  *Mock-up of what the final result might look like* |
 
@@ -445,37 +445,37 @@ I noticed that just the head of Marx will communicate better than the whole bust
 
 For the printing I used a the [Anycubic Photon S – UV Resin DLP 3D Printer](https://www.elektor.nl/anycubic-photon-s-uv-resin-dlp-3d-printer). It is a printer that uses UV-reactive resin, which as the printing progresses, solidifies. That kind of printing allows for a significantly more detailed print.
 
-![](/T1/images/printer.jpg)
+![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/printer.jpg)
 
-| ![](/T1/images/board1.png )|
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/board1.png )|
 |--|
-| ![](/T1/images/board2.png )|
-| ![](/T1/images/board3.png )|
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/board2.png )|
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/board3.png )|
 |  *Positioning the figures on the digital board inside the software of the printer* |
 
-| ![](/T1/images/slicing.gif )|
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/slicing.gif )|
 |--|
 |  *Slicing through layers of the to-be-printed model in the software of the 3D printer* |
 
-<img src="/T1/images/pouring.jpg" title ="Pouring resin into the container" width="150"/>
-<img src="/T1/images/layer.jpg" title ="Progression of the print displayed on the screen" width="150"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/pouring.jpg" title ="Pouring resin into the container" width="150"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/layer.jpg" title ="Progression of the print displayed on the screen" width="150"/>
 
 | ![[Caption text]](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/pouring.jpg)|
 |--|
 |  *Pouring resin into the container* |
-| ![](/T1/images/layer.jpg )|
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/layer.jpg )|
 |  *Progression of the print displayed on the screen* |
-| ![](/T1/images/finished.jpg )|
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/finished.jpg )|
 |  *Alert about the print being finished (it took 1 hour and 21 minutes to print)* |
-| ![](/T1/images/upside.jpg )|
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/upside.jpg )|
 |  *An interesting fact is that, the printer prints in an  upside-down manner, so that the figurines are firmly attached to the slowly lifting base)* |
-| ![](/T1/images/ultrasonic.gif )|
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/ultrasonic.gif )|
 |  *After the print, it is best to put the figures in an ultrasonic cleaner to ensure their firmness* |
-| ![](/T1/images/incubator.jpg )|
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/incubator.jpg )|
 |  *Similarly, it is recommended to put the prints under UV light so that they can further solidify* |
-| ![](/T1/images/army.jpg )|
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/army.jpg )|
 |  *Final prints* |
-| ![](/T1/images/package1.jpg )|
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/package1.jpg )|
 |  *One of the prints in an example of a plastic package* |
 
 **Printing the labels**
@@ -498,11 +498,11 @@ For the printing I used a the [Anycubic Photon S – UV Resin DLP 3D Printer](ht
 Unfortunately, the original record kept on IISG website is a record of multiple errors. Together with an image of extremely low quality, the classification provided by the website leaves the interested in confusion and doesn't provide much relevant help for researchers.
 
 
-[<img src="/T2/images/wrongrecord.jpg" width="80%">](https://search.iisg.amsterdam/Record/991455)
+[<img src="https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/wrongrecord.jpg" width="80%">](https://search.iisg.amsterdam/Record/991455)
 
 I started with an attempt at improving the record. Sadly, a lot of information (such as author or exact history of the object could not be obtained to the day).
 
-![Original image on IISG website](/assets/original.jpeg "Schnee von gestern?")
+![Original image on IISG website](https://github.com/ada-popovic/markdown_archive/blob/master/assets/original.jpeg "Schnee von gestern?")
 
 Original image on IISG website
 
@@ -525,12 +525,12 @@ After the correction however, I noticed the hidden potential of the errors in th
 
 | Examples of old etchings, illustrations and manuscripts |
 |--|
-| ![](/T2/images/oldetching1.jpg)
-| ![](/T2/images/oldetching2.jpg)
-| ![](/T2/images/oldetching3.jpg)
-| ![](/T2/images/oldetching6.jpg)
-| ![](/T2/images/oldetching5.jpg)
-| ![](/T2/images/oldetching7.jpg)
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/oldetching1.jpg)
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/oldetching2.jpg)
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/oldetching3.jpg)
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/oldetching6.jpg)
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/oldetching5.jpg)
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/oldetching7.jpg)
 
 [this website](https://www.strangescience.net/stmons.htm) was very helpful in finding examples.
 
@@ -541,7 +541,7 @@ In the context of connection to early scientific illustration, resorting to etch
 
 *[Etching](https://www.tate.org.uk/art/art-terms/e/etching) is a printmaking technique that uses chemical action to produce incised lines in a metal printing plate which then hold the applied ink and form the image*
 
-| ![](/T2/images/etching.jpg) |
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/etching.jpg) |
 |--|
 | *example of an etching plate together with a print* |
 
@@ -549,16 +549,16 @@ In the current situation, etching, even though it would be my preferred techniqu
 
 A [linocut](https://www.tate.org.uk/art/art-terms/l/linocut) is a relief print produced in a manner similar to a woodcut but that uses linoleum as the surface into which the design is cut and printed from
 
-| ![](/T2/images/linocut.jpg) |
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/linocut.jpg) |
 |--|
 | *example of a linocut block together with a print* |
 
 | Material | Picture
 |--|--
-| A3 sized linoleum block | ![](/T2/images/mylinoleum.jpg)
-| linoleum cutting knives | ![](/T2/images/mytools.jpg)
-| ink | ![](/T2/images/myink.jpg)
-| ink roller | ![](/T2/images/myroller.jpg)
+| A3 sized linoleum block | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/mylinoleum.jpg)
+| linoleum cutting knives | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/mytools.jpg)
+| ink | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/myink.jpg)
+| ink roller | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/myroller.jpg)
 
 ### Production
 
@@ -575,11 +575,11 @@ List of misinterpretations:
 - The water is very murky and soapy, maybe something can be noticed there
 - IISG describes the location of the object to be Germany and the time period between 1988 and 1993, I would like that to be also prominently shown on the print
 
-| ![](/T2/images/sketch1.jpg)
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/sketch1.jpg)
 |--|
 | First sketch for the linocut |
 
-| ![](/T2/images/sketch2.jpg)
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/sketch2.jpg)
 |--|
 | Final sketch |
 
@@ -608,7 +608,7 @@ Processing, Arduino?
 
 ### Production
 
-| ![](/T3/images/snow_controller.gif)
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/snow_controller.gif)
 |--|
 | control of the snow speed with a slider
 ### Final Result
@@ -643,12 +643,12 @@ Processing, Arduino?
 
 *Usually, a snow globe has only image-based content inside of it (as in pictures or sculptures). In this transcoding I would like to not only put words into the globe, but also through multi-level construction (as in complex Diney's snowglobes) allow for arbitrary narrative creation. Each small globe within a greater construction would be similar to a Magic8Ball.
 
-| ![](/T5/images/disney1.jpg)
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/disney1.jpg)
 |--|
-| ![](/T5/images/disney2.jpg)
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/disney2.jpg)
 | Examples of Disney's multi-level snowglobe |
 
-| ![](/T5/images/magic8ball.jpg)
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/magic8ball.jpg)
 |--|
 | Magic8Ball |
 
@@ -662,17 +662,17 @@ Divination
 
 Esoterism
 
-| ![](/T5/images/divination0.jpg)
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/divination0.jpg)
 |--|
-| ![](/T5/images/divination1.jpg)
-| ![](/T5/images/divination2.gif)
-| ![](/T5/images/divination3.jpg)
-| A crystall ball in use as an esoteric/divinating tool |
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/divination1.jpg)
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/divination2.gif)
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/divination3.jpg)
+| A crystall ball in use as an esoteric/divination tool |
 
 
 ### Material
 
-As the source material I used the [original text](/T5/Capital-Volume-I.pdf) of the first volume of *Das Kapital*
+As the source material I used the [original text](https://github.com/ada-popovic/markdown_archive/blob/master/T5/Capital-Volume-I.pdf) of the first volume of *Das Kapital*
 
 ### Quotes
 
@@ -721,7 +721,7 @@ In order to later fit the sentences gramatically, I had to divide the nouns into
 
 I started with picking one sentence and replacing its nouns with the nouns from the general selection. The nouns are assigned randomly by the code - each empty spot has its own array from which it selects either singular or plural nouns. The underlined spots are for singular ones, the dotted for plural. Each time the website is refreshed a newly generated sentence appears.
 
-![First working try-out of a generative sentence](/T5/images/sentence1.gif "First working try-out of a generative sentence")
+![First working try-out of a generative sentence](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/sentence1.gif "First working try-out of a generative sentence")
 
 As the words are selected randomly by the computer, they do not necessarily make logical sense, but they are still selected from the same book - Das Kapital. Because of that their vernacular relations make a lot of sense and all generated sentences relate to the original, just in a new abstract sense. The created sentences seem to be mysteriously ambiguous and yet, not completely senseless, which allows for individual interpretation of them - as it happens with any ritual of divination.
 
@@ -739,10 +739,10 @@ Later, I tried adding to the [website](https://ada-popovic.github.io/markdown_ar
 
 | Before shaking | Alert appearing on shake event | After shaking |
 |--|--|--|
-| ![Before shaking](/T5/images/beforeshake2.jpg "Before shaking") | ![After shaking](/T5/images/alert.jpg "Alert") | ![After shaking](/T5/images/aftershake2.jpg "After shaking") |
+| ![Before shaking](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/beforeshake2.jpg "Before shaking") | ![After shaking](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/alert.jpg "Alert") | ![After shaking](/T5/images/aftershake2.jpg "After shaking") |
 
 I have added the nouns as a < span > element in the html so that their replacement is easier and works in every screen size.
-| ![](/T5/images/span1.jpg) | ![](/T5/images/span2.jpg) | ![](/T5/images/span3.jpg)  |
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/span1.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/span2.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/span3.jpg)  |
 |--|--|--|
 
 
