@@ -13,9 +13,16 @@ html {
 }
 
 body {
-  background-color: grey;
   -ms-overflow-style: none;
   overflow: hidden;
+
+}
+
+.back {
+  position: fixed;
+  width:100%;
+  height:100%;
+  background-color: black;
 
 }
 
@@ -30,12 +37,14 @@ body {
   margin-left: 5%;
   margin-top: 10%;
   font-size: 2em;
-  font-family: monospace;
+  font-family: Sprat;
   display: inline-block;
   position: absolute;
+  color: purple;
 
 }
 
 .noun {
   color: red;
+  font-family: Sprat;
 }

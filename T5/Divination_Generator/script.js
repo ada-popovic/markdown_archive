@@ -128,3 +128,11 @@ var myArray5 = [
 var randomItem5 = myArray5[Math.floor(Math.random()*myArray5.length)];
 
 document.getElementById('word5').innerHTML = randomItem5;
+
+
+var colors = ['white', 'purple', 'red'];
+
+$('.sentence').each(function() {
+    $(this).css('color', colors[Math.floor(Math.random() * colors.length)]);
+    $('.noun').css('color', colors[Math.floor(Math.random() * colors.length)]);
+});
