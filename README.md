@@ -406,7 +406,7 @@ The snowglobe is in its most reductive form is just a set of figurines packaged 
 
 I started with collecting different kinds of plastic and glass packagings.
 
-| ![Selection of materials](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/marx_plastics.jpg width="50%") |
+| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/marx_plastics.jpg" title ="Selection of materials)" width="50%"/> |
 |--|
 | *Selection of materials* |
 
