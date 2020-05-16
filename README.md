@@ -412,7 +412,7 @@ I started with collecting different kinds of plastic and glass packagings.
 
 After looking at the above examples of packagings, I decided that in order to fully translate all the core elements of the snowglobe (the transparent globe, the figure of Marx and the text), I need to add a label for the inscription 'Schnee van gestern?!'. Not only does that complete the translation, but also immediately evokes terms of disposability, saleability and it commodifies the snowglobe into a ready-made labelled product, with even a functional barcode (created using [this website](https://barcode.tec-it.com)) that after scanning reveals the original IISG classification number of the object.
 
-| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/marx_plastics.jpg" title ="Selection of materials)" width="40%"/> | ![generated barcode](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/barcode.gif) | ![First label sticker sketch](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/label.jpg "Label version 1") | ![Mock-up of what the final result might be](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/marx_labels.jpg)
+| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/marx_plastics.jpg" title ="Selection of materials)"/> | ![generated barcode](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/barcode.gif) | ![First label sticker sketch](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/label.jpg "Label version 1") | ![Mock-up of what the final result might be](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/marx_labels.jpg)
 |--|--|--|--|
 | *Selection of materials* | *Generated scannable barcode* | *First version of the label* | *Mock-up of what the final result might look like* |
 
@@ -438,30 +438,19 @@ For the printing I used a the [Anycubic Photon S – UV Resin DLP 3D Printer](ht
 |--|--|--|
 |  *Positioning the figures on the digital board inside the software of the printer* |
 
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/slicing.gif )|
-|--|
-|  *Slicing through layers of the to-be-printed model in the software of the 3D printer* |
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/slicing.gif )| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/pouring.jpg" title ="Pouring resin into the container"/> | <img src="https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/layer.jpg" title ="Progression of the print displayed on the screen" /> | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/finished.jpg )
+|--|--|--|--|
+|  *Slicing through layers of the to-be-printed model in the software of the 3D printer* | *Pouring resin into the container* | *Progression of the print displayed on the screen* | *Alert about the print being finished (it took 1 hour and 21 minutes to print)*
 
-<img src="https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/pouring.jpg" title ="Pouring resin into the container" width="150"/>
-<img src="https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/layer.jpg" title ="Progression of the print displayed on the screen" width="150"/>
+|![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/upside.jpg )| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/ultrasonic.gif ) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/incubator.jpg )
+|--|--|--|
+|  *An interesting fact is that, the printer prints in an  upside-down manner, so that the figurines are firmly attached to the slowly lifting base)* | *After the print, it is best to put the figures in an ultrasonic cleaner to ensure their firmness* | *Similarly, it is recommended to put the prints under UV light so that they can further solidify*
 
-| ![[Caption text]](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/pouring.jpg)|
-|--|
-|  *Pouring resin into the container* |
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/layer.jpg )|
-|  *Progression of the print displayed on the screen* |
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/finished.jpg )|
-|  *Alert about the print being finished (it took 1 hour and 21 minutes to print)* |
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/upside.jpg )|
-|  *An interesting fact is that, the printer prints in an  upside-down manner, so that the figurines are firmly attached to the slowly lifting base)* |
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/ultrasonic.gif )|
-|  *After the print, it is best to put the figures in an ultrasonic cleaner to ensure their firmness* |
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/incubator.jpg )|
-|  *Similarly, it is recommended to put the prints under UV light so that they can further solidify* |
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/army.jpg )|
-|  *Final prints* |
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/package1.jpg )|
-|  *One of the prints in an example of a plastic package* |
+
+|![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/army.jpg )| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/package1.jpg )
+|--|--|
+|  *Final prints* | *One of the prints in an example of a plastic package* |
+
 
 **Printing the labels**
 
