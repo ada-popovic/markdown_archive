@@ -24,7 +24,7 @@
 7. [Bibliography](#bibliography)
 
 ## Artefact
-HELLOO In the archive of International Institute of Social History there is a fascinating object. It is a plastic snow globe with Karl Marx and Friedrich Engels inside of it. The object even in it's purest, today's form already poses a multitude of questions and allows for various interpretations. However, what will happen with it in the future? How can we preserve a feeling of holding that snow globe when global warming already threatens the very existence of snow? And Marx - how does putting him in a tchotchke change his image and his ideology? What is the meaning of the snow globe's caption ('Schnee van gestern?!')?
+In the archive of International Institute of Social History there is a fascinating object. It is a plastic snow globe with Karl Marx and Friedrich Engels inside of it. The object even in it's purest, today's form already poses a multitude of questions and allows for various interpretations. However, what will happen with it in the future? How can we preserve a feeling of holding that snow globe when global warming already threatens the very existence of snow? And Marx - how does putting him in a tchotchke change his image and his ideology? What is the meaning of the snow globe's caption ('Schnee van gestern?!')?
 
 Asking (while not necessarily answering), those and other questions is the main premise of the Archival Resilience Project conducted in 2020 in KABK by its 40 students under supervision of Hannes Bernard and Martijn de Heer.
 
@@ -59,13 +59,13 @@ What the noun 'snow' can mean:
 - atmospheric water vapour frozen into ice crystals and falling in light white flakes or lying on the ground as a white layer.
 - precipitation in the form of small white ice crystals formed directly from the water vapour of the air at a temperature of less than 32°F (0°C)
 - snow white - shade of colour white
-- visual snow syndrome causes a person to see numerous flickering tiny dots that fill the entire visual field in both eyes
-<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/visualsnow.jpg" title ="Visual snow" width="50%"/>
-
-- a mass of flickering white spots on a television or radar screen, caused by interference or a poor signal (tv static snow)
-<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/static.jpg" title ="Tv static" width="50%"/>
-<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/static.gif" title ="Tv static in movement" width="40%"/>
 - cocaine, heroin (slang)
+| Visual Snow | TV static |  
+|--|--|
+| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/visualsnow.jpg" title ="Visual snow" width="50%"/> | <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/static.jpg" title ="Tv static" width="50%"/>
+<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/static.gif" title ="Tv static in movement" width="40%"/> |
+| syndrome causes a person to see numerous flickering tiny dots that fill the entire visual field in both eyes| A mass of flickering white spots on a television or radar screen, caused by interference or a poor signal (tv static snow)
+
 
 
 
