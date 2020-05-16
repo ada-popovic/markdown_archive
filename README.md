@@ -435,9 +435,9 @@ For the printing I used a the [Anycubic Photon S – UV Resin DLP 3D Printer](ht
 | *Anycubic Photon S – UV Resin DLP 3D Printer* | *Positioning the figures on the digital board inside the software of the printer* |
 
 
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/slicing.gif )| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/pouring.jpg" title ="Pouring resin into the container"/> | <img src="https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/layer.jpg" title ="Progression of the print displayed on the screen" /> | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/finished.jpg )
-|--|--|--|--|
-|  *Slicing through layers of the to-be-printed model in the software of the 3D printer* | *Pouring resin into the container* | *Progression of the print displayed on the screen* | *Alert about the print being finished (it took 1 hour and 21 minutes to print)*
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/slicing.gif )| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/pouring.jpg" title ="Pouring resin into the container"/> | <img src="https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/layer.jpg" title ="Progression of the print displayed on the screen" /> ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/finished.jpg )|
+|--|--|--|
+|  *Slicing through layers of the to-be-printed model in the software of the 3D printer* | *Pouring resin into the container* | *Progression of the print displayed on the screen and alert about the print being finished (it took 1 hour and 21 minutes to print)*
 
 |![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/upside.jpg )| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/ultrasonic.gif ) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/incubator.jpg )
 |--|--|--|
