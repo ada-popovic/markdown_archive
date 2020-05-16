@@ -27,8 +27,14 @@ body {
 }
 
 @font-face {
-   font-family: Sprat;
-   src: url("sprat_variable-webfont.woff");
+    font-family: 'Sprat';
+    src: url('sprat_variable-webfont..eot');
+    src: url('sprat_variable-webfont..eot?#iefix') format('embedded-opentype'),
+        url('sprat_variable-webfont.woff') format('woff'),
+        url('sprat_variable-webfont.ttf') format('truetype'),
+        url('sprat_variable-webfont.svg#Sprat') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 
 .sentence {
@@ -37,7 +43,7 @@ body {
   margin-left: 5%;
   margin-top: 10%;
   font-size: 2em;
-  font-family: Sprat;
+  font-family: 'Sprat';
   display: inline-block;
   position: absolute;
   color: purple;
