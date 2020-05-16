@@ -177,6 +177,7 @@ Every snowglobe consists of the following layers:
 
 6. Subject
   THE FIGURINE/DIORAMA/PICTURE
+  
   doesn't really matter as long as its waterproof, most often its a sculpture,
   can be anything, not necessarily connected to snow
 
