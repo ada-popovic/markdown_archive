@@ -63,7 +63,7 @@ What the noun 'snow' can mean:
 
 | Visual Snow | TV static |  
 |--|--|
-| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/visualsnow.jpg" title ="Visual snow"/> | <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/static.jpg" title ="Tv static" /> <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/static.gif" title ="Tv static in movement" /> |
+| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/visualsnow.jpg" title ="Visual snow"/> | <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/static.jpg" title ="Tv static" /><img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/static.gif" title ="Tv static in movement" /> |
 | syndrome causes a person to see numerous flickering tiny dots that fill the entire visual field in both eyes | A mass of flickering white spots on a television or radar screen, caused by interference or a poor signal (tv static snow)
 
 
