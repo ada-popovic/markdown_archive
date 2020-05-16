@@ -406,14 +406,12 @@ The snowglobe is in its most reductive form is just a set of figurines packaged 
 
 I started with collecting different kinds of plastic and glass packagings.
 
-| ![Selection of materials](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/marx_plastics.jpg width="60%" "Selection of materials" ) |
+| ![Selection of materials](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/marx_plastics.jpg title ="Selection of materials" width="50%") |
 |--|
 | *Selection of materials* |
 
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/example2.jpg) |
-|--|
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/example1.jpg) |
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/example3.jpg) |
+|![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/example2.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/example1.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/example3.jpg) 
+|--|--|--|
 | *Examples of plastic packages* |
 
 After looking at the above examples of packagings, I decided that in order to fully translate all the core elements of the snowglobe (the transparent globe, the figure of Marx and the text), I need to add a label for the inscription 'Schnee van gestern?!'. Not only does that complete the translation, but also immediately evokes terms of disposability, saleability and it commodifies the snowglobe into a ready-made labelled product, with even a functional barcode (created using [this website](https://barcode.tec-it.com)) that after scanning reveals the original IISG classification number of the object.
