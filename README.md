@@ -406,35 +406,23 @@ The snowglobe is in its most reductive form is just a set of figurines packaged 
 
 I started with collecting different kinds of plastic and glass packagings.
 
-| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/marx_plastics.jpg" title ="Selection of materials)" width="50%"/> |
-|--|
-| *Selection of materials* |
-
 |![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/example2.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/example1.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/example3.jpg)
 |--|--|--|
 | *Examples of plastic packages* |
 
 After looking at the above examples of packagings, I decided that in order to fully translate all the core elements of the snowglobe (the transparent globe, the figure of Marx and the text), I need to add a label for the inscription 'Schnee van gestern?!'. Not only does that complete the translation, but also immediately evokes terms of disposability, saleability and it commodifies the snowglobe into a ready-made labelled product, with even a functional barcode (created using [this website](https://barcode.tec-it.com)) that after scanning reveals the original IISG classification number of the object.
 
-| ![generated barcode](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/barcode.gif) |
-|--|
-| *Generated scannable barcode* |
+| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/marx_plastics.jpg" title ="Selection of materials)" width="40%"/> | ![generated barcode](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/barcode.gif) | ![First label sticker sketch](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/label.jpg "Label version 1")
+|--|--|--|
+| *Selection of materials* | *Generated scannable barcode* | *First version of the label* |
 
-| ![First label sticker sketch](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/label.jpg "Label version 1")|
-|--|
-| *First version of the label* |
 
-In order to represent the figure of Marx in its most reductive way and be able to put it into packages of different forms and sizes, I decided to 3D print it.
+In order to represent the figure of Marx in its most reductive way and be able to put it into packages of different forms and sizes, I decided to 3D print it. Later, I noticed that just the head of Marx will communicate better than the whole bust, so I decided to edit it in 3D editing software Cinema 4D.
 
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/marx_model.jpg) |
-|--|
-| *Image of a [found model](http://3dmag.org/en/market/download/item/3638/) of Marx in .stl format for 3D print* |
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/marx_model.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/marx_head.gif)
+|--|--|
+| *Image of a [found model](http://3dmag.org/en/market/download/item/3638/) of Marx in .stl format for 3D print* | *Representation of an edited version of the [model](https://github.com/ada-popovic/markdown_archive/tree/master/T1/3D/marx2.stl)*
 
-I noticed that just the head of Marx will communicate better than the whole bust, so I decided to edit it in 3D editing software Cinema 4D.
-
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/marx_head.gif) |
-|--|
-| *Representation of an edited version of the [model](https://github.com/ada-popovic/markdown_archive/tree/master/T1/3D/marx2.stl)* |
 
 | ![Mock-up of what the final result might be](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/marx_labels.jpg "Mock-up of what the final result might be")|
 |--|
