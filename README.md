@@ -182,7 +182,7 @@ Every snowglobe consists of the following layers:
   can be anything, not necessarily connected to snow
 
 |<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/snowman.jpg" title ="Snowman" width="25%"/>|  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/mickey.jpg" title ="Mickey" width="25%"/>|  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/florida.jpg" title ="Florida" width="20%"/>| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/hawaii.jpg" title ="Hawaii" width="25%"/> |  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/mekka.jpg" title ="Mekka" width="30%"/>|  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/pope.jpg" title ="Pope" width="30%"/>|
-|--|--|--|
+|--|--|--|--|--|--|
 <!-- |  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/hawaii.jpg" title ="Hawaii" width="25%"/> |  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/mekka.jpg" title ="Mekka" width="30%"/>|  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/pope.jpg" title ="Pope" width="30%"/>| -->
 
 
