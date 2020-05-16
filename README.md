@@ -412,7 +412,7 @@ I started with collecting different kinds of plastic and glass packagings.
 
 After looking at the above examples of packagings, I decided that in order to fully translate all the core elements of the snowglobe (the transparent globe, the figure of Marx and the text), I need to add a label for the inscription 'Schnee van gestern?!'. Not only does that complete the translation, but also immediately evokes terms of disposability, saleability and it commodifies the snowglobe into a ready-made labelled product, with even a functional barcode (created using [this website](https://barcode.tec-it.com)) that after scanning reveals the original IISG classification number of the object.
 
-| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/marx_plastics.jpg" title ="Selection of materials)" width="40%"/> | ![generated barcode](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/barcode.gif) | ![First label sticker sketch](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/label.jpg "Label version 1") | ![Mock-up of what the final result might be](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/marx_labels.jpg
+| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/marx_plastics.jpg" title ="Selection of materials)" width="40%"/> | ![generated barcode](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/barcode.gif) | ![First label sticker sketch](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/label.jpg "Label version 1") | ![Mock-up of what the final result might be](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/marx_labels.jpg)
 |--|--|--|--|
 | *Selection of materials* | *Generated scannable barcode* | *First version of the label* | *Mock-up of what the final result might look like* |
 
@@ -430,12 +430,12 @@ In order to represent the figure of Marx in its most reductive way and be able t
 
 For the printing I used a the [Anycubic Photon S – UV Resin DLP 3D Printer](https://www.elektor.nl/anycubic-photon-s-uv-resin-dlp-3d-printer). It is a printer that uses UV-reactive resin, which as the printing progresses, solidifies. That kind of printing allows for a significantly more detailed print.
 
-![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/printer.jpg)
-
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/board1.png )|
+|![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/printer.jpg)|
 |--|
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/board2.png )|
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/board3.png )|
+
+
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/board1.PNG )| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/board2.PNG ) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/board3.PNG )|
+|--|--|--|
 |  *Positioning the figures on the digital board inside the software of the printer* |
 
 | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/slicing.gif )|
