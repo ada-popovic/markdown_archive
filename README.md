@@ -90,10 +90,11 @@ Etymology in different languages
 
 Snow consists of hexagonally bound molecules of water. It represents water's solid state of matter (created when 0 degrees Celsius or less is reached). It preserves the transformative value of the hydrogen-oxygen bonds, as it can sublimate back into liquid or gas state at a temperature above 0 Celsius.
 
-| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/hydro.jpg" title ="Hydrogen bonds (simplified)" width="20%"/> | <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/hydro2.jpg" title ="Hydrogen bonds" width="40%"/> | <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/hydro3.jpg" title ="Hexagonal bonds" width="80%"/>
+| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/hydro.jpg" title ="Hydrogen bonds (simplified)" width="20%"/> | <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/hydro2.jpg" title ="Hydrogen bonds" width="40%"/> | <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/hydro3.jpg" title ="Hexagonal bonds" width="100%"/>
 |--|--|--|
 | Hydrogen bonds (simplified) | Hydrogen bonds (detailed)| Hexagonal bonds formed in snow flakes |
 |<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/naturalflake.jpg" title ="Naturally occuring snowflake" width="30%"/>|<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/controlflake.jpg" title ="Snowflake under controlled environment" width="40%"/>| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/snowexamples.jpg" title ="Snow examples" width="100%"/>
+| Naturally occuring snowflake | Snowflake under controlled environment | Snow types examples |
 
 
 
