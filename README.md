@@ -275,7 +275,9 @@ opens up riddles of modern life. It brings attention to our size, to ourselves, 
 
 **Marx and Engels**
 
-![Marx and Engels](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/marxengels.jpg "Marx and Engels")
+| ![Marx and Engels](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/marxengels.jpg "Marx and Engels") |
+|--|
+| Picture of Karl Marx and Friedrich Engels together |
 
 Karl Marx, in full Karl Heinrich Marx, (born May 5, 1818, Trier, Rhine province, Prussia [Germany]—died March 14, 1883, London, England), revolutionary, sociologist, historian, and economist. He published (with Friedrich Engels) Manifest der Kommunistischen Partei (1848), commonly known as The Communist Manifesto, the most celebrated pamphlet in the history of the socialist movement. He also was the author of the movement’s most important book, Das Kapital. These writings and others by Marx and Engels form the basis of the body of thought and belief known as Marxism. (See also socialism; communism.)
 
@@ -293,22 +295,20 @@ Documentary about Marx's Life
 
 Apart from the Snowglobe With Marx And Engels, there are other objects connected to the German philosopher
 
-![object1](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/object1.jpg)
-![object2](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/object2.jpg)
-![object3](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/object3.jpg)
-![object4](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/object4.jpg)
+|![object1](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/object1.jpg)|![object2](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/object2.jpg)|![object3](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/object3.jpg)|![object4](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/object4.jpg)|
+|--|--|--|--|
 
 Seeing the mentioned snowglobe next to these objects, we cannot help, but notice that they are not primarily objects of preservation, but rather of mockery.
 
 In the modern age, after the fall of USSR, we are experiencing a new approach to the icons of communism, especially in post-soviet countries. Dictators (Stalin), leaders (Lenin) or idealists (Marx) are commodified and turned into symbols, often ending up as a low quality T-shirt print or edgy cup available online or next to major tourist attraction from Warsaw to Budapest.
 
-![stalin matches](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/stalinmatches.gif)
-![hot stalin](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/hotstalin.jpg)
-![t-shirt stalin](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/tshirtstalin.jpg)
+|![stalin matches](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/stalinmatches.gif)|![hot stalin](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/hotstalin.jpg)|![t-shirt stalin](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/tshirtstalin.jpg)|
+|--|--|--|
 
 
 There are however some objects which pose a certain difficulty in judging their intended use. This snowglobe with an image of Stalin from Stalin Museum in Georgia looks like a cheao souvenir, but there is a chance it was an actual dear reminder of the beloved leader kept safely at home by his admirers.
-![georgiastalin](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/stalinglobe.jpg)
+
+![georgiastalin](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/stalinglobe.jpg width="60%")
 
 **The Face In A globe**
 
@@ -328,7 +328,7 @@ However, it is specifically Marx that we see in there, so a few possibly over-in
   - Marx was once a person of serious hope, idealist, a **real** person, later turned into an ideological icon by bad propaganda (positioned next to Lenin, Stalin etc), an icon that never really existed:
       - *Marx as the one who offered salvation to proletariat*
       - *Marx as the prophet*
-      ![Marx next to Lenin](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/badpropaganda.png)
+      ![Marx next to Lenin](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/badpropaganda.png width="60%")
 
 3. Commodification of marxism especially in post-soviet countries (edgy souvenirs) is parallel to commodification of a snow globe (valued memorabilia → cheap tchotchke)
 
@@ -341,13 +341,11 @@ On the snowglobe we can find two textual additions: 'CLAY GENET' on the back of 
 
 *Meaning*
 
-Unfortunately, the IISG is unable to inform what is the meaning of that inscription. Research leads only as far as to show that Genet is a slender cat-like animal with a long body, a long ringed tail, large ears, a pointed muzzle and partly retractile claws.
+Unfortunately, the IISG is unable to inform what is the meaning of that inscription. Research leads only as far as to show that Genet is a slender cat-like animal with a long body, a long ringed tail, large ears, a pointed muzzle and partly retractile claws. And there are figurines of it made out of clay.
 
-![genet](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/genet.jpg)
-
-And there are figurines of it made out of clay.
-
-![claygenet](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/claygenet.jpg)
+|![genet](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/genet.jpg)|![claygenet](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/claygenet.jpg)|
+|--|--|
+| representative of genet species | a genet animal made out of clay
 
 However, there does not seem to be any connection between a genet and Marx.
 
@@ -408,7 +406,7 @@ The snowglobe is in its most reductive form is just a set of figurines packaged 
 
 I started with collecting different kinds of plastic and glass packagings.
 
-| ![Selection of materials](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/marx_plastics.jpg "Selection of materials") |
+| ![Selection of materials](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/marx_plastics.jpg width="60%" "Selection of materials" ) |
 |--|
 | *Selection of materials* |
 
