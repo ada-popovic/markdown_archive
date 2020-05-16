@@ -28,7 +28,7 @@ body {
 
 @font-face {
    font-family: Sprat;
-   src: url("typefaces/Sprat_Variable.ttf");
+   src: url("sprat_variable-webfont.woff");
 }
 
 .sentence {
