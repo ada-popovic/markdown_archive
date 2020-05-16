@@ -110,9 +110,9 @@ Thanks to global warming, naturally occuring snow is a vision gradually more and
 
 The warmer countries around equator, without any mountains are the ones least likely to experience snow. Of course, with global warming and all the glaciers melting, the number of countries without snow will gradually grow larger. For example, there used to be a small ski area called Chacaltaya on a tall mountain in Bolivia, but that ski area has already closed permanently because of lack of snow.
 
-<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/temperature.gif" title ="Air temperature" width="100%"/>
-<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/snowseasons.gif" title ="Snow seasons" width="100%"/>
-<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/density.png" title ="Density of snow" width="100%"/>
+|<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/temperature.gif" title ="Air temperature" width="100%"/>|<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/snowseasons.gif" title ="Snow seasons" width="100%"/>|<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/density.png" title ="Density of snow" width="100%"/>|
+|--|--|--|
+|Air temperature|Snow seasons|Density of snow|
 
 
 **Emotional charge**
@@ -124,7 +124,9 @@ Snow can, depending on the cintext it appears in, evoke both positive and negati
 | <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/christmas.jpg" title ="Christmas" width="100%"/> | <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/skiing.jpg" title ="Skiing" width="100%"/>
 | <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/napoleon.jpg" title ="Napoleon's defeat" width="100%"/> | <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/traffic.jpg" title ="Traffic" width="100%"/>
 
+
 Generally speaking, snow operates on the border of seductive magicality and cold unapproachability, as shown below in a selection of pop-culturally established stories connected to strong presence of snow.
+
 
 | positive | negative | in-between |
 |--|--|--|
@@ -153,13 +155,10 @@ Every snowglobe consists of the following layers:
 
   One of our unique designs included a 120mm snowglobe on a solid silver base which was given to President Bill Clinton. The snowglobe contained the original confetti which was thrown at his inauguration party.
 
-  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/penguinglobe.jpg" title ="Penguin" width="30%"/>
-  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/glitterglobe.jpg" title ="Glitter" width="30%"/>
-  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/mars.gif" title ="Mars" width="30%"/>
+|<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/penguinglobe.jpg" title ="Penguin" width="30%"/>|  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/glitterglobe.jpg" title ="Glitter" width="30%"/>|  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/mars.gif" title ="Mars" width="30%"/>|
+|--|--|--|
+|  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/loveglobe.jpg" title ="Love" width="30%"/>|  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/honeyglobe.jpg" title ="Honey" width="30%"/>|  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/halloweenglobe.png" title ="Halloween" width="30%"/>|
 
-  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/loveglobe.jpg" title ="Love" width="30%"/>
-  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/honeyglobe.jpg" title ="Honey" width="30%"/>
-  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/halloweenglobe.png" title ="Halloween" width="30%"/>
 
 
 3. The Liquid
@@ -181,14 +180,12 @@ Every snowglobe consists of the following layers:
   doesnt really matter as long as its waterproof, most often its a sculpture,
   can be anything, not necessarily connected to snow
 
-  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/snowman.jpg" title ="Snowman" width="25%"/>
-  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/mickey.jpg" title ="Mickey" width="25%"/>
-  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/florida.jpg" title ="Florida" width="20%"/>
-  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/hawaii.jpg" title ="Hawaii" width="25%"/>
+|<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/snowman.jpg" title ="Snowman" width="25%"/>|  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/mickey.jpg" title ="Mickey" width="25%"/>|  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/florida.jpg" title ="Florida" width="20%"/>|
+|--|--|--|
+|  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/hawaii.jpg" title ="Hawaii" width="25%"/>
+|  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/mekka.jpg" title ="Mekka" width="30%"/>|  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/pope.jpg" title ="Pope" width="30%"/>|
 
-  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/mekka.jpg" title ="Mekka" width="30%"/>
-  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/pope.jpg" title ="Pope" width="30%"/>
-  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/typical.jpg" title ="Typical" width="35%"/>
+
 
 
 **Typology**
@@ -198,13 +195,19 @@ Depending on their inner subject, 3 main types of snowglobes can be differentiat
 | two-dimensional | three-dimensional | bas-relief |
 |--|--|--|
 | ![2D](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/imageglobe.jpg "Image-based globe") | ![3D](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/figureglobe.jpg "Sculpture-based globe") | ![bas](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/basreliefglobe.jpg "Bas-relief globe") |
+| Image-based globe | Sculpture-based globe | Bas-relief globe |
 |![2Dexample](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/examplepictureglobe.jpg "Example of an image-based globe")| ![3D](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/examplesculptureglobe.jpg "Example of a sculpture-based globe") | ![basexample](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/examplebasreliefglobe.jpg "Example of a bas-relief globe") |
+| Example of an image-based globe | Example of a sculpture-based globe | Example of a bas-relief globe |
 
 **Shaking event**
 
-![handshake](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/handshake.gif "Example of a hand shaking a snowglobe")
+|![handshake](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/handshake.gif "Example of a hand shaking a snowglobe")|![3Dshake](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/onlineshake.gif "Example of an online snowglobe")|
+|--|--|
+| Example of a snowglobe being shaken by hand | Example on an online model trying to mimic the physics of a snowglobe |
 
-![3Dshake](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/onlineshake.gif "Example of an online snowglobe")
+
+
+
 
 **History Of Snowglobes**
 
