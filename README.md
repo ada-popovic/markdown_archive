@@ -432,7 +432,7 @@ For the printing I used a the [Anycubic Photon S – UV Resin DLP 3D Printer](ht
 
 |![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/printer.jpg)| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/board1.PNG ) ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/board2.PNG ) ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/board3.PNG )
 |--|--|
-|--| *Positioning the figures on the digital board inside the software of the printer* |
+| *Anycubic Photon S – UV Resin DLP 3D Printer* | *Positioning the figures on the digital board inside the software of the printer* |
 
 
 | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/slicing.gif )| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/pouring.jpg" title ="Pouring resin into the container"/> | <img src="https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/layer.jpg" title ="Progression of the print displayed on the screen" /> | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/finished.jpg )
