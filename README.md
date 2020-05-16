@@ -60,6 +60,7 @@ What the noun 'snow' can mean:
 - precipitation in the form of small white ice crystals formed directly from the water vapour of the air at a temperature of less than 32°F (0°C)
 - snow white - shade of colour white
 - cocaine, heroin (slang)
+
 | Visual Snow | TV static |  
 |--|--|
 | <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/visualsnow.jpg" title ="Visual snow" width="50%"/> | <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/static.jpg" title ="Tv static" width="50%"/>
