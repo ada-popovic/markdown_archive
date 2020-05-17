@@ -16,7 +16,7 @@ import controlP5.*;
 
 ControlP5 cp5;
 int quantity = 1000;
-int speed = 200;
+int speed = 30;
 float [] xPosition = new float[quantity];
 float [] yPosition = new float[quantity];
 int [] flakeSize = new int[quantity];
@@ -31,8 +31,8 @@ void setup() {
   
   printArray(Serial.list());
 
-// Open the port you are using at the rate you want:
-myPort = new Serial(this, Serial.list()[5], 9600);
+  // Open the port you are using at the rate you want:
+  myPort = new Serial(this, Serial.list()[5], 9600);
   
   size(800, 550);
   //fullScreen();
@@ -57,13 +57,12 @@ myPort = new Serial(this, Serial.list()[5], 9600);
      .setPosition(50,50)
      .setRange(25,280)
      .setSize(200,30)
+     .setCaptionLabel("SCHNEE")
      .setFont(font)
      .setColorValue(color(255))
      .setColorActive(color(255,0,0))
      .setColorForeground(color(255,0,0))
      .setColorBackground(color(110, 40, 165))
-     
-      
      ;
   //cp5.addSlider("quantity")
   //   .setPosition(50,80)
@@ -83,20 +82,15 @@ myPort = new Serial(this, Serial.list()[5], 9600);
     yPosition[i] = random(0, height);
     direction[i] = round(random(0, 1));
   }
-  
-  
-  
 }
 
 void draw() {  
-  
   background(0);
-  println(quantity);
 
-  b =  speed - 25;
+  b = speed - 25;
   if (b<0) b=0;
   if (b>255) b=255;
-  myPort.write(b);
+  myPort.write((byte)b);
   
   int newplaying = -1;  
   if(speed < 75) 
@@ -114,7 +108,6 @@ void draw() {
     playing = newplaying;
     if (playing != -1) 
         track[playing].play();
-      
     }
   
   
