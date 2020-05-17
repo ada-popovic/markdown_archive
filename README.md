@@ -457,6 +457,8 @@ For the printing I used a the [Anycubic Photon S – UV Resin DLP 3D Printer](ht
 
 ### Transcoding No. 2
 
+**TRANSCODING 2 HAS NOT BEEN FINALISED.**
+
 | TRANSCODING | 2 |
 |--|--|
 | TITLE | The Mistaken Record |
@@ -473,10 +475,6 @@ Unfortunately, the original record kept on IISG website is a record of multiple 
 
 I started with an attempt at improving the record. Sadly, a lot of information (such as author or exact history of the object could not be obtained to the day).
 
-![Original image on IISG website](https://github.com/ada-popovic/markdown_archive/blob/master/assets/original.jpeg "Schnee von gestern?")
-
-Original image on IISG website
-
 | Category | Archive's description | Correction
 | :---        |    :----:   |     :----:
 | Schnee von gestern?     | Visual Documents | Schnee von gestern?!
@@ -490,11 +488,11 @@ Original image on IISG website
 | Subject Person | Marx, Karl Engels, Friedrich     | Karl Marx, Friedrich Engels
 | Subject   | Portrait      | Snowglobe
 | Subject Location   | Germany     | Germany
-| Image | ![Original image on IISG website](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/original.jpeg "Schnee von gestern?") | ![Corrected image](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/original.jpeg "Schnee von gestern?")
+| Image | ![Original image on IISG website](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/original.jpeg "Schnee von gestern?") | ![Corrected image](https://github.com/ada-popovic/markdown_archive/blob/master/research/original_foto.jpg "Schnee von gestern?")
 
 After the correction however, I noticed the hidden potential of the errors in the IISG's record. They reminded me of phrenology, mysterious medieval book illustrations, alchemic manuscripts (like [The Voynich Manuscript](http://www.voynich.nu/)) or scientific etchings from early colonial age, in which the explorers tried to note down their (often mistaken) observations about local communities, whose habits and even looks very completely alien to them.
 
-| Examples of old etchings, illustrations and manuscripts |
+| Examples of old etchings, illustrations and manuscripts | | | | | |
 |--|--|--|--|--|--|
 | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/oldetching1.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/oldetching2.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/oldetching3.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/oldetching6.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/oldetching5.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/oldetching7.jpg)
 
@@ -507,7 +505,7 @@ In the context of connection to early scientific illustration, resorting to etch
 
 *[Etching](https://www.tate.org.uk/art/art-terms/e/etching) is a printmaking technique that uses chemical action to produce incised lines in a metal printing plate which then hold the applied ink and form the image*
 
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/etching.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/linocut.jpg) 
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/etching.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/linocut.jpg)
 |--|--|
 | *example of an etching plate together with a print* | *example of a linocut block together with a print*
 
@@ -515,16 +513,12 @@ In the current situation, etching, even though it would be my preferred techniqu
 
 A [linocut](https://www.tate.org.uk/art/art-terms/l/linocut) is a relief print produced in a manner similar to a woodcut but that uses linoleum as the surface into which the design is cut and printed from
 
-| |
-|--|
-| |
-
-| Material | Picture
+<!-- | Material | Picture
 |--|--
 | A3 sized linoleum block | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/mylinoleum.jpg)
 | linoleum cutting knives | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/mytools.jpg)
 | ink | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/myink.jpg)
-| ink roller | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/myroller.jpg)
+| ink roller | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/myroller.jpg) -->
 
 **Production**
 
@@ -541,18 +535,12 @@ List of misinterpretations:
 - The water is very murky and soapy, maybe something can be noticed there
 - IISG describes the location of the object to be Germany and the time period between 1988 and 1993, I would like that to be also prominently shown on the print
 
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/sketch1.jpg)
-|--|
-| First sketch for the linocut |
-
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/sketch2.jpg)
-|--|
-| Final sketch |
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/sketch1.jpg) | NOT FINALISED
+|--|--|
+| First sketch for the linocut | Final sketch
 
 
 **Final Result**
-
-
 
 
 ### Transcoding No. 3
@@ -577,9 +565,12 @@ Processing, Arduino?
 | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/snow_controller.gif)
 |--|
 | control of the snow speed with a slider
+
 **Final Result**
 
 ### Transcoding No. 4
+
+**TRANSCODING 4 HAS NOT BEEN FINALISED.**
 
 | TRANSCODING | 4 |
 |--|--|
@@ -609,14 +600,10 @@ Processing, Arduino?
 
 *Usually, a snow globe has only image-based content inside of it (as in pictures or sculptures). In this transcoding I would like to not only put words into the globe, but also through multi-level construction (as in complex Diney's snowglobes) allow for arbitrary narrative creation. Each small globe within a greater construction would be similar to a Magic8Ball.
 
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/disney1.jpg)
-|--|
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/disney2.jpg)
-| Examples of Disney's multi-level snowglobe |
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/disney1.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/disney2.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/magic8ball.jpg)
+|--|--|--|
+| Example of Disney's multi-level snowglobe (Ariel) | Example of Disney's multi-level snowglobe (Tinkerbell) | Magic8Ball |
 
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/magic8ball.jpg)
-|--|
-| Magic8Ball |
 
 In an analogue version each globe would have a small transparent opening at the top and a dice inside of it. After the globe has been shook one of the sides of the dice floats to the top, revealing a word. Among other consecutive words a narrative is created.
 
@@ -624,15 +611,9 @@ In a digital version the construction would rely on randomly selected words from
 
 At the beginning of the project I wanted to create a physical, analogue, but interactive sculpture consisting of multiple smaller snowglobes, each of them functioning as a Magic8Ball. Later in the process, I decided to build an online platform for divinations instead. Each divination consists of a excerpt from Marx's *Das Kapital* and a set of randomly assigned nouns that, every time the tool is used, open themselves up to new interpretations, which is an integral part of any esoteric attempt at prediciing the future.
 
-*Divination*
 
-*Esoterism*
-
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/divination0.jpg)
-|--|
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/divination1.jpg)
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/divination2.gif)
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/divination3.jpg)
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/divination0.jpg)| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/divination1.jpg)| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/divination2.gif)
+|--|--|--|
 | A crystal ball in use as an esoteric/divination tool |
 
 
@@ -642,7 +623,7 @@ As the source material I used the [original text](https://github.com/ada-popovic
 
 **Quotes**
 
-*Selection of original quotes from *Das Kapital* by Karl Marx*:
+*Selection of original quotes from *Das Kapital* *by Karl Marx*:
 
 1. “Education is free. Freedom of education shall be enjoyed under the condition fixed by law and under the supreme control of the state”
 
@@ -731,17 +712,15 @@ In this way each sentence would give an advice for a specific life domain of the
 During this semester I was planning to make quite a lot of physical, analogue projects next to my coding-related endeavours. Unfortunately, because of COVID-19 crisis, we were forced to present the outcomes in a digital way, which influenced my decision process for majority of transcodings.
 
 ## Outcomes
-Snowglobe Wunderkammer holds all the objects together?
+Looking at all the visual results of my experiments, I noticed that all of them share one trait-certain magicality, detachment from reality. I decided that the most fitting format to contain all of the transcodings would be 
 
 
 
 ### Outcome Links
 
-- installation Documentation (photos +video?)
-- linocut scan?
-- website for slider
-- trinket Documentation (photos +video?)
-- [Divination Generator](https://ada-popovic.github.io/markdown_archive/T5/Divination_Generator)
+- [Wunderkammer von gestern](https://ada-popovic.github.io/markdown_archive/Wunderkammer)
+- [Dancing at a Pace of Snow–main code](https://ada-popovic.github.io/markdown_archive/T3/snow_slider/snow_slider.pde)
+- [Das Kapital and its Divinations–website](https://ada-popovic.github.io/markdown_archive/T5/Divination_Generator)
 
 
 ## Conclusion
