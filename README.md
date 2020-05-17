@@ -736,7 +736,7 @@ I needed to store the three finalised transcodings.
 
 ### Outcome Links
 
-- [Wunderkammer von gestern](https://vimeo.com/user102536146/review/419735688/53e7aaaffc)
+- [Wunderkammer von gestern](https://vimeo.com/419735688)
 - [Dancing at a Pace of Snow–main code](https://ada-popovic.github.io/markdown_archive/T3/snow_slider/snow_slider.pde)
 - [Das Kapital and its Divinations–website](https://ada-popovic.github.io/markdown_archive/T5/Divination_Generator)
 
