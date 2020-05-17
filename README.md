@@ -580,8 +580,11 @@ Processing, Arduino?
 | RESULT | small transparent epoxy trinket with a red, 3D printed tag *Communism* in Coca-Cola font inside of it
 
 **Description**
+
 **Materials**
+
 **Production**
+
 **Final Result**
 
 ### Transcoding No. 5
