@@ -495,13 +495,8 @@ Original image on IISG website
 After the correction however, I noticed the hidden potential of the errors in the IISG's record. They reminded me of phrenology, mysterious medieval book illustrations, alchemic manuscripts (like [The Voynich Manuscript](http://www.voynich.nu/)) or scientific etchings from early colonial age, in which the explorers tried to note down their (often mistaken) observations about local communities, whose habits and even looks very completely alien to them.
 
 | Examples of old etchings, illustrations and manuscripts |
-|--|
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/oldetching1.jpg)
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/oldetching2.jpg)
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/oldetching3.jpg)
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/oldetching6.jpg)
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/oldetching5.jpg)
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/oldetching7.jpg)
+|--|--|--|--|--|--|
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/oldetching1.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/oldetching2.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/oldetching3.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/oldetching6.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/oldetching5.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/oldetching7.jpg)
 
 [this website](https://www.strangescience.net/stmons.htm) was very helpful in finding examples.
 
@@ -512,17 +507,17 @@ In the context of connection to early scientific illustration, resorting to etch
 
 *[Etching](https://www.tate.org.uk/art/art-terms/e/etching) is a printmaking technique that uses chemical action to produce incised lines in a metal printing plate which then hold the applied ink and form the image*
 
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/etching.jpg) |
-|--|
-| *example of an etching plate together with a print* |
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/etching.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/linocut.jpg) 
+|--|--|
+| *example of an etching plate together with a print* | *example of a linocut block together with a print*
 
 In the current situation, etching, even though it would be my preferred technique of producing the outcome, is impossible. I decided to try linocut technique instead.
 
 A [linocut](https://www.tate.org.uk/art/art-terms/l/linocut) is a relief print produced in a manner similar to a woodcut but that uses linoleum as the surface into which the design is cut and printed from
 
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/linocut.jpg) |
+| |
 |--|
-| *example of a linocut block together with a print* |
+| |
 
 | Material | Picture
 |--|--
