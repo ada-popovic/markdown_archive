@@ -488,7 +488,7 @@ I started with an attempt at improving the record. Sadly, a lot of information (
 | Subject Person | Marx, Karl Engels, Friedrich     | Karl Marx, Friedrich Engels
 | Subject   | Portrait      | Snowglobe
 | Subject Location   | Germany     | Germany
-| Image | ![Original image on IISG website](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/original.jpeg "Schnee von gestern?") | ![Corrected image](https://github.com/ada-popovic/markdown_archive/blob/master/research/original_foto.jpg "Schnee von gestern?")
+| Image | ![Original image on IISG website](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/original.jpeg "Schnee von gestern?") | ![Corrected image](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/main_picture_marx.png "Schnee von gestern?")
 
 After the correction however, I noticed the hidden potential of the errors in the IISG's record. They reminded me of phrenology, mysterious medieval book illustrations, alchemic manuscripts (like [The Voynich Manuscript](http://www.voynich.nu/)) or scientific etchings from early colonial age, in which the explorers tried to note down their (often mistaken) observations about local communities, whose habits and even looks very completely alien to them.
 
@@ -712,7 +712,9 @@ In this way each sentence would give an advice for a specific life domain of the
 During this semester I was planning to make quite a lot of physical, analogue projects next to my coding-related endeavours. Unfortunately, because of COVID-19 crisis, we were forced to present the outcomes in a digital way, which influenced my decision process for majority of transcodings.
 
 ## Outcomes
-Looking at all the visual results of my experiments, I noticed that all of them share one trait-certain magicality, detachment from reality. I decided that the most fitting format to contain all of the transcodings would be 
+Looking at all the visual results of my experiments, I noticed that all of them share one trait - certain strangeness, magicality, detachment from reality. I decided that the most fitting format to contain all of the transcodings would be a Wunderkammer, especially considering how the gems of Marx's collection at IISG are stored - in a glass display box, very reminiscent of a Cabinet of Curiosities.
+
+I needed to store the three finalised transcodings.
 
 
 
