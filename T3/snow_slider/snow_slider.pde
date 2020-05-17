@@ -3,6 +3,8 @@ import ddf.minim.*;
 import ddf.minim.signals.*;
 import ddf.minim.analysis.*;
 import ddf.minim.effects.*;
+import processing.serial.*;
+Serial myPort;  
 
 Minim minim;
 AudioPlayer track1;
@@ -26,6 +28,11 @@ int playing = 0;
 
 
 void setup() {
+  
+  printArray(Serial.list());
+
+// Open the port you are using at the rate you want:
+myPort = new Serial(this, Serial.list()[5], 9600);
   
   size(800, 550);
   frameRate(speed);
@@ -69,12 +76,15 @@ void draw() {
       track1.pause();
       track2.play();
       playing = 2;
+      myPort.write(10);
+      
     }
   } else {
      if (playing != 1) {
       track2.pause();
       track1.play();
       playing = 1;
+      myPort.write(200);
     }
   }  
   
