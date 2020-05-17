@@ -505,7 +505,7 @@ In the context of connection to early scientific illustration, resorting to etch
 
 *[Etching](https://www.tate.org.uk/art/art-terms/e/etching) is a printmaking technique that uses chemical action to produce incised lines in a metal printing plate which then hold the applied ink and form the image*
 
-| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/etching.jpg" width="50%" "/>| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/linocut.jpg" width="50%" "/> 
+| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/etching.jpg" width="50%" "/>| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/linocut.jpg" width="50%" "/>
 |--|--|
 | *example of an etching plate together with a print* | *example of a linocut block together with a print*
 
@@ -555,6 +555,19 @@ List of misinterpretations:
 **Description**
 
 In the near future the word *snow* might become an anachronism. As global warming progresses, snow is more and more of a rare sight. And without its natural occurence, its relatability is lost. Phenomena like TV static/snow, visual snow syndrome or 'yesterday's snow' would be named differently if snow did not exist anymore.
+
+1. SLOW SNOW /  or 2. MEDIUM SNOW
+- magic
+- christmas
+- purity
+
+3. FAST SNOW (BLIZZARD)
+
+- danger
+- disaster
+- death
+- hostility
+
 
 **Materials**
 
@@ -723,7 +736,7 @@ I needed to store the three finalised transcodings.
 
 ### Outcome Links
 
-- [Wunderkammer von gestern](https://ada-popovic.github.io/markdown_archive/Wunderkammer)
+- [Wunderkammer von gestern](https://vimeo.com/user102536146/review/419735688/53e7aaaffc)
 - [Dancing at a Pace of Snow–main code](https://ada-popovic.github.io/markdown_archive/T3/snow_slider/snow_slider.pde)
 - [Das Kapital and its Divinations–website](https://ada-popovic.github.io/markdown_archive/T5/Divination_Generator)
 

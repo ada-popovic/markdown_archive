@@ -15,8 +15,8 @@ SoundFile file;
 import controlP5.*;
 
 ControlP5 cp5;
-int quantity = 1000;
-int speed = 30;
+int quantity = 2000;
+int speed = 1;
 float [] xPosition = new float[quantity];
 float [] yPosition = new float[quantity];
 int [] flakeSize = new int[quantity];
@@ -34,8 +34,8 @@ void setup() {
   // Open the port you are using at the rate you want:
   myPort = new Serial(this, Serial.list()[5], 9600);
   
-  size(800, 550);
-  //fullScreen();
+  //size(800, 550);
+  fullScreen();
   frameRate(speed);
   noStroke();
   smooth();
@@ -56,7 +56,7 @@ void setup() {
   cp5.addSlider("speed")
      .setPosition(50,50)
      .setRange(25,280)
-     .setSize(200,30)
+     .setSize(600,30)
      .setCaptionLabel("SCHNEE")
      .setFont(font)
      .setColorValue(color(255))
@@ -122,10 +122,12 @@ void draw() {
     }
     
     yPosition[i] += flakeSize[i] + direction[i]; 
-    
+     
     if(xPosition[i] > width + flakeSize[i] || xPosition[i] < -flakeSize[i] || yPosition[i] > height + flakeSize[i]) {
+      
       xPosition[i] = random(0, width);
       yPosition[i] = -flakeSize[i];
+
     }
     
   }
