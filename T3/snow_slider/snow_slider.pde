@@ -7,16 +7,16 @@ import processing.serial.*;
 Serial myPort;  
 
 Minim minim;
-AudioPlayer track1;
-AudioPlayer track2;
+AudioPlayer track[] = new AudioPlayer[4];
 AudioInput input;
   
 import processing.sound.*;
 SoundFile file;
+import controlP5.*;
 
 ControlP5 cp5;
-int quantity = 300;
-int speed = 100;
+int quantity = 1000;
+int speed = 200;
 float [] xPosition = new float[quantity];
 float [] yPosition = new float[quantity];
 int [] flakeSize = new int[quantity];
@@ -24,8 +24,8 @@ int [] direction = new int[quantity];
 int minFlakeSize = 1;
 int maxFlakeSize = 5;
 
-int playing = 0;
-
+int playing = -1;
+int b;
 
 void setup() {
   
@@ -35,25 +35,47 @@ void setup() {
 myPort = new Serial(this, Serial.list()[5], 9600);
   
   size(800, 550);
+  //fullScreen();
   frameRate(speed);
   noStroke();
   smooth();
   
 
   minim = new Minim(this);
-  track1 = minim.loadFile("track1.mp3");
-  track2 = minim.loadFile("track2.mp3");
+  track[0] = minim.loadFile("nanny.mp3");
+  track[1] = minim.loadFile("harry.mp3");
+  track[2] = minim.loadFile("cola.mp3");
+  track[3] = minim.loadFile("blizzard.mp3");
   input = minim.getLineIn();
-  track1.play();
-  playing = 1;
-
   
   cp5 = new ControlP5(this);
   
+ PFont p = createFont("Sprat",20); 
+ ControlFont font = new ControlFont(p);
+   
   cp5.addSlider("speed")
      .setPosition(50,50)
-     .setRange(30,500)
+     .setRange(25,280)
+     .setSize(200,30)
+     .setFont(font)
+     .setColorValue(color(255))
+     .setColorActive(color(255,0,0))
+     .setColorForeground(color(255,0,0))
+     .setColorBackground(color(110, 40, 165))
+     
+      
      ;
+  //cp5.addSlider("quantity")
+  //   .setPosition(50,80)
+  //   .setRange(50,800)
+  //   .setColorValue(color(255))
+  //   .setColorActive(color(255,0,0))
+  //   .setColorForeground(color(255,0,0))
+  //   .setColorBackground(color(110, 40, 165))
+  //   ;
+     
+  //float value = cp5.getController("quantity").getValue();;
+  //cp5.getController("quantity").setValue(value);
   
   for(int i = 0; i < quantity; i++) {
     flakeSize[i] = round(random(minFlakeSize, maxFlakeSize));
@@ -62,33 +84,41 @@ myPort = new Serial(this, Serial.list()[5], 9600);
     direction[i] = round(random(0, 1));
   }
   
+  
+  
 }
 
-void draw() {
+void draw() {  
   
   background(0);
   println(quantity);
+
+  b =  speed - 25;
+  if (b<0) b=0;
+  if (b>255) b=255;
+  myPort.write(b);
   
-  //HERE IS WHERE THE PROBLEM STARTS
-  
-  if(speed> 150) { 
-    if (playing != 2) {
-      track1.pause();
-      track2.play();
-      playing = 2;
-      myPort.write(10);
+  int newplaying = -1;  
+  if(speed < 75) 
+    newplaying = 0;
+  else if (speed < 150)
+    newplaying = 1;
+  else if (speed < 255)
+    newplaying = 2;
+  else 
+    newplaying = 3;
+    
+  if (newplaying != playing) {
+    if (playing != -1) 
+        track[playing].pause();
+    playing = newplaying;
+    if (playing != -1) 
+        track[playing].play();
       
     }
-  } else {
-     if (playing != 1) {
-      track2.pause();
-      track1.play();
-      playing = 1;
-      myPort.write(200);
-    }
-  }  
   
-  for(int i = 0; i < xPosition.length; i++) {
+  
+  for(int i = 0; i < speed*2; i++) {
     
     ellipse(xPosition[i], yPosition[i], flakeSize[i], flakeSize[i]);
     
