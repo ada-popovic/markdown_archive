@@ -505,7 +505,7 @@ In the context of connection to early scientific illustration, resorting to etch
 
 *[Etching](https://www.tate.org.uk/art/art-terms/e/etching) is a printmaking technique that uses chemical action to produce incised lines in a metal printing plate which then hold the applied ink and form the image*
 
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/etching.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/linocut.jpg)
+| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/etching.jpg" width="50%" "/>| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/T2/images/linocut.jpg" width="50%" "/> 
 |--|--|
 | *example of an etching plate together with a print* | *example of a linocut block together with a print*
 
