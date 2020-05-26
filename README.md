@@ -24,11 +24,9 @@
 7. [Bibliography](#bibliography)
 
 ## Artefact
-In the archive of International Institute of Social History there is a fascinating object. It is a plastic snow globe with Karl Marx and Friedrich Engels inside of it. The object even in it's purest, today's form already poses a multitude of questions and allows for various interpretations. However, what will happen with it in the future? How can we preserve a feeling of holding that snow globe when global warming already threatens the very existence of snow? And Marx - how does putting him in a tchotchke change his image and his ideology? What is the meaning of the snow globe's caption ('Schnee van gestern?!')?
+In the archive of International Institute of Social History there is a fascinating object. It is a plastic snow globe with Karl Marx and Friedrich Engels inside of it. The object, even in it's purest, today's form, already poses a multitude of questions and allows for various interpretations. However, what will happen with it in the future? How can we preserve a feeling of holding any snow globe when global warming already threatens the very existence of snow? And Marx–how does putting him in a tchotchke change his and his ideology's image? Is there a deeper, metaphorical message to globe's caption ('Schnee van gestern?!')?
 
-Asking (while not necessarily answering), those and other questions is the main premise of the Archival Resilience Project conducted in 2020 in KABK by its 40 students under supervision of Hannes Bernard and Martijn de Heer.
-
-[Research](#Research-h1)
+Asking (while not necessarily answering), those and other questions is the main premise of my take on the Archival Resilience Project conducted in 2020 in KABK by its 40 students under supervision of Hannes Bernard and Martijn de Heer.
 
 ### Metadata
 | Tag | Data |  
@@ -39,13 +37,13 @@ Asking (while not necessarily answering), those and other questions is the main 
 | **Medium** | Sculpture
 | **Materials** | Plastic, Water, Clay
 | **Date** | 1988-1993
-|![](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/main_picture_marx.png "Schnee von gestern?")| The image shows the original *Snowglobe With Marx And Engels* as held in the International Institute of Social History in Amsterdam. Transparent plastic globe with a flat, round, 3-legged base of black plastic contains a figure of sitting Karl Marx and standing Friedrich Engels next to him. The diameter of the base is around 12cm and the height of the globe around 10cm. Judging by the colour and texture, the figures are most probably made out of clay, however there is no firm proof, as the inside of the globe cannot be accessed. On the back of the box-shaped element Karl Marx is sitting on, there is an inscription "CLAY Genet". The inscription seems to be incised directly into the material by hand, not imprinted automatically. As the 'CLAY' part of the inscription could be a clue to the type of material used, the meaning of 'Genet' remains a mystery. In front of the figures, on the inner white base of the globe (on which the figures are positioned), the words 'Schnee von gestern!?' are printed in black ink in decorative script typeface. Both figures are submerged in soapy, murky water. Initially intended to fill out the whole globe, now the liquid reaches to only about half the height of the object. In the water there are floating particles of what seems to be small white plastic shavings. The snowglobe fits in human hand in order to facilitate shaking the object. When the globe is shook, the white plastic particles are supposed to imitate a snowfall, as after initial shake-induced blizzard-like chaos, gradually slowed down by the water resistance, they calmly travel back to the bottom of the object.
+|![](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/main_picture.png "Schnee von gestern?")| The image shows the original *Snowglobe With Marx And Engels* as held in the International Institute of Social History in Amsterdam. Transparent plastic globe with a flat, round, 3-legged base of black plastic contains a figure of sitting Karl Marx and standing Friedrich Engels next to him. The diameter of the base is around 12cm and the height of the globe around 10cm. Judging by the colour and texture, the figures are most probably made out of clay, however there is no firm proof, as the inside of the globe cannot be accessed. On the back of the box-shaped element Karl Marx is sitting on, there is an inscription 'CLAY Genet'. The inscription seems to be incised directly into the material by hand, not imprinted automatically. As the 'CLAY' part of the inscription could be a clue to the type of material used, the meaning of 'Genet' remains a mystery. In front of the figures, on the inner white base of the globe (on which the figures are positioned), the words 'Schnee von gestern!?' are printed in black ink in decorative script typeface. Both figures are submerged in soapy, murky water. Initially intended to fill out the whole globe, now the liquid reaches to only about half the height of the object. In the water there are floating particles of what seems to be small white plastic shavings. The snowglobe fits in human hand in order to facilitate shaking the object. When the globe is shook, the white plastic particles are supposed to imitate a snowfall, as after initial shake-induced blizzard-like chaos, gradually slowed down by the water resistance, they calmly travel back to the bottom of the object.
 
 ## Research
 
 What constitutes this fascinating artefact is its eclecticism, the fact that on one hand the globe evokes feelings of nostalgia, calmness, lightness, while figures of Marx and Engels bring on certain political seriousness, remind the viewer of the controversial subjects of marxism and communism and their consequences. The connection of those two elements, together with baffling inscriptions, completes an image of an object that in its simplicity of form, is surprisingly complex and absurd.
 
-In order to comprehensibly portray the richness, ridiculousness and metaphorical value of *Snowglobe With Marx And Engels* an explanation of its individual elements, history and socio-political context should be introduced first. Essentially, any snowglobe can be divided into three parts: [**The Globe**](#The-Globe) itself, [**The Subject**](#The-Subject) (figure, picture placed inside of it) and [**The Inscription**](#The-Inscription)or any textual content accompanying it (if there is any).
+In order to comprehensibly portray the richness, ridiculousness and metaphorical value of *Snowglobe With Marx And Engels* an explanation of its individual elements, history and socio-political context should be introduced first. Essentially, any snowglobe can be divided into three parts: [**The Globe**](#The-Globe) itself, [**The Subject**](#The-Subject) (figure, picture placed inside of it) and [**The Inscription**](#The-Inscription) or any textual content accompanying it (if there is any).
 
 ## The Globe
 
@@ -58,7 +56,6 @@ Preserving relatability of a snow globe logically starts with an explanation of 
 What the noun 'snow' can mean:
 - atmospheric water vapour frozen into ice crystals and falling in light white flakes or lying on the ground as a white layer.
 - precipitation in the form of small white ice crystals formed directly from the water vapour of the air at a temperature of less than 32°F (0°C)
-- snow white - shade of colour white
 - cocaine, heroin (slang)
 
 | Visual Snow | TV static |  
@@ -106,7 +103,7 @@ Snow consists of hexagonally bound molecules of water. It represents water's sol
 
 **Global perspective**
 
-Thanks to global warming, naturally occuring snow is a vision gradually more and more rare. As much as mountain peaks are whitened with snow pretty much all year long, the majority of land lucky enough to be in cold/moderate climate, experiences a snowfall only in winter season. With the lowering of temperature, a chance of snowfall increases.
+Thanks to global warming, naturally occuring snow is a vision gradually more and more rare. As much as mountain peaks are whitened with snow pretty much all year long, the majority of land lucky enough to be in cold/moderate climate, experiences a snowfall only in winter season. With the lowering of temperature, a chance of snowfall decreases.
 
 The warmer countries around equator, without any mountains are the ones least likely to experience snow. Of course, with global warming and all the glaciers melting, the number of countries without snow will gradually grow larger. For example, there used to be a small ski area called Chacaltaya on a tall mountain in Bolivia, but that ski area has already closed permanently because of lack of snow.
 
@@ -117,7 +114,7 @@ The warmer countries around equator, without any mountains are the ones least li
 
 **Emotional charge**
 
-Snow can, depending on the cintext it appears in, evoke both positive and negative connections.
+Snow can, depending on the context it appears in, evoke both positive and negative connections. For example, most people have positive associations with Christmas period or family ski trips. On the other side of the spectrum there is excessive snow that causes traffic or [death of the whole Napoleon's army](https://medium.com/war-is-boring/if-you-think-your-winter-is-bad-napoleon-had-it-way-worse-3e18b89a4d92).
 
 | positive | negative |
 |--|--|
@@ -125,7 +122,7 @@ Snow can, depending on the cintext it appears in, evoke both positive and negati
 | <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/napoleon.jpg" title ="Napoleon's defeat" width="100%"/> | <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/traffic.jpg" title ="Traffic" width="100%"/>
 
 
-Generally speaking, snow operates on the border of seductive magicality and cold unapproachability, as shown below in a selection of pop-culturally established stories connected to strong presence of snow.
+Generally speaking, snow operates on the border of seductive magicality and cold unapproachability, as shown below in a selection of pop-culturally established stories connected to strong presence of snow. In *Nanny McPhee* (positive)
 
 
 | positive | negative | in-between |
@@ -333,7 +330,7 @@ However, it is specifically Marx that we see in there, so a few possibly over-in
 3. Commodification of marxism especially in post-soviet countries (edgy souvenirs) is parallel to commodification of a snow globe (valued memorabilia → cheap tchotchke)
 
 
-### The Inscriptions
+### The Inscription
 
 On the snowglobe we can find two textual additions: 'CLAY GENET' on the back of the sculpture and 'Schnee von gestern?!' in front of it
 
