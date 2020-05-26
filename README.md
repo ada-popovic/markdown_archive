@@ -278,7 +278,7 @@ for winter wonderland themed parties
 
 **Snow globe - more than a tchotchke**
 
-Very informative [text](https://github.com/ada-popovic/markdown_archive/blob/master/research/pdf/SpaceAndCulture.pdf "Space and Culture") by Freeman on hidden potential of snowglobes, of which below a selection of excerpts is presented.
+Snowglobes, apart from their mainstream souvenir reputation, clearly play a much more significant, almost social role. A. Freeman wrote a very insightful  [text](https://github.com/ada-popovic/markdown_archive/blob/master/research/pdf/SpaceAndCulture.pdf "Space and Culture") on hidden potential of snowglobes, of which below a selection of excerpts is presented.
 
 >While at first glance, snow globes might seem trite or trivial objects, on closer reflection, they are revealed to be symbolic realms that provide clues to the desires, dreams, nightmares, and memories of the cultures that produce them.
 
@@ -291,21 +291,15 @@ opens up riddles of modern life. It brings attention to our size, to ourselves, 
 
 **Marx and Engels**
 
-| ![Marx and Engels](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/marxengels.jpg "Marx and Engels") |
+Karl Marx was born May 5, 1818 in Trier, Rhine province, Prussia (Germany) and died on March 14, 1883 in London, England. He was a revolutionary, sociologist, historian, and economist. Together with Friedrich Engels he published Manifest der Kommunistischen Partei (1848), commonly known as The Communist Manifesto, the most celebrated pamphlet in the history of the socialist movement. He also was the author of the movement’s most important book, Das Kapital. These writings and others by Marx and Engels form the basis of the body of thought and belief known as Marxism.
+
+Friedrich Engels was born on November 28, 1820 in Barmen, Rhine province, Prussia (Germany) and died pn August 5, 1895 in London, England. He was a German socialist philosopher, the closest collaborator of Karl Marx in the foundation of modern communism. He coauthored The Communist Manifesto (1848), and edited the second and third volumes of Das Kapital after Marx’s death.
+
+| ![Marx and Engels](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/marxengels.jpg "Marx and Engels") | ![The Communist Manifesto](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/communistmanifesto.png "The Communist Manifesto") | ![Das Kapital](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/daskapital.jpg "Das Kapital") 
 |--|
-| Picture of Karl Marx and Friedrich Engels together |
-
-Karl Marx, in full Karl Heinrich Marx, (born May 5, 1818, Trier, Rhine province, Prussia [Germany]—died March 14, 1883, London, England), revolutionary, sociologist, historian, and economist. He published (with Friedrich Engels) Manifest der Kommunistischen Partei (1848), commonly known as The Communist Manifesto, the most celebrated pamphlet in the history of the socialist movement. He also was the author of the movement’s most important book, Das Kapital. These writings and others by Marx and Engels form the basis of the body of thought and belief known as Marxism. (See also socialism; communism.)
-
-Friedrich Engels, (born Nov. 28, 1820, Barmen, Rhine province, Prussia [Germany]—died Aug. 5, 1895, London, Eng.), German socialist philosopher, the closest collaborator of Karl Marx in the foundation of modern communism. They coauthored The Communist Manifesto (1848), and Engels edited the second and third volumes of Das Kapital after Marx’s death.
-
-[Communist Manifesto by Karl Marx and Friedrich Engels](https://github.com/ada-popovic/markdown_archive/blob/master/research/pdf/CommunistManifesto.pdf "Communist Manifesto by Karl Marx and Friedrich Engels")
-
-[Das Kapital by Karl Marx](https://github.com/ada-popovic/markdown_archive/blob/master/research/pdf/DasKapital.pdf "Das Kapital by Karl Marx")
+| Picture of Karl Marx and Friedrich Engels together | [Communist Manifesto by Karl Marx and Friedrich Engels](https://github.com/ada-popovic/markdown_archive/blob/master/research/pdf/CommunistManifesto.pdf "Communist Manifesto by Karl Marx and Friedrich Engels") | [Das Kapital by Karl Marx](https://github.com/ada-popovic/markdown_archive/blob/master/research/pdf/DasKapital.pdf "Das Kapital by Karl Marx")
 
 
-Documentary about Marx's Life
-[https://www.youtube.com/watch?v=9FaOKNpAiIM&t=695s](https://www.youtube.com/watch?v=9FaOKNpAiIM&t=695s)
 
 **Similar Objects in IISG**
 
