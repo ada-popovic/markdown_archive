@@ -122,7 +122,7 @@ Snow can, depending on the context it appears in, evoke both positive and negati
 | <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/napoleon.jpg" title ="Napoleon's defeat" width="100%"/> | <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/traffic.jpg" title ="Traffic" width="100%"/>
 
 
-Generally speaking, snow operates on the border of seductive magicality and cold unapproachability, as shown below in a selection of pop-culturally established stories connected to strong presence of snow. In *Nanny McPhee* (positive)
+Generally speaking, snow operates on the border of seductive magicality and cold unapproachability, as shown below in a selection of pop-culturally established stories connected to strong presence of snow. In *Nanny McPhee* (positive) the snowfall at the end of the movie is rather typically connected to a wedding theme, symbolises purity, a fresh breath of new situation and is used as a contrast to preceding motley and kitsch that haunted the characters. In *The Chronicles of Narnia* (negative) snow is connected to the evil Witch who exercises her absolute power on all the creatures in Narnia. As the story progresses, snow melts down and Spring (connected to Aslan–the absolute god) appears in most welcoming plentitude of colors. In Disney's *Frozen* main character Elsa, after endangering her sister's life in their childhood, struggles with accepting her magical snow queen powers and becomes capable of both good and evil creations–snow is shown from a dualistic perspective.
 
 
 | positive | negative | in-between |
@@ -140,17 +140,13 @@ Every snowglobe consists of the following layers:
 
 1. The Name
 
-  known as snow domes , snow shakers, water domes, water balls, snow scenes and blizzard weights
+  Snow globes are also known as snow domes, snow shakers, water domes, water balls, snow scenes and blizzard weights.
 
 2. The Snow Material
 
-  The ''snow'' was made of ground rice, bone, ceramic, camphor and wax or porcelain; today it is almost always tiny bits of plastic.
+  The 'snow' was historicallly made of ground rice, bone, ceramic, camphor and wax or porcelain–today it is almost always tiny bits of plastic. Does it not sound ironically accurate? On planet Earth it used to be snowing real, natural snow, but now, if consumptionism and carelessness towards environmental issues continues, we just might drown in a blizzard of plastic waste.
 
-  isn't that accurate? it used to be snowing snow, but now, because of our need to own things, it snowing plastic.
-
-  how accurate is it that in the majority of mainstream snowglobes, which are supposed to be reminiscent of a magical event of snow globe, it already snows plastic (instead more natural materials like rice, wax, bone). Perhaps one day the snow on our Earth globe will follow. As the natural occurence of snow decreasee, the amount of plastic covering our planet increases.
-
-  One of our unique designs included a 120mm snowglobe on a solid silver base which was given to President Bill Clinton. The snowglobe contained the original confetti which was thrown at his inauguration party.
+  Apart from that the 'snow material' can be anything small enough and fitting the scene. For example a snowglobe given to President Bill Clinton contained the original confetti which was thrown at his inauguration party and a snowglobe promoting the horror movie 'Halloween' contained material supposed to resemble blood splashing all around the horrific scene.
 
 |<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/penguinglobe.jpg" title ="Penguin" width="30%"/>|  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/glitterglobe.jpg" title ="Glitter" width="30%"/>|  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/mars.gif" title ="Mars" width="30%"/>|
 |--|--|--|
@@ -160,23 +156,22 @@ Every snowglobe consists of the following layers:
 
 3. The Liquid
 
-  In the 1960's, several children got sick when they drank the contents of domes filled with polluted water taken directly from Hong Kong Harbor. In the 1950's, one manufacturer, finding that water froze when his inventory was being shipped, began adding antifreeze. Today, many manufacturers still add potentially lethal chemicals to prevent freezing and to thicken the water so the flakes drift through slowly.
+  The liquid inside a snowglobe is in its most basic versions clear water. Different producers often add glycerin or potentially lethal chemicals to prevent freezing and to thicken the water so the flakes drift through slowly and hence achieve a more satisfying effect.
 
-  there were domes send from Canada that had liquid metaamphetamine in it   [https://edition.cnn.com/2019/07/26/world/liquid-meth-snow-globes-australia-trnd/index.html](https://edition.cnn.com/2019/07/26/world/liquid-meth-snow-globes-australia-trnd/index.html)
+  Interestingly, the liquid is the part of the snowglobe that has caused most controversy. In the 1960's, several children got sick when they drank the contents of domes filled with polluted water taken directly from Hong Kong Harbour. In the 1950's, one manufacturer, finding that water froze when his inventory was being shipped, began adding antifreeze. Unfortunately, many children also tried drinking the snowglobe water and got sick, for which manufacturer was sued. In 2019 a [shipment of of snowglobes from Canada](https://edition.cnn.com/2019/07/26/world/liquid-meth-snow-globes-australia-trnd/index.html) was discovered to contain liquid metaamphetamine in it.  
+
 
 4. The Vessel
 
-  In the early 1950's, plastic began to take the place of glass as a material for the globe itself.
+  Originally, the snowglobe were expensive memorabilia and were made from blown glass by means of true craftsmanship. In the early 1950's however, plastic began to take the place of glass as a material for the globe itself, changing the image of snowglobe into an epitome of a cheap, tacky souvenir.
 
 5. Base
 
-  doesnt really matter as long as its waterproof, most popular choices include plastic
+  The base seems to be the part that is least conceptually or materially exploited. The material used for it doesn't really matter as long as it is waterproof and hard enough to carry the globe. Most popular choices include plastic and impregnated wood.
 
 6. Subject
-  THE FIGURINE/DIORAMA/PICTURE
 
-  doesn't really matter as long as its waterproof, most often its a sculpture,
-  can be anything, not necessarily connected to snow
+  This part of the snowglobe probably matters the most. It is all the globe is about. Usually inside of the globe we will find a figurine, diorama or a two-dimensional picture. Yet again, the material doesn't really matter as long as its waterproof. What the figurine represents is also very much up to the producer. First snowglobes included miniature pieces of architecture, nowadays they are mostly connected to souvenir and christmas industry, but can also serve for way personalised purpose, such as displaying a wedding picture or a family scene, such as in the globe ordered by Obama family.
 
 |<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/snowman.jpg" title ="Snowman" width="25%"/>|  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/mickey.jpg" title ="Mickey" width="25%"/>| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/hawaii.jpg" title ="Hawaii" width="25%"/> |
 |--|--|--|
@@ -187,7 +182,10 @@ Every snowglobe consists of the following layers:
 
 **Typology**
 
-Depending on their inner subject, 3 main types of snowglobes can be differentiated: two-dimensional, three-dimensional or bas-relief
+Depending on their inner subject, 3 main types of snowglobes can be differentiated:
+- two-dimensional
+- three-dimensional
+- bas-relief
 
 | two-dimensional | three-dimensional | bas-relief |
 |--|--|--|
@@ -197,6 +195,8 @@ Depending on their inner subject, 3 main types of snowglobes can be differentiat
 | Example of an image-based globe | Example of a sculpture-based globe | Example of a bas-relief globe |
 
 **Shaking event**
+
+In order for a snowglobe to reveal its magic, it needs to be shook. In this way the snow particles are moved from the bottom and float around the globe. If the globe is put down, the partciles will slowly move back to the bottom of the object.
 
 |![handshake](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/handshake.gif "Example of a hand shaking a snowglobe")|![3Dshake](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/onlineshake.gif "Example of an online snowglobe")|
 |--|--|
@@ -208,17 +208,28 @@ Depending on their inner subject, 3 main types of snowglobes can be differentiat
 
 **History Of Snowglobes**
 
-[Extensive article by Mental Floss on history of Snow Globes](https://github.com/ada-popovic/markdown_archive/blob/master/research/pdf/HistorySnowGlobes.pdf "Extensive article by Mental Floss on history of Snow Globes")
+The snowglobes have a very interesting and not well known emergence story to them. They were invented by accident by Edwin Perzy, who tried to improve a lightbulb by putting a glass dish filled with semolina in fron of it. The idea did not work out, but Perzy was mesmerized by the slow movement of semolina in the dish–it reminded him of movement of a snowfall in his beloved city of Vienna.
+In 1900, Erwin Perzy created the first snow globe, with snow made from ground rice. His patent was titled “Glass Globe With Snow Effect.” Today, his grandson, Edwin Perzy III, still runs a snow globe museum in Vienna.
 
-1900 - Invention of the snow globe
+Other sources suggest that actually the globes might have existed earlier, not necessarily to Perzy's knowledge. The first record of a snowglobe's appearance can be found in descriptions of 1894 Paris Conference.
 
-1920s - Start of production of snowglobes
+Below a short timeline of the history of snowglobes is presented.
 
-1940s - Snoglobes go mainstream
+**1900** - Invention of the snow globe by Edwin Perzy.
 
-1950s - Switch to plastic-based production
+**1920s** - Start of production of snowglobes in Perzy's workshop.
 
-1980s - Snowglobe becomes a symbol of gift industry
+**1940s** - Snowglobes appear in mainstream movies, firstly Kitty Foyle (1940). later in Citizen K (1941) and gain popularity on wider, non-elitist market.
+
+**1950s** - As many other products in the 1950s, snowglobes go through a switch to plastic-based production, which dramatically decreases their prices, making them available to almost anyone interested.
+
+**1980s** - Snowglobe becomes a symbol of gift and souvenir industry.
+
+|![handshake](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/handshake.gif "Example of a hand shaking a snowglobe")|![3Dshake](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/onlineshake.gif "Example of an online snowglobe")|
+|--|--|
+| Example of a snowglobe being shaken by hand | Example on an online model trying to mimic the physics of a snowglobe |
+
+For further information I highly recommend reading this [extensive article by Mental Floss on history of Snow Globes](https://github.com/ada-popovic/markdown_archive/blob/master/research/pdf/HistorySnowGlobes.pdf "Extensive article by Mental Floss on history of Snow Globes")
 
 **Snowglobe Collectors**
 
@@ -795,6 +806,52 @@ https://german.stackexchange.com/questions/4766/meaning-of-the-schnee-von-gester
 https://de.wikipedia.org/wiki/Schnee_von_gestern_(Reuveny)
 https://de.wikipedia.org/wiki/Schnee_von_gestern_(Oppermann,_Grote)
 https://de.wikipedia.org/wiki/Schnee_von_gestern_(Michael_W%C3%BCrfel)
+
+[https://www.mentalfloss.com/article/71983/brief-history-snow-globes](https://www.mentalfloss.com/article/71983/brief-history-snow-globes)
+
+[https://www.quora.com/Which-countries-havent-ever-had-any-record-of-snow](https://www.quora.com/Which-countries-havent-ever-had-any-record-of-snow)
+
+[https://chloesaustrianadventure.wordpress.com/2013/04/13/10-things-you-should-know-about-vienna-and-other-interesting-facts/](https://chloesaustrianadventure.wordpress.com/2013/04/13/10-things-you-should-know-about-vienna-and-other-interesting-facts/)
+
+[https://www.maxinesniderinc.com/blog/general/matter-snow/](https://www.maxinesniderinc.com/blog/general/matter-snow/)
+
+[https://www.viennasnowglobe.at/](https://www.viennasnowglobe.at/)
+
+[https://www.schneekugel.at/geschichte?___store=en&___from_store=de](https://www.schneekugel.at/geschichte?___store=en&___from_store=de)
+
+[https://en.wiktionary.org/wiki/snow](https://en.wiktionary.org/wiki/snow)
+
+[https://www.merriam-webster.com/dictionary/snow](https://www.merriam-webster.com/dictionary/snow)
+
+[https://en.wikipedia.org/wiki/Snow](https://en.wikipedia.org/wiki/Snow)
+
+[https://www.nytimes.com/1997/12/07/nyregion/the-view-from-harrison-collector-of-6000-snow-domes-knows-kitsch-from-priceless.html](https://www.nytimes.com/1997/12/07/nyregion/the-view-from-harrison-collector-of-6000-snow-domes-knows-kitsch-from-priceless.html)
+
+[https://www.kickstarter.com/projects/danabramson/mars-dust-globe](https://www.kickstarter.com/projects/danabramson/mars-dust-globe)
+
+[https://www.amazon.com/gp/product/B001M08Z5E/cathechesguitol-20](https://www.amazon.com/gp/product/B001M08Z5E/cathechesguitol-20)
+
+[https://artsandculture.google.com/asset/snowdome-weight-eiffel-tower/MgHSayX2eeFc2g](https://artsandculture.google.com/asset/snowdome-weight-eiffel-tower/MgHSayX2eeFc2g)
+
+[http://old.post-gazette.com/travel/20001008bear1.asp](http://old.post-gazette.com/travel/20001008bear1.asp)
+
+[https://babel.hathitrust.org/cgi/pt?id=umn.31951000798038h&view=1up&seq=318](https://babel.hathitrust.org/cgi/pt?id=umn.31951000798038h&view=1up&seq=318)
+
+[https://www.queenofsnowglobes.com/snow-globe-collectors/](https://www.queenofsnowglobes.com/snow-globe-collectors/)
+
+[https://en.wikipedia.org/wiki/Noise_(video)](https://en.wikipedia.org/wiki/Noise_(video))
+
+[https://www.thecut.com/2017/10/a-mysterious-condition-that-makes-the-world-look-like-static.html?utm_campaign=sou&utm_source=tw&utm_medium=s1&fbclid=IwAR3J8T_zS5SxbKG-Nu9kIOlUJ1Dnjc38d6tXQ3tRgVRH7wpzMA584AVh8bY](https://www.thecut.com/2017/10/a-mysterious-condition-that-makes-the-world-look-like-static.html?utm_campaign=sou&utm_source=tw&utm_medium=s1&fbclid=IwAR3J8T_zS5SxbKG-Nu9kIOlUJ1Dnjc38d6tXQ3tRgVRH7wpzMA584AVh8bY)
+
+[https://rarediseases.info.nih.gov/diseases/12062/visual-snow-syndrome](https://rarediseases.info.nih.gov/diseases/12062/visual-snow-syndrome)
+
+[https://fuckyeahyoungstalin.tumblr.com/](https://fuckyeahyoungstalin.tumblr.com/)
+
+[https://www.myphotobook.nl/sneeuwbol.html?gclid=Cj0KCQjwtLT1BRD9ARIsAMH3BtU20b3RqjDo3eDHP4ZSUHcHUUSRd34OhXG6p_RzWpdqbjeLVNsoo6waAoPkEALw_wcB](https://www.myphotobook.nl/sneeuwbol.html?gclid=Cj0KCQjwtLT1BRD9ARIsAMH3BtU20b3RqjDo3eDHP4ZSUHcHUUSRd34OhXG6p_RzWpdqbjeLVNsoo6waAoPkEALw_wcB)
+
+[https://www.britannica.com/biography/Karl-Marx](https://www.britannica.com/biography/Karl-Marx)
+
+[https://plato.stanford.edu/entries/marx/](https://plato.stanford.edu/entries/marx/)
 
 
 ---------------------------------------
