@@ -606,6 +606,9 @@ I started with looking around for base code I could use in the project. I found 
 | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/snow1.png) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/snow_controller.gif)
 |--|--|
 | web snow example | control of the snow speed with a slider in the augmented found code
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/speed2.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/speed1.jpg)
+| less snow particles moving at lower speed with lower snow speed value | less snow particles moving at lower speed with lower snow speed value
+
 
 
 
