@@ -227,9 +227,9 @@ Below a short timeline of the history of snowglobes is presented.
 
 **1940s** - Snowglobes appear in mainstream movies, firstly Kitty Foyle (1940). later in Citizen K (1941) and gain popularity on wider, non-elitist market.
 
-|![](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/kittyposter.jpg "Poster of Kitty Foyle")| ![](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/citizenposter.jpg "Poster of Citizen K)
+|![](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/kittyposter.jpg "Poster of Kitty Foyle")| ![](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/citizenposter.jpg "Poster of Citizen K")
 |--|--|
-|![](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/kitty.gif "Kitty Foyle")| ![](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/citizen.gf "Citizen K)
+|![](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/kitty.gif "Kitty Foyle")| ![](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/citizen.gif "Citizen K")
 | Poster and scene featuring a snowglobe in 'Kitty Foyle' | Poster and scene featuring a snowglobe in 'Citizen K'
 
 **1950s** - As many other products in the 1950s, snowglobes go through a switch to plastic-based production, which dramatically decreases their prices, making them available to almost anyone interested.
