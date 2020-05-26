@@ -295,7 +295,7 @@ Karl Marx was born May 5, 1818 in Trier, Rhine province, Prussia (Germany) and d
 
 Friedrich Engels was born on November 28, 1820 in Barmen, Rhine province, Prussia (Germany) and died pn August 5, 1895 in London, England. He was a German socialist philosopher, the closest collaborator of Karl Marx in the foundation of modern communism. He coauthored The Communist Manifesto (1848), and edited the second and third volumes of Das Kapital after Marx’s death.
 
-| ![Marx and Engels](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/marxengels.jpg "Marx and Engels") | ![The Communist Manifesto](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/communistmanifesto.png "The Communist Manifesto") | ![Das Kapital](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/daskapital.jpg "Das Kapital") 
+| ![Marx and Engels](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/marxengels.jpg "Marx and Engels") | ![The Communist Manifesto](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/communistmanifesto.png "The Communist Manifesto") | ![Das Kapital](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/daskapital.jpg "Das Kapital")
 |--|
 | Picture of Karl Marx and Friedrich Engels together | [Communist Manifesto by Karl Marx and Friedrich Engels](https://github.com/ada-popovic/markdown_archive/blob/master/research/pdf/CommunistManifesto.pdf "Communist Manifesto by Karl Marx and Friedrich Engels") | [Das Kapital by Karl Marx](https://github.com/ada-popovic/markdown_archive/blob/master/research/pdf/DasKapital.pdf "Das Kapital by Karl Marx")
 
@@ -303,12 +303,12 @@ Friedrich Engels was born on November 28, 1820 in Barmen, Rhine province, Prussi
 
 **Similar Objects in IISG**
 
-Apart from the Snowglobe With Marx And Engels, there are other objects connected to the German philosopher
+Apart from the *Snowglobe With Marx And Engels*, other untypical objects connected to the German philosopher can be found in the IISG archive, of which a selection is presented below.
 
 |![object1](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/object1.jpg)|![object2](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/object2.jpg)|![object3](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/object3.jpg)|![object4](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/object4.jpg)|
 |--|--|--|--|
 
-Seeing the mentioned snowglobe next to these objects, we cannot help, but notice that they are not primarily objects of preservation, but rather of mockery.
+Seeing the mentioned *Snowglobe* next to these objects, we cannot help, but notice that they are not primarily objects of preservation, but rather of mockery.
 
 In the modern age, after the fall of USSR, we are experiencing a new approach to the icons of communism, especially in post-soviet countries. Dictators (Stalin), leaders (Lenin) or idealists (Marx) are commodified and turned into symbols, often ending up as a low quality T-shirt print or edgy cup available online or next to major tourist attraction from Warsaw to Budapest.
 
@@ -345,7 +345,7 @@ However, it is specifically Marx that we see in there, so a few possibly over-in
 
 ### The Inscription
 
-On the snowglobe we can find two textual additions: 'CLAY GENET' on the back of the sculpture and 'Schnee von gestern?!' in front of it
+On the snowglobe we can find two textual additions: 'CLAY GENET' on the back of the sculpture and 'Schnee von gestern?!' in front of it.
 
 **CLAY GENET**
 
@@ -369,7 +369,7 @@ The reason why inscription was made is unknown. It is supposed that it can be th
 
 The inscription is made in German and literally translates to *Snow of yesterday* or *Yesterday's snow*.
 
-"Schnee von gestern" is a way of saying that something is already a thing of the past, something old, unimportant that has no more relevance to the discussed topic or is not worthy of worrying about. Its English synonym is 'water under the bridge'.
+"Schnee von gestern" is a way of saying that something is already a thing of the past, old and unimportant thing that has no more any relevance to the discussed topic or is not worthy of worrying about. Its English synonym is 'water under the bridge'.
 
 There are three German documentary movies entitled *Schnee von gestern*
 - by director Michael Würfel from 2008
@@ -395,6 +395,7 @@ The artefact of *The Snowglobe With Marx And Engels* has been translated into di
 | PURPOSE | showing how type of transparent material impacts the perceived value of a packaged object | showing how much the mistakes in original classification record of the IISG can augment the interpretation of the object | explaining how the speed of snow impacts the emotional response and audio-visual association | introducing the strange clash of the capitalistic world of Coca-Cola and political ideology opposing it, all on the platform of a snowglobe | exploring the possibilities of repurposing a snow globe as a storytelling device for complex text-based construction of meaning AND preserving the importance of shaking gesture|
 | MEDIUM | installation | linocut | website | epoxy trinket | website |
 | RESULT | set of 3D printed figures of Marx put in different types of glass and plastic packaging | detailed linocut accompanied by prints, carved based on the mistakes in the description of the snowglobe from IISG | slider controlling the speed of snow and reacting with appropriate audio-visual response | small transparent epoxy trinket with a red, 3D printed tag *Communism* in Coca-Cola font inside of it | generator of divinations based on excerpts from Marx's Das Kapital |
+|PROJECT COMPLETED|yes|no|yes|no|yes|
 
 
 ### Transcoding No. 1
@@ -410,7 +411,7 @@ The artefact of *The Snowglobe With Marx And Engels* has been translated into di
 
 On the website of IISG we can read that the material used for the *Snowglobe with Marx and Engels* is glass. Unfortunately, that information is wrong. It is plastic. And that distinction is quite important in uderstanding that object. Plastic evokes feelings of kitsch and cheapness, glass of craftsmanship and refinement. The only thing that connects the two materials is transparency and water resistance.
 
-The snowglobe is in its most reductive form is just a set of figurines packaged in transparent, water-resistant material. However, I want to show the immediate difference one can feel when interacting with a plastic material vs glass material.
+The snowglobe is in its most reductive form just a set of figurines packaged in transparent, water-resistant material. However, I want to show the immediate difference one can feel when interacting with a plastic material as compared to a glass material.
 
 **Materials**
 
@@ -461,9 +462,20 @@ For the printing I used a the [Anycubic Photon S – UV Resin DLP 3D Printer](ht
 
 **Printing the labels**
 
+In order to fit the label on all the objects, I decided to              
+
+|![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/finallabel1.jpg )| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/finallabel1.jpg )
+|--|--|
+|  *Final design of the label* | *All labels ready to print*                                                                                                                                   
 **Assembling**
 
+The last step of the process was putting the 3D printed figurines in different packages and sticking the labels on top.
+
 ### Final Result
+
+|![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/finalT1FINAL.jpg )| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/T1FINAL2.jpg )
+|--|--|
+|  *Final result* | *Detail* |   
 
 ### Transcoding No. 2
 
@@ -498,7 +510,7 @@ I started with an attempt at improving the record. Sadly, a lot of information (
 | Subject Person | Marx, Karl Engels, Friedrich     | Karl Marx, Friedrich Engels
 | Subject   | Portrait      | Snowglobe
 | Subject Location   | Germany     | Germany
-| Image | ![Original image on IISG website](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/original.jpeg "Schnee von gestern?") | ![Corrected image](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/main_picture_marx.png "Schnee von gestern?")
+| Image | ![Original image on IISG website](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/original.jpeg "Schnee von gestern?") | ![Corrected image](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/main_picture.png "Schnee von gestern?")
 
 After the correction however, I noticed the hidden potential of the errors in the IISG's record. They reminded me of phrenology, mysterious medieval book illustrations, alchemic manuscripts (like [The Voynich Manuscript](http://www.voynich.nu/)) or scientific etchings from early colonial age, in which the explorers tried to note down their (often mistaken) observations about local communities, whose habits and even looks very completely alien to them.
 
@@ -550,9 +562,6 @@ List of misinterpretations:
 | First sketch for the linocut | Final sketch
 
 
-**Final Result**
-
-
 ### Transcoding No. 3
 
 | TRANSCODING | 3 |
@@ -564,9 +573,10 @@ List of misinterpretations:
 
 **Description**
 
-In the near future the word *snow* might become an anachronism. As global warming progresses, snow is more and more of a rare sight. And without its natural occurence, its relatability is lost. Phenomena like TV static/snow, visual snow syndrome or 'yesterday's snow' would be named differently if snow did not exist anymore.
+In the near future the word *snow* might become an anachronism. As global warming progresses, snow is more and more of a rare sight. And without its natural occurence, its relatability is lost. Phenomena like TV static/snow, visual snow syndrome or 'yesterday's snow' would be named differently if snow did not exist anymore. Depending on the intensity of snow, we attach differemnt emotional associations to it as listed below:
 
-1. SLOW SNOW /  or 2. MEDIUM SNOW
+1. SLOW SNOW
+2. or MEDIUM SNOW
 - magic
 - christmas
 - purity
@@ -578,18 +588,33 @@ In the near future the word *snow* might become an anachronism. As global warmin
 - death
 - hostility
 
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/graph1.jpg)
+|--|
+| A graph showing the relationship between snow's intensity and emotional reponse (mapped by shots from popular movies, pictures, pop-culture representations)
+
+The aim of the project is to show that emotional charge and change by controlling a digital snow fall with a slider (increasing and decresing snowfall intensity). After certain snow intensity is surpassed there is a change of music and light causing or suggesting an emotional switch from 'positive' to 'negative' range.
+
 
 **Materials**
 
-Processing, Arduino?
+Necessary elements needed for realisation of the project are: Arduino board, Arduino and Processing software, 2 strips of led lights (one for warm light, one for cold light), screen and a plexi cabinet, in which the piece will be installed (see [Outcome](#outcome)).
 
 **Production**
 
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/snow_controller.gif)
-|--|
-| control of the snow speed with a slider
+I started with looking around for base code I could use in the project. I found one [HTML-based example](https://github.com/ada-popovic/markdown_archive/blob/master/T3/web_example) and a great [Processing sketch](https://github.com/ada-popovic/markdown_archive/blob/master/T3/snow_processing) by [Solemone](http://solemone.de/demos/snow-effect-processing/). I augmented the sketch with a slider from [controlP5 library by Andreas Schlegel ](http://www.sojamo.de/libraries/controlP5/) in order to be able to control the speed and amount of the simulated snowfall.
+
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/snow1.png) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/snow_controller.gif)
+|--|--|
+| web snow example | control of the snow speed with a slider in the augmented found code
+
+
+
 
 **Final Result**
+
+| [![code and screen](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/vimeo.jpg)](https://vimeo.com/422642920 "Image and Snow Result") |
+|--|--|
+|final result of the code and screen based control of music and snow|changing light visible in the final *Wunderkammer*|
 
 ### Transcoding No. 4
 
@@ -737,7 +762,7 @@ In this way each sentence would give an advice for a specific life domain of the
 ## Reflection
 During this semester I was planning to make quite a lot of physical, analogue projects next to my coding-related endeavours. Unfortunately, because of COVID-19 crisis, we were forced to present the outcomes in a digital way, which influenced my decision process for majority of transcodings.
 
-## Outcomes
+## Outcome
 Looking at all the visual results of my experiments, I noticed that all of them share one trait - certain strangeness, magicality, detachment from reality. I decided that the most fitting format to contain all of the transcodings would be a Wunderkammer, especially considering how the gems of Marx's collection at IISG are stored - in a glass display box, very reminiscent of a Cabinet of Curiosities.
 
 I needed to store the three finalised transcodings.
