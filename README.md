@@ -296,7 +296,7 @@ Karl Marx was born May 5, 1818 in Trier, Rhine province, Prussia (Germany) and d
 Friedrich Engels was born on November 28, 1820 in Barmen, Rhine province, Prussia (Germany) and died pn August 5, 1895 in London, England. He was a German socialist philosopher, the closest collaborator of Karl Marx in the foundation of modern communism. He coauthored The Communist Manifesto (1848), and edited the second and third volumes of Das Kapital after Marx’s death.
 
 | ![Marx and Engels](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/marxengels.jpg "Marx and Engels") | ![The Communist Manifesto](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/communistmanifesto.png "The Communist Manifesto") | ![Das Kapital](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/daskapital.jpg "Das Kapital")
-|--|
+|--|--|--|
 | Picture of Karl Marx and Friedrich Engels together | [Communist Manifesto by Karl Marx and Friedrich Engels](https://github.com/ada-popovic/markdown_archive/blob/master/research/pdf/CommunistManifesto.pdf "Communist Manifesto by Karl Marx and Friedrich Engels") | [Das Kapital by Karl Marx](https://github.com/ada-popovic/markdown_archive/blob/master/research/pdf/DasKapital.pdf "Das Kapital by Karl Marx")
 
 
@@ -464,7 +464,7 @@ For the printing I used a the [Anycubic Photon S – UV Resin DLP 3D Printer](ht
 
 In order to fit the label on all the objects, I decided to              
 
-|![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/finallabel1.jpg )| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/finallabel1.jpg )
+|![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/finallabel1.jpg )| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/finallabel2.jpg )
 |--|--|
 |  *Final design of the label* | *All labels ready to print*                                                                                                                                   
 **Assembling**
@@ -597,7 +597,16 @@ The aim of the project is to show that emotional charge and change by controllin
 
 **Materials**
 
-Necessary elements needed for realisation of the project are: Arduino board, Arduino and Processing software, 2 strips of led lights (one for warm light, one for cold light), screen and a plexi cabinet, in which the piece will be installed (see [Outcome](#outcome)).
+Necessary elements needed for realisation of the project are: Arduino board, Arduino and Processing software, 2 strips of led lights (one for warm light, one for cold light), screen and a cabinet (Wunderkammer), in which the piece will be installed.
+
+**Wunderkammer Production**
+As a final way of presenting all of my outcomes I decided to choose a Wunderkammer (for explanation see [Outcome](#outcome)). As I wanted the Wunderkammer to not only hold the Transcoding 3, but also blend with it in a certain way,  it needed to be built parallel to construction of the Transcoding.
+
+For the material I decided to choose black Plexi (actually very dark purple, fitting the identity of the project). I have designed the desired cabinet, cut it out using mechanic saw and assembled using superglue.
+
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/sketch.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/plexi.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/drilling.gif) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/plexi2.jpg)
+|--|--|--|--|
+| Wunderkammer sketch | cut-out plexi plates | drilling the hole for the arm with a round saw | assembling the Wunderkammer
 
 **Production**
 
@@ -607,17 +616,37 @@ I started with looking around for base code I could use in the project. I found 
 |--|--|
 | web snow example | control of the snow speed with a slider in the augmented found code
 | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/speed2.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/speed1.jpg)
-| less snow particles moving at lower speed with lower snow speed value | less snow particles moving at lower speed with lower snow speed value
+| less snow particles moving at lower speed with lower snow speed value | more snow particles moving at faster speed with bigger snow speed value
+
+The next step was connecting the Wunerkammer to the code and two led strips–one with warm light (representing positive emotions) and one with cold light (negative emotions).
+
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/coldlight.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/warmlight.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/wunderlight.gif) |
+|--|--|--|
+| cold light visual result | warm light visual result | working leds attached to Wunderkammer
+
+After the lights started working I needed to finalise my music choices. The music for the negative emotional response was easy to pick–I decided to go for an actual recording of a huge blizzard. As for the positive music I chose 3 different tracks. Starting it off, visualising feelings of the first snow is the nostalgic soundtrack from *Nanny McPhee*. As snow intensifies the music changes to Christmas tune from *Harry Potter* series, evoking more festive feelings. The final positive track is Coca-Cola's Christmas ad tune–bringing on a feelinf joy, festivity, but also excess and certain anxiety even.
 
 
+| positive | positive | positive |negative |
+|--|--|--|--|
+|[soundtrack from *Nanny McPhee*](https://github.com/ada-popovic/markdown_archive/blob/master/T3/snow_slider/data/nanny.mp3)|[Christmas soundtrack from *Harry Potter*](https://github.com/ada-popovic/markdown_archive/blob/master/T3/snow_slider/data/harry.mp3)|[Coca-Cola's Christmas advertisement music](https://github.com/ada-popovic/markdown_archive/blob/master/T3/snow_slider/data/cola.mp3)|[recorded sound of a blizzard](https://github.com/ada-popovic/markdown_archive/blob/master/T3/snow_slider/data/blizzard.mp3)|
 
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/code2.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/code1.jpg)
+|--|--|
+| Adding music to the code | part of code regulating the music
+
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/arduino.gif) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/oscillo.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/cables.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/arduino1.jpg) |
+|--|--|--|
+| Arduino connected to the installation | connecting cables to leds | oscilloscope in use | part of the code controlling the light
 
 
 **Final Result**
 
-| [![code and screen](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/vimeo.jpg)](https://vimeo.com/422642920 "Image and Snow Result") |
+| [![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/vimeo.jpg)](https://vimeo.com/422642920) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/lightchange.gif) 
 |--|--|
-|final result of the code and screen based control of music and snow|changing light visible in the final *Wunderkammer*|
+| final result of the code and screen based control of music and snow | changing light visible in the final *Wunderkammer* |
+
+In the final result the warm light builds up gradually to a more and more intense shine (showing more and more intense joy of the person experiencing snow). The light is accompanied by three tracks that also show the build up of joy of experiencing snow. At a certain breaking point the music changes to a recording of a blizzard and is accompanied by stroboscopic cold light to produce a feeling of unease (which in reality blizzard causes).
 
 ### Transcoding No. 4
 
@@ -629,14 +658,6 @@ I started with looking around for base code I could use in the project. I found 
 | PURPOSE | introducing the strange clash of the capitalistic world of Coca-Cola and political ideology opposing it, all on the platform of a snowglobe |
 | MEDIUM | epoxy trinket |
 | RESULT | small transparent epoxy trinket with a red, 3D printed tag *Communism* in Coca-Cola font inside of it
-
-**Description**
-
-**Materials**
-
-**Production**
-
-**Final Result**
 
 ### Transcoding No. 5
 
@@ -664,7 +685,6 @@ In an analogue version each globe would have a small transparent opening at the 
 In a digital version the construction would rely on randomly selected words from a few array (one array for each globe).*
 
 At the beginning of the project I wanted to create a physical, analogue, but interactive sculpture consisting of multiple smaller snowglobes, each of them functioning as a Magic8Ball. Later in the process, I decided to build an online platform for divinations instead. Each divination consists of a excerpt from Marx's *Das Kapital* and a set of randomly assigned nouns that, every time the tool is used, open themselves up to new interpretations, which is an integral part of any esoteric attempt at prediciing the future.
-
 
 | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/divination0.jpg)| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/divination1.jpg)| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/divination2.gif)
 |--|--|--|
