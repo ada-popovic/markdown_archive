@@ -211,7 +211,9 @@ In order for a snowglobe to reveal its magic, it needs to be shook. In this way 
 The snowglobes have a very interesting and not well known emergence story to them. They were invented by accident by Edwin Perzy, who tried to improve a lightbulb by putting a glass dish filled with semolina in fron of it. The idea did not work out, but Perzy was mesmerized by the slow movement of semolina in the dish–it reminded him of movement of a snowfall in his beloved city of Vienna.
 In 1900, Erwin Perzy created the first snow globe, with snow made from ground rice. His patent was titled “Glass Globe With Snow Effect.” Today, his grandson, Edwin Perzy III, still runs a snow globe museum in Vienna.
 
-Other sources suggest that actually the globes might have existed earlier, not necessarily to Perzy's knowledge. The first record of a snowglobe's appearance can be found in descriptions of 1894 Paris Conference.
+Other sources suggest that actually the globes might have existed earlier, not necessarily to Perzy's knowledge. The first record of a snowglobe's appearance can be found in descriptions of 1889 Exposition Universelle (world's fair), where the piece was introduced as a souvenir by the famous postcard editors Léon & Levy.
+
+![](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/mention.png)
 
 Below a short timeline of the history of snowglobes is presented.
 
@@ -219,15 +221,21 @@ Below a short timeline of the history of snowglobes is presented.
 
 **1920s** - Start of production of snowglobes in Perzy's workshop.
 
+|![](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/edwin.jpg "Edwin Perzy")| ![](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/place.jpg "the Basilica of Mariazell")| ![](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/firstsnowglobe.jpg "First snowglobe made by Perzy presenting a basilica in his town")
+|--|--|--|
+| Example of a snowglobe being shaken by hand | Example on an online model trying to mimic the physics of a snowglobe | First snowglobe made by Perzy presenting a basilica in his town
+
 **1940s** - Snowglobes appear in mainstream movies, firstly Kitty Foyle (1940). later in Citizen K (1941) and gain popularity on wider, non-elitist market.
+
+|![](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/kittyposter.jpg "Poster of Kitty Foyle")| ![](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/citizenposter.jpg "Poster of Citizen K)
+|--|--|
+|![](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/kitty.gif "Kitty Foyle")| ![](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/citizen.gf "Citizen K)
+| Poster and scene featuring a snowglobe in 'Kitty Foyle' | Poster and scene featuring a snowglobe in 'Citizen K'
 
 **1950s** - As many other products in the 1950s, snowglobes go through a switch to plastic-based production, which dramatically decreases their prices, making them available to almost anyone interested.
 
 **1980s** - Snowglobe becomes a symbol of gift and souvenir industry.
 
-|![handshake](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/handshake.gif "Example of a hand shaking a snowglobe")|![3Dshake](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/onlineshake.gif "Example of an online snowglobe")|
-|--|--|
-| Example of a snowglobe being shaken by hand | Example on an online model trying to mimic the physics of a snowglobe |
 
 For further information I highly recommend reading this [extensive article by Mental Floss on history of Snow Globes](https://github.com/ada-popovic/markdown_archive/blob/master/research/pdf/HistorySnowGlobes.pdf "Extensive article by Mental Floss on history of Snow Globes")
 
