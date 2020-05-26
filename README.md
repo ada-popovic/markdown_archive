@@ -642,7 +642,7 @@ After the lights started working I needed to finalise my music choices. The musi
 
 **Final Result**
 
-| [![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/vimeo.jpg)](https://vimeo.com/422642920) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/lightchange.gif) 
+| [![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/vimeo.jpg)](https://vimeo.com/422642920) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/lightchange.gif)
 |--|--|
 | final result of the code and screen based control of music and snow | changing light visible in the final *Wunderkammer* |
 
@@ -766,8 +766,6 @@ I have added the nouns as a < span > element in the html so that their replaceme
 | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/span1.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/span2.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/span3.jpg)  |
 |--|--|--|
 
-
-
 Apart from the basic sentence randomisation I was thinking about adding categories for each sentence such as:
 
 - love
@@ -777,18 +775,33 @@ Apart from the basic sentence randomisation I was thinking about adding categori
 - friendship
 
 In this way each sentence would give an advice for a specific life domain of the user.
+In the end I resigned from this idea.
+
+In order for the final result to fit the overall visual identity and be visible in the environment of the Wunderkammer I added a function that randomises the font colour of the divination, drawing attention to specific changing words.
+
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/color1.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/color2.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/color3.jpg)  |
+|--|--|--|
+| colour set example 1 | colour set example 2 | colour set example 3 |
 
 **Final Result**
 
-[Divination Generator](https://ada-popovic.github.io/markdown_archive/T5/Divination_Generator)
+| [Divination Generator](https://ada-popovic.github.io/markdown_archive/T5/Divination_Generator)
+|--|
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/final shake.gif)  |
+| shaking event works only on Android, on iOS the website needs to be refreshed manually |
 
 ## Reflection
-During this semester I was planning to make quite a lot of physical, analogue projects next to my coding-related endeavours. Unfortunately, because of COVID-19 crisis, we were forced to present the outcomes in a digital way, which influenced my decision process for majority of transcodings.
+During this semester I was planning to make quite a lot of physical, analogue projects next to my coding-related endeavours. Unfortunately, because of COVID-19 crisis, we were forced to present the outcomes in a digital way, which influenced my decision process for majority of transcodings. However, at the very end I decided to come back to an analogue outcome idea.
 
 ## Outcome
 Looking at all the visual results of my experiments, I noticed that all of them share one trait - certain strangeness, magicality, detachment from reality. I decided that the most fitting format to contain all of the transcodings would be a Wunderkammer, especially considering how the gems of Marx's collection at IISG are stored - in a glass display box, very reminiscent of a Cabinet of Curiosities.
 
-I needed to store the three finalised transcodings.
+The final *Wunderkammer von gestern?!* contains all three finalised transcodings and is altogether an interactive audio-visual installation controlled by one person moving the slider of snow movement (Transcoding 3) and another person shaking the phone to produce new divinations (Transcoding 5).
+
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/originaldisplay.png) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/lightchange.gif)
+|--|--|
+| Display of most precious elements of collection on Karl Marx at the IISG | *Wunderkammer von gestern?!* |
+
 
 
 
@@ -800,6 +813,8 @@ I needed to store the three finalised transcodings.
 
 
 ## Conclusion
+
+was fun!!!
 
 
 ## Bibliography
