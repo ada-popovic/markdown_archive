@@ -305,8 +305,8 @@ Friedrich Engels was born on November 28, 1820 in Barmen, Rhine province, Prussi
 
 Apart from the *Snowglobe With Marx And Engels*, other untypical objects connected to the German philosopher can be found in the IISG archive, of which a selection is presented below.
 
-|![object1](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/object1.jpg)|![object2](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/object2.jpg)|![object3](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/object3.jpg)|![object4](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/object4.jpg)|
-|--|--|--|--|
+|![object1](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/object1.jpg)|![object2](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/object2.jpg)|![object3](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/object3.jpg)|
+|--|--|--|
 
 Seeing the mentioned *Snowglobe* next to these objects, we cannot help, but notice that they are not primarily objects of preservation, but rather of mockery.
 
