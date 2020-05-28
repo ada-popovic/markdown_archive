@@ -312,7 +312,7 @@ Seeing the mentioned *Snowglobe* next to these objects, we cannot help, but noti
 
 In the modern age, after the fall of USSR, we are experiencing a new approach to the icons of communism, especially in post-soviet countries. Dictators (Stalin), leaders (Lenin) or idealists (Marx) are commodified and turned into symbols, often ending up as a low quality T-shirt print or edgy cup available online or next to major tourist attraction from Warsaw to Budapest.
 
-|![stalin matches](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/stalinmatches.gif)|![hot stalin](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/hotstalin.jpg)|![t-shirt stalin](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/tshirtstalin.jpg)|
+|![stalin matches](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/stalinmatches.gif)|![hot stalin](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/tshirtstalin.jpg)|![t-shirt stalin](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/hotstalin.jpg)|
 |--|--|--|
 
 
