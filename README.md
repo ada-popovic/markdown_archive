@@ -636,7 +636,7 @@ After the lights started working I needed to finalise my music choices. The musi
 | code regulating the light (ulpoaded to Arduino) | code regulating the music (Processing) | controlling the slider from the laptop
 
 | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/arduino.gif) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/oscillo.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/cables.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/arduino1.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/cables.jpeg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/cables2.jpeg) |
-|--|--|--|--|--|
+|--|--|--|--|--|--|
 | Arduino connected to the installation | connecting cables to leds | oscilloscope in use | part of the code controlling the light | installation overview | installation overview II
 
 
