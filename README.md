@@ -779,9 +779,9 @@ In the end I resigned from this idea.
 
 In order for the final result to fit the overall visual identity and be visible in the environment of the Wunderkammer I added a function that randomises the font colour of the divination, drawing attention to specific changing words.
 
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/color1.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/color2.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/color3.jpg)  |
-|--|--|--|
-| colour set example 1 | colour set example 2 | colour set example 3 |
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/shake1.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/shake2.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/shake3.jpg)  | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/finalshake.gif)  |
+|--|--|--|--|
+| colour set example 1 | colour set example 2 | colour set example 3 | shaking event
 
 **Final Result**
 
