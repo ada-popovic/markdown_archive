@@ -473,9 +473,9 @@ The last step of the process was putting the 3D printed figurines in different p
 
 ### Final Result
 
-|![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/finalT1FINAL.jpg )| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/T1FINAL2.jpg )
-|--|--|
-|  *Final result* | *Detail* |   
+|![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/display.jpg )| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/detail1.jpg ) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/detail2.jpg ) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/detail3.jpg )
+|--|--|--|--|
+|  *Final result* | *Detail 1* | *Detail 2* | *Detail 3* |   
 
 ### Transcoding No. 2
 
@@ -631,13 +631,13 @@ After the lights started working I needed to finalise my music choices. The musi
 |--|--|--|--|
 |[soundtrack from *Nanny McPhee*](https://github.com/ada-popovic/markdown_archive/blob/master/T3/snow_slider/data/nanny.mp3)|[Christmas soundtrack from *Harry Potter*](https://github.com/ada-popovic/markdown_archive/blob/master/T3/snow_slider/data/harry.mp3)|[Coca-Cola's Christmas advertisement music](https://github.com/ada-popovic/markdown_archive/blob/master/T3/snow_slider/data/cola.mp3)|[recorded sound of a blizzard](https://github.com/ada-popovic/markdown_archive/blob/master/T3/snow_slider/data/blizzard.mp3)|
 
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/code2.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/code1.jpg)
-|--|--|
-| Adding music to the code | part of code regulating the music
-
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/arduino.gif) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/oscillo.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/cables.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/arduino1.jpg) |
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/arduinocode.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/code1.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/control.gif)
 |--|--|--|
-| Arduino connected to the installation | connecting cables to leds | oscilloscope in use | part of the code controlling the light
+| code regulating the light (ulpoaded to Arduino) | code regulating the music (Processing) | controlling the slider from the laptop
+
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/arduino.gif) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/oscillo.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/cables.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/arduino1.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/cables.jpeg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/cables2.jpeg) |
+|--|--|--|--|--|
+| Arduino connected to the installation | connecting cables to leds | oscilloscope in use | part of the code controlling the light | installation overview | installation overview II
 
 
 **Final Result**
@@ -779,7 +779,7 @@ In the end I resigned from this idea.
 
 In order for the final result to fit the overall visual identity and be visible in the environment of the Wunderkammer I added a function that randomises the font colour of the divination, drawing attention to specific changing words.
 
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/shake1.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/shake2.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/shake3.jpg) |
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/shake2.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/shake1.jpg) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/shake3.jpg) |
 |--|--|--|
 | colour set example 1 | colour set example 2 | colour set example 3 |
 
@@ -790,7 +790,7 @@ In order for the final result to fit the overall visual identity and be visible 
 
 | [Divination Generator](https://ada-popovic.github.io/markdown_archive/T5/Divination_Generator)
 |--|
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/final shake.gif)  |
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/finalshake.gif)  |
 | shaking event works only on Android, on iOS the website needs to be refreshed manually |
 
 ## Reflection
@@ -801,9 +801,9 @@ Looking at all the visual results of my experiments, I noticed that all of them 
 
 The final *Wunderkammer von gestern?!* contains all three finalised transcodings and is altogether an interactive audio-visual installation controlled by one person moving the slider of snow movement (Transcoding 3) and another person shaking the phone to produce new divinations (Transcoding 5).
 
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/originaldisplay.png) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/lightchange.gif)
-|--|--|
-| Display of most precious elements of collection on Karl Marx at the IISG | *Wunderkammer von gestern?!* |
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/originaldisplay.png) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/lightchange.gif) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T3/images/cabinetdetail.jpg)
+|--|--|--|
+| Display of most precious elements of collection on Karl Marx at the IISG | *Wunderkammer von gestern?!* | Cabinet detail
 
 
 
