@@ -107,7 +107,7 @@ Thanks to global warming, naturally occuring snow is a vision gradually more and
 
 The warmer countries around equator, without any mountains are the ones least likely to experience snow. Of course, with global warming and all the glaciers melting, the number of countries without snow will gradually grow larger. For example, there used to be a small ski area called Chacaltaya on a tall mountain in Bolivia, but that ski area has already closed permanently because of lack of snow.
 
-|<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/temperature.gif" title ="Air temperature" width="100%"/>|<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/snowseasons.gif" title ="Snow seasons" width="100%"/>|<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/density.png" title ="Density of snow" width="100%"/>|
+|<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/temperature.gif" title ="Air temperature" width="100%"/>|<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/snowseasons.gif" title ="Snow seasons" width="100%"/>|<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/density.jpg" title ="Density of snow" width="100%"/>|
 |--|--|--|
 |Air temperature|Snow seasons|Density of snow|
 
@@ -150,7 +150,7 @@ Every snowglobe consists of the following layers:
 
 |<img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/penguinglobe.jpg" title ="Penguin" width="30%"/>|  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/glitterglobe.jpg" title ="Glitter" width="30%"/>|  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/mars.gif" title ="Mars" width="30%"/>|
 |--|--|--|
-|  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/loveglobe.jpg" title ="Love" width="30%"/>|  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/honeyglobe.jpg" title ="Honey" width="30%"/>|  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/halloweenglobe.png" title ="Halloween" width="30%"/>|
+|  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/loveglobe.jpg" title ="Love" width="30%"/>|  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/honeyglobe.jpg" title ="Honey" width="30%"/>|  <img src="https://github.com/ada-popovic/markdown_archive/blob/master/research/images/halloweenglobe.jpg" title ="Halloween" width="30%"/>|
 
 
 
@@ -213,7 +213,7 @@ In 1900, Erwin Perzy created the first snow globe, with snow made from ground ri
 
 Other sources suggest that actually the globes might have existed earlier, not necessarily to Perzy's knowledge. The first record of a snowglobe's appearance can be found in descriptions of 1889 Exposition Universelle (world's fair), where the piece was introduced as a souvenir by the famous postcard editors Léon & Levy.
 
-![](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/mention.png)
+![](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/mention.jpg)
 
 Below a short timeline of the history of snowglobes is presented.
 
@@ -295,7 +295,7 @@ Karl Marx was born May 5, 1818 in Trier, Rhine province, Prussia (Germany) and d
 
 Friedrich Engels was born on November 28, 1820 in Barmen, Rhine province, Prussia (Germany) and died pn August 5, 1895 in London, England. He was a German socialist philosopher, the closest collaborator of Karl Marx in the foundation of modern communism. He coauthored The Communist Manifesto (1848), and edited the second and third volumes of Das Kapital after Marx’s death.
 
-| ![Marx and Engels](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/marxengels.jpg "Marx and Engels") | ![The Communist Manifesto](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/communistmanifesto.png "The Communist Manifesto") | ![Das Kapital](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/daskapital.jpg "Das Kapital")
+| ![Marx and Engels](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/marxengels.jpg "Marx and Engels") | ![The Communist Manifesto](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/communistmanifesto.jpg "The Communist Manifesto") | ![Das Kapital](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/daskapital.jpg "Das Kapital")
 |--|--|--|
 | Picture of Karl Marx and Friedrich Engels together | [Communist Manifesto by Karl Marx and Friedrich Engels](https://github.com/ada-popovic/markdown_archive/blob/master/research/pdf/CommunistManifesto.pdf "Communist Manifesto by Karl Marx and Friedrich Engels") | [Das Kapital by Karl Marx](https://github.com/ada-popovic/markdown_archive/blob/master/research/pdf/DasKapital.pdf "Das Kapital by Karl Marx")
 
