@@ -783,9 +783,6 @@ In order for the final result to fit the overall visual identity and be visible 
 |--|--|--|
 | colour set example 1 | colour set example 2 | colour set example 3 |
 
-| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T5/images/finalshake.gif) |
-|--|
-
 **Final Result**
 
 | [Divination Generator](https://ada-popovic.github.io/markdown_archive/T5/Divination_Generator)
