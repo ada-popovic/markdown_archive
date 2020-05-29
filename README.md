@@ -338,7 +338,7 @@ However, it is specifically Marx that we see in there, so a few possibly over-in
   - Marx was once a person of serious hope, idealist, a **real** person, later turned into an ideological icon by bad propaganda (positioned next to Lenin, Stalin etc), an icon that never really existed:
       - *Marx as the one who offered salvation to proletariat*
       - *Marx as the prophet*
-      ![Marx next to Lenin](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/badpropaganda.png width="60%")
+      ![Marx next to Lenin](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/badpropaganda.png)
 
 3. Commodification of marxism especially in post-soviet countries (edgy souvenirs) is parallel to commodification of a snow globe (valued memorabilia → cheap tchotchke)
 
