@@ -318,7 +318,7 @@ In the modern age, after the fall of USSR, we are experiencing a new approach to
 
 There are however some objects which pose a certain difficulty in judging their intended use. This snowglobe with an image of Stalin from Stalin Museum in Georgia looks like a cheao souvenir, but there is a chance it was an actual dear reminder of the beloved leader kept safely at home by his admirers.
 
-![georgiastalin](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/stalinglobe.jpg width="60%")
+![georgiastalin](https://github.com/ada-popovic/markdown_archive/blob/master/research/images/stalinglobe.jpg)
 
 **The Face In A globe**
 
