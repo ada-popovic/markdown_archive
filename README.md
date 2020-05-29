@@ -450,7 +450,7 @@ For the printing I used a the [Anycubic Photon S – UV Resin DLP 3D Printer](ht
 |*Positioning the figures on the digital board inside the software of the printer* | | |
 
 
-| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/slicing.gif"| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/layer.jpg"/> ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/finished.jpg )|
+| <img src="https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/slicing.gif"/> | <img src="https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/layer.jpg"/> ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/finished.jpg )|
 |--|--|
 |  *Slicing through layers of the to-be-printed model in the software of the 3D printer* | *Progression of the print displayed on the screen and alert about the print being finished (it took 1 hour and 21 minutes to print)*
 
