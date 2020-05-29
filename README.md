@@ -441,9 +441,13 @@ In order to represent the figure of Marx in its most reductive way and be able t
 
 For the printing I used a the [Anycubic Photon S – UV Resin DLP 3D Printer](https://www.elektor.nl/anycubic-photon-s-uv-resin-dlp-3d-printer). It is a printer that uses UV-reactive resin, which as the printing progresses, solidifies. That kind of printing allows for a significantly more detailed print.
 
-|<img src="https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/printer.jpg" width="50%" />| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/board1.PNG ) ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/board2.PNG ) ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/board3.PNG )
-|--|--|
-| *Anycubic Photon S – UV Resin DLP 3D Printer* | *Positioning the figures on the digital board inside the software of the printer* |
+|<img src="https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/printer.jpg" width="50%" />|
+|--|
+| *Anycubic Photon S – UV Resin DLP 3D Printer* |
+
+| ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/board1.jpg ) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/board2.jpg ) | ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/board3.jpg ) |
+|--|--|--|
+|*Positioning the figures on the digital board inside the software of the printer* | | |
 
 
 | <img src="https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/slicing.gif" width="60%" /> | <img src="https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/layer.jpg" width="40%" title ="Progression of the print displayed on the screen" /> ![](https://github.com/ada-popovic/markdown_archive/blob/master/T1/images/finished.jpg )|
@@ -573,7 +577,7 @@ List of misinterpretations:
 
 **Description**
 
-In the near future the word *snow* might become an anachronism. As global warming progresses, snow is more and more of a rare sight. And without its natural occurence, its relatability is lost. Phenomena like TV static/snow, visual snow syndrome or 'yesterday's snow' would be named differently if snow did not exist anymore. Depending on the intensity of snow, we attach differemnt emotional associations to it as listed below:
+In the near future the word *snow* might become an anachronism. As global warming progresses, snow is more and more of a rare sight. And without its natural occurence, its relatability is lost. Phenomena like TV static/snow, visual snow syndrome or 'yesterday's snow' would be named differently if snow did not exist anymore. Depending on the intensity of snow, we attach different emotional associations to it as listed below:
 
 1. SLOW SNOW
 2. or MEDIUM SNOW
